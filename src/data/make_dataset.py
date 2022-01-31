@@ -33,19 +33,37 @@ import requests
 from bs4 import BeautifulSoup
 
 
-def get_rankings_data(year, month, test_teams):
+def download_rankings_data(year_start, year_end, outdir="../../data/raw/"):
 
-    test_team_data = {}
-
-    # access the data
     baseurl = (
         "https://web.archive.org/web/20130320093711/"
         + "http://www.icc-cricket.com/match_zone/test_ranking.php?year="
     )
-    url = baseurl + str(year)
-    data_page = requests.get(url)
 
-    soup = BeautifulSoup(data_page.content, "html.parser")
+    for year in range(year_start, year_end + 1):
+        print("downloading rankings data for year ", year)
+        url = baseurl + str(year)
+        data_page = requests.get(url)
+        soup = BeautifulSoup(data_page.content, "html.parser")
+        soup.prettify()
+        fname = "".join([outdir, "rankings_data_", str(year), ".html"])
+        with open(fname, "w") as f:
+            f.write(str(soup))
+
+    return
+
+
+def get_rankings_data(year, month, datadir="../../data/raw/"):
+
+    team_names = {}
+    team_rankings = {}
+    team_ratings = {}
+    
+    fname = "".join([datadir, "rankings_data_", str(year), ".html"])
+
+    with open(fname, "r") as f:
+        soup = BeautifulSoup(f.read(), "html.parser")
+
     for x in soup.find_all("a"):
         if x.get("name") == month:
             break
@@ -83,7 +101,13 @@ test_teams = [
     "South Africa",
     "Zimbabwe",
 ]
-year = 2012
+year = 2004
 month = "MAY"
 
-print(get_rankings_data(year, month, test_teams))
+print(get_rankings_data(year, month))
+
+start_year = 2004
+end_year = 2006
+
+
+# download_rankings_data(start_year, end_year)
