@@ -31,7 +31,8 @@
 
 import requests
 from bs4 import BeautifulSoup
-
+import pandas as pd
+import os
 
 def download_rankings_data(year_start, year_end, outdir="../../data/raw/"):
 
@@ -52,13 +53,23 @@ def download_rankings_data(year_start, year_end, outdir="../../data/raw/"):
 
     return
 
+def dfs_to_csv(year_start, year_end, outdir="../../data/processed", outfile="rankings_data.csv"):
+
+    month_list = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY","JUNE","JULY","AUGUST","SEPTEMBER","OCTOBER","NOVEMBER","DECEMBER"]
+    
+    for year in range(year_start, year_end +1 ):
+
+        print(year)
+
+    return
+        
 
 def get_rankings_data(year, month, datadir="../../data/raw/"):
 
     team_names = {}
     team_rankings = {}
     team_ratings = {}
-    
+
     fname = "".join([datadir, "rankings_data_", str(year), ".html"])
 
     with open(fname, "r") as f:
@@ -71,6 +82,9 @@ def get_rankings_data(year, month, datadir="../../data/raw/"):
     table_description = x.next_sibling
     table_content = table_description.next_sibling
 
+    team_list = []
+    rankings_list = []
+    ratings_list = []
     for row in table_content.contents:
         rowtext = row.text
         team = rowtext.strip("0123456789")
@@ -78,14 +92,24 @@ def get_rankings_data(year, month, datadir="../../data/raw/"):
         try:
             rank = int(rowtext[:ranklen])
             rating = float(rowtext[len(rowtext.rstrip("0123456789")) :])
-            test_team_data[team] = (rank, rating)
+            team_list.append(team)
+            rankings_list.append(rank)
+            ratings_list.append(rating)
         except ValueError:
             pass
 
-    #        tail = rowtext[len(head) :]
-    #        print(head, tail)
+    month_list = len(team_list) * [month]
+    year_list = len(team_list) * [year]
+    output_dict = {
+        "team": team_list,
+        "month": month_list,
+        "year": year_list,
+        "ranking": rankings_list,
+        "rating": ratings_list,
+    }
 
-    return test_team_data
+    df = pd.DataFrame(data=output_dict)
+    return df
 
 
 # tests
