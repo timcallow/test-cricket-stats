@@ -34,6 +34,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import os
 
+
 def download_rankings_data(year_start, year_end, outdir="../../data/raw/"):
 
     baseurl = (
@@ -53,22 +54,44 @@ def download_rankings_data(year_start, year_end, outdir="../../data/raw/"):
 
     return
 
-def dfs_to_csv(year_start, year_end, outdir="../../data/processed", outfile="rankings_data.csv"):
 
-    month_list = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY","JUNE","JULY","AUGUST","SEPTEMBER","OCTOBER","NOVEMBER","DECEMBER"]
-    
-    for year in range(year_start, year_end +1 ):
+def dfs_to_csv(
+    year_start, year_end, outdir="../../data/processed/", outfile="rankings_data.csv"
+):
 
-        print(year)
+    month_list = [
+        "JANUARY",
+        "FEBRUARY",
+        "MARCH",
+        "APRIL",
+        "MAY",
+        "JUNE",
+        "JULY",
+        "AUGUST",
+        "SEPTEMBER",
+        "OCTOBER",
+        "NOVEMBER",
+        "DECEMBER",
+    ]
+
+    data_agg = pd.DataFrame()
+
+    for year in range(year_start, year_end + 1):
+
+        for month in month_list:
+
+            try:
+                YM_data = get_rankings_data(year, month)
+                data_agg = data_agg.append(YM_data, ignore_index=True)
+            except AttributeError:
+                pass
+
+    data_agg.to_csv(outdir + outfile)
 
     return
-        
+
 
 def get_rankings_data(year, month, datadir="../../data/raw/"):
-
-    team_names = {}
-    team_rankings = {}
-    team_ratings = {}
 
     fname = "".join([datadir, "rankings_data_", str(year), ".html"])
 
@@ -101,9 +124,9 @@ def get_rankings_data(year, month, datadir="../../data/raw/"):
     month_list = len(team_list) * [month]
     year_list = len(team_list) * [year]
     output_dict = {
-        "team": team_list,
-        "month": month_list,
         "year": year_list,
+        "month": month_list,
+        "team": team_list,
         "ranking": rankings_list,
         "rating": ratings_list,
     }
@@ -128,10 +151,10 @@ test_teams = [
 year = 2004
 month = "MAY"
 
-print(get_rankings_data(year, month))
+# print(get_rankings_data(year, month))
 
-start_year = 2004
-end_year = 2006
+start_year = 2003
+end_year = 2013
 
-
-# download_rankings_data(start_year, end_year)
+download_rankings_data(start_year, end_year)
+dfs_to_csv(start_year, end_year)
