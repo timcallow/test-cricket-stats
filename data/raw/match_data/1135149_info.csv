@@ -1,0 +1,76 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Sri Lanka
+info,gender,male
+info,season,2018
+info,date,2018/06/06
+info,date,2018/06/07
+info,date,2018/06/08
+info,date,2018/06/09
+info,date,2018/06/10
+info,event,Sri Lanka tour of West Indies
+info,match_number,1
+info,venue,"Queen's Park Oval, Port of Spain"
+info,city,Trinidad
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,SO Dowrich
+info,umpire,RA Kettleborough
+info,umpire,Aleem Dar
+info,reserve_umpire,N Duguid
+info,tv_umpire,IJ Gould
+info,match_referee,J Srinath
+info,winner,West Indies
+info,winner_runs,226
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,DS Smith
+info,player,West Indies,KOA Powell
+info,player,West Indies,SD Hope
+info,player,West Indies,RL Chase
+info,player,West Indies,SO Dowrich
+info,player,West Indies,JO Holder
+info,player,West Indies,D Bishoo
+info,player,West Indies,KAJ Roach
+info,player,West Indies,ML Cummins
+info,player,West Indies,ST Gabriel
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,ARS Silva
+info,player,Sri Lanka,PLS Gamage
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,CBRLS Kumara
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,ARS Silva,198798b2
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,DS Smith,85ad2217
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JDF Vandersay,aceb7654
+info,registry,people,JO Holder,0f721006
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,MDK Perera,5531248e
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,ML Cummins,92aa28fe
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,N Duguid,64495506
+info,registry,people,PLS Gamage,08bae9d5
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,ST Gabriel,d9609443

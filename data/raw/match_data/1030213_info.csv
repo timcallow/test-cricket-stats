@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,New Zealand
+info,gender,male
+info,season,2016/17
+info,date,2016/09/22
+info,date,2016/09/23
+info,date,2016/09/24
+info,date,2016/09/25
+info,date,2016/09/26
+info,event,New Zealand in India Test Series
+info,match_number,1
+info,venue,Green Park
+info,city,Kanpur
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,RA Jadeja
+info,umpire,RA Kettleborough
+info,umpire,RJ Tucker
+info,reserve_umpire,CK Nandan
+info,tv_umpire,AK Chaudhary
+info,match_referee,DC Boon
+info,winner,India
+info,winner_runs,197
+info,player,India,KL Rahul
+info,player,India,M Vijay
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RG Sharma
+info,player,India,R Ashwin
+info,player,India,WP Saha
+info,player,India,RA Jadeja
+info,player,India,Mohammed Shami
+info,player,India,UT Yadav
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,L Ronchi
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,MD Craig
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,TA Boult
+info,player,New Zealand,N Wagner
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CK Nandan,012de9c4
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,L Ronchi,0fa5042b
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MD Craig,c8574282
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Wagner,78adc879
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

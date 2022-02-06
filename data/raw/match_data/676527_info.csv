@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,West Indies
+info,gender,male
+info,season,2013/14
+info,date,2013/11/14
+info,date,2013/11/15
+info,date,2013/11/16
+info,event,West Indies in India Test Series
+info,match_number,2
+info,venue,Wankhede Stadium
+info,city,Mumbai
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,PP Ojha
+info,umpire,RA Kettleborough
+info,umpire,NJ Llong
+info,reserve_umpire,PG Pathak
+info,tv_umpire,VA Kulkarni
+info,match_referee,AJ Pycroft
+info,winner,India
+info,winner_innings,1
+info,winner_runs,126
+info,player,India,M Vijay
+info,player,India,S Dhawan
+info,player,India,CA Pujara
+info,player,India,SR Tendulkar
+info,player,India,V Kohli
+info,player,India,RG Sharma
+info,player,India,MS Dhoni
+info,player,India,R Ashwin
+info,player,India,B Kumar
+info,player,India,PP Ojha
+info,player,India,Mohammed Shami
+info,player,West Indies,CH Gayle
+info,player,West Indies,KOA Powell
+info,player,West Indies,DM Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,N Deonarine
+info,player,West Indies,D Ramdin
+info,player,West Indies,DJG Sammy
+info,player,West Indies,S Shillingford
+info,player,West Indies,TL Best
+info,player,West Indies,ST Gabriel
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Deonarine,caf1b14c
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PG Pathak,9f772ec5
+info,registry,people,PP Ojha,6c6591ab
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Dhawan,0a476045
+info,registry,people,S Shillingford,d76b0d2d
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,TL Best,db767b89
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VA Kulkarni,8fe0c4f8

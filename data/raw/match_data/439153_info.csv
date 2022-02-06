@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,male
+info,season,2010
+info,date,2010/06/18
+info,date,2010/06/19
+info,date,2010/06/20
+info,date,2010/06/21
+info,date,2010/06/22
+info,event,South Africa in West Indies Test Series
+info,match_number,2
+info,venue,"Warner Park, Basseterre"
+info,city,St Kitts
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,S Chanderpaul
+info,umpire,Asad Rauf
+info,umpire,SJA Taufel
+info,reserve_umpire,CR Duncan
+info,tv_umpire,SJ Davis
+info,match_referee,JJ Crowe
+info,outcome,draw
+info,player,South Africa,GC Smith
+info,player,South Africa,AN Petersen
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,AG Prince
+info,player,South Africa,MV Boucher
+info,player,South Africa,DW Steyn
+info,player,South Africa,PL Harris
+info,player,South Africa,M Morkel
+info,player,South Africa,LL Tsotsobe
+info,player,West Indies,CH Gayle
+info,player,West Indies,TM Dowlin
+info,player,West Indies,N Deonarine
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,BP Nash
+info,player,West Indies,DJ Bravo
+info,player,West Indies,D Ramdin
+info,player,West Indies,S Shillingford
+info,player,West Indies,SJ Benn
+info,player,West Indies,R Rampaul
+info,player,West Indies,KAJ Roach
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BP Nash,749a1b3a
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CR Duncan,d993c121
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,LL Tsotsobe,12bffe91
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,N Deonarine,caf1b14c
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Shillingford,d76b0d2d
+info,registry,people,SJ Benn,364ee2cf
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,TM Dowlin,24ecc358

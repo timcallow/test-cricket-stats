@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,male
+info,season,2004/05
+info,date,2005/01/02
+info,date,2005/01/03
+info,date,2005/01/04
+info,date,2005/01/05
+info,date,2005/01/06
+info,event,England tour of South Africa
+info,match_number,3
+info,venue,Newlands
+info,city,Cape Town
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,JH Kallis
+info,umpire,DJ Harper
+info,umpire,SA Bucknor
+info,tv_umpire,BG Jerling
+info,match_referee,CH Lloyd
+info,winner,South Africa
+info,winner_runs,196
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,JA Rudolph
+info,player,South Africa,JH Kallis
+info,player,South Africa,HH Dippenaar
+info,player,South Africa,HM Amla
+info,player,South Africa,N Boje
+info,player,South Africa,AB de Villiers
+info,player,South Africa,SM Pollock
+info,player,South Africa,M Ntini
+info,player,South Africa,CK Langeveldt
+info,player,England,ME Trescothick
+info,player,England,AJ Strauss
+info,player,England,RWT Key
+info,player,England,MP Vaughan
+info,player,England,GP Thorpe
+info,player,England,A Flintoff
+info,player,England,MJ Hoggard
+info,player,England,GO Jones
+info,player,England,AF Giles
+info,player,England,SP Jones
+info,player,England,SJ Harmison
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AF Giles,a4af4849
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,BG Jerling,26457e41
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CK Langeveldt,d1c94b25
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,GC Smith,72861603
+info,registry,people,GO Jones,2e929b99
+info,registry,people,GP Thorpe,53fcbbfb
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HM Amla,e798611a
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,M Ntini,20a941bb
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,N Boje,6a0537aa
+info,registry,people,RWT Key,bcb01d8c
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,SP Jones,207c4398

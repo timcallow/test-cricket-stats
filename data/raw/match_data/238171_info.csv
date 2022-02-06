@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Australia
+info,gender,male
+info,season,2005/06
+info,date,2006/04/09
+info,date,2006/04/10
+info,date,2006/04/11
+info,date,2006/04/12
+info,date,2006/04/13
+info,event,Australia tour of Bangladesh
+info,match_number,1
+info,venue,Khan Shaheb Osman Ali Stadium
+info,city,Fatullah
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,AC Gilchrist
+info,umpire,Aleem Dar
+info,umpire,Nadeem Ghauri
+info,tv_umpire,AFM Akhtaruddin
+info,match_referee,JJ Crowe
+info,winner,Australia
+info,winner_wickets,3
+info,player,Bangladesh,Javed Omar
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Rajin Saleh
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Aftab Ahmed
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Mashrafe Mortaza
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Enamul Haque jnr
+info,player,Australia,ML Hayden
+info,player,Australia,MEK Hussey
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,MJ Clarke
+info,player,Australia,AC Gilchrist
+info,player,Australia,SK Warne
+info,player,Australia,B Lee
+info,player,Australia,JN Gillespie
+info,player,Australia,SR Clark
+info,player,Australia,SCG MacGill
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,AFM Akhtaruddin,b786b38f
+info,registry,people,Aftab Ahmed,53bc7b84
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,DR Martyn,69762509
+info,registry,people,Enamul Haque jnr,0480aba6
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JN Gillespie,74234d66
+info,registry,people,Javed Omar,e15faa51
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,Nadeem Ghauri,8387d138
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,Rajin Saleh,acc321aa
+info,registry,people,SCG MacGill,60dac349
+info,registry,people,SK Warne,bb18be76
+info,registry,people,SR Clark,a3bfec5d
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shahriar Nafees,b9c225c2

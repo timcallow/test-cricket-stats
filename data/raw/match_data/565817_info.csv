@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,New Zealand
+info,gender,male
+info,season,2012
+info,date,2012/08/23
+info,date,2012/08/24
+info,date,2012/08/25
+info,date,2012/08/26
+info,event,New Zealand in India Test Series
+info,match_number,1
+info,venue,"Rajiv Gandhi International Stadium, Uppal"
+info,city,Hyderabad
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,R Ashwin
+info,umpire,SJ Davis
+info,umpire,IJ Gould
+info,reserve_umpire,C Shamshuddin
+info,tv_umpire,VA Kulkarni
+info,match_referee,BC Broad
+info,winner,India
+info,winner_innings,1
+info,winner_runs,115
+info,player,India,G Gambhir
+info,player,India,V Sehwag
+info,player,India,CA Pujara
+info,player,India,SR Tendulkar
+info,player,India,V Kohli
+info,player,India,SK Raina
+info,player,India,MS Dhoni
+info,player,India,R Ashwin
+info,player,India,Z Khan
+info,player,India,PP Ojha
+info,player,India,UT Yadav
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,DR Flynn
+info,player,New Zealand,JEC Franklin
+info,player,New Zealand,CFK van Wyk
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,JS Patel
+info,player,New Zealand,TA Boult
+info,player,New Zealand,CS Martin
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,C Shamshuddin,0f9d921b
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CFK van Wyk,24fd039c
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,JS Patel,f5821615
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,PP Ojha,6c6591ab
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,TA Boult,a818c1be
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VA Kulkarni,8fe0c4f8
+info,registry,people,Z Khan,91a4a398

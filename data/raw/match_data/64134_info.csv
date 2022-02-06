@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,New Zealand
+info,gender,male
+info,season,2004/05
+info,date,2005/04/11
+info,date,2005/04/12
+info,date,2005/04/13
+info,date,2005/04/14
+info,event,Sri Lanka tour of New Zealand
+info,match_number,2
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,L Vincent
+info,umpire,DB Hair
+info,umpire,SA Bucknor
+info,tv_umpire,AL Hill
+info,match_referee,MJ Procter
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,38
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,MF Maharoof
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,S Kalavitigoda
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,UDU Chandana
+info,player,Sri Lanka,SL Malinga
+info,player,New Zealand,CD Cumming
+info,player,New Zealand,JAH Marshall
+info,player,New Zealand,HJH Marshall
+info,player,New Zealand,L Vincent
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,JEC Franklin
+info,player,New Zealand,KD Mills
+info,player,New Zealand,PJ Wiseman
+info,player,New Zealand,CS Martin
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CD Cumming,463cd7cb
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,HJH Marshall,70542bef
+info,registry,people,JAH Marshall,fdac5295
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,JM How,fd8f11e9
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KD Mills,7fb32e5b
+info,registry,people,L Vincent,2764133a
+info,registry,people,MF Maharoof,ab89348d
+info,registry,people,MJ Procter,32e65048
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,NJ Astle,99639abf
+info,registry,people,PJ Wiseman,f39866f1
+info,registry,people,S Kalavitigoda,0acc34fe
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SL Malinga,a12e1d51
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,UDU Chandana,434e36b1
+info,registry,people,WPUJC Vaas,bcce309e

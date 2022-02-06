@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Pakistan
+info,gender,male
+info,season,2010
+info,date,2010/07/13
+info,date,2010/07/14
+info,date,2010/07/15
+info,date,2010/07/16
+info,event,MCC Spirit of Cricket Test Series
+info,match_number,1
+info,venue,Lord's
+info,city,London
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,SM Katich
+info,player_of_match,Salman Butt
+info,umpire,IJ Gould
+info,umpire,RE Koertzen
+info,reserve_umpire,Nadeem Ghauri
+info,tv_umpire,Ahsan Raza
+info,match_referee,BC Broad
+info,winner,Australia
+info,winner_runs,150
+info,player,Australia,SR Watson
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ North
+info,player,Australia,TD Paine
+info,player,Australia,SPD Smith
+info,player,Australia,MG Johnson
+info,player,Australia,BW Hilfenhaus
+info,player,Australia,DE Bollinger
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Umar Amin
+info,player,Pakistan,Umar Akmal
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Shahid Afridi
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Danish Kaneria
+info,player,Pakistan,Mohammad Asif
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BW Hilfenhaus,f3171936
+info,registry,people,DE Bollinger,45c2196c
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ North,99464591
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Nadeem Ghauri,8387d138
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Shahid Afridi,0dc00542
+info,registry,people,TD Paine,5748e866
+info,registry,people,Umar Akmal,fd2bf2a0
+info,registry,people,Umar Amin,3029e282
+info,registry,people,Umar Gul,16dfcc19

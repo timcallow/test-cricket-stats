@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,male
+info,season,2012
+info,date,2012/06/07
+info,date,2012/06/08
+info,date,2012/06/09
+info,date,2012/06/10
+info,date,2012/06/11
+info,event,The Wisden Trophy
+info,match_number,3
+info,venue,Edgbaston
+info,city,Birmingham
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,TL Best
+info,umpire,HDPK Dharmasena
+info,umpire,AL Hill
+info,reserve_umpire,DJ Millns
+info,tv_umpire,Aleem Dar
+info,match_referee,RS Mahanama
+info,outcome,draw
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,JM Bairstow
+info,player,England,ST Finn
+info,player,England,MJ Prior
+info,player,England,TT Bresnan
+info,player,England,GP Swann
+info,player,England,G Onions
+info,player,West Indies,AB Barath
+info,player,West Indies,KOA Powell
+info,player,West Indies,AB Fudadin
+info,player,West Indies,DM Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,N Deonarine
+info,player,West Indies,D Ramdin
+info,player,West Indies,DJG Sammy
+info,player,West Indies,SP Narine
+info,player,West Indies,R Rampaul
+info,player,West Indies,TL Best
+info,registry,people,AB Barath,d3a3e82d
+info,registry,people,AB Fudadin,875909c0
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AL Hill,4165ced0
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,G Onions,c1f6c27e
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,N Deonarine,caf1b14c
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SP Narine,9d430b40
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,TL Best,db767b89
+info,registry,people,TT Bresnan,58043739

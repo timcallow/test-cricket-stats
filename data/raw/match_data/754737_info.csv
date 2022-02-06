@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,male
+info,season,2014/15
+info,date,2014/12/09
+info,date,2014/12/10
+info,date,2014/12/11
+info,date,2014/12/12
+info,date,2014/12/13
+info,event,Border-Gavaskar Trophy
+info,match_number,1
+info,venue,Adelaide Oval
+info,city,
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,NM Lyon
+info,umpire,M Erasmus
+info,umpire,IJ Gould
+info,reserve_umpire,GC Joshua
+info,tv_umpire,MD Martell
+info,match_referee,JJ Crowe
+info,winner,Australia
+info,winner_runs,48
+info,player,Australia,CJL Rogers
+info,player,Australia,DA Warner
+info,player,Australia,SR Watson
+info,player,Australia,MJ Clarke
+info,player,Australia,SPD Smith
+info,player,Australia,MR Marsh
+info,player,Australia,NM Lyon
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,PM Siddle
+info,player,Australia,RJ Harris
+info,player,India,M Vijay
+info,player,India,S Dhawan
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RG Sharma
+info,player,India,WP Saha
+info,player,India,KV Sharma
+info,player,India,Mohammed Shami
+info,player,India,I Sharma
+info,player,India,VR Aaron
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CJL Rogers,d8360178
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GC Joshua,4c47ebf2
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KV Sharma,119678fd
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MD Martell,487c072e
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Harris,12eddf28
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VR Aaron,0a3d54b9
+info,registry,people,WP Saha,fe11caa6

@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,West Indies
+info,gender,male
+info,season,2009/10
+info,date,2009/12/16
+info,date,2009/12/17
+info,date,2009/12/18
+info,date,2009/12/19
+info,date,2009/12/20
+info,event,The Frank Worrell Trophy
+info,match_number,3
+info,venue,Western Australia Cricket Association Ground
+info,city,Perth
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,CH Gayle
+info,umpire,BF Bowden
+info,umpire,IJ Gould
+info,reserve_umpire,RJ Tucker
+info,tv_umpire,Asad Rauf
+info,match_referee,BC Broad
+info,winner,Australia
+info,winner_runs,35
+info,player,Australia,SR Watson
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,MJ North
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,NM Hauritz
+info,player,Australia,DE Bollinger
+info,player,Australia,CJ McKay
+info,player,West Indies,CH Gayle
+info,player,West Indies,TM Dowlin
+info,player,West Indies,RR Sarwan
+info,player,West Indies,N Deonarine
+info,player,West Indies,BP Nash
+info,player,West Indies,DJ Bravo
+info,player,West Indies,D Ramdin
+info,player,West Indies,SJ Benn
+info,player,West Indies,R Rampaul
+info,player,West Indies,KAJ Roach
+info,player,West Indies,GC Tonge
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BP Nash,749a1b3a
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CJ McKay,94eac556
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DE Bollinger,45c2196c
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,GC Tonge,7d21eb9b
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ North,99464591
+info,registry,people,N Deonarine,caf1b14c
+info,registry,people,NM Hauritz,8ea6e670
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SJ Benn,364ee2cf
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,TM Dowlin,24ecc358
+info,registry,people,TP Doropoulos,d87404b4

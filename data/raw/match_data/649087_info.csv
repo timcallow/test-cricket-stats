@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,South Africa
+info,gender,male
+info,season,2013/14
+info,date,2013/10/14
+info,date,2013/10/15
+info,date,2013/10/16
+info,date,2013/10/17
+info,event,Pakistan v South Africa Test Series
+info,match_number,1
+info,venue,Sheikh Zayed Stadium
+info,city,Abu Dhabi
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,Khurram Manzoor
+info,umpire,PR Reiffel
+info,umpire,RJ Tucker
+info,reserve_umpire,Shozab Raza
+info,tv_umpire,IJ Gould
+info,match_referee,DC Boon
+info,winner,Pakistan
+info,winner_wickets,7
+info,player,Pakistan,Khurram Manzoor
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Adnan Akmal
+info,player,Pakistan,Saeed Ajmal
+info,player,Pakistan,Zulfiqar Babar
+info,player,Pakistan,Junaid Khan
+info,player,Pakistan,Mohammad Irfan
+info,player,South Africa,AN Petersen
+info,player,South Africa,GC Smith
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,JP Duminy
+info,player,South Africa,F du Plessis
+info,player,South Africa,RJ Peterson
+info,player,South Africa,VD Philander
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Morkel
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Adnan Akmal,05da443b
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,Junaid Khan,086f5984
+info,registry,people,Khurram Manzoor,82c78845
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Irfan,a8e3170f
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RJ Peterson,26ff4c29
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,VD Philander,cfe70281
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Zulfiqar Babar,3a0f6df2

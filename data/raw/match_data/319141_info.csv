@@ -1,0 +1,76 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Australia
+info,gender,male
+info,season,2008
+info,date,2008/06/12
+info,date,2008/06/13
+info,date,2008/06/14
+info,date,2008/06/15
+info,date,2008/06/16
+info,event,The Frank Worrell Trophy
+info,match_number,3
+info,venue,"Kensington Oval, Bridgetown"
+info,city,Barbados
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,SM Katich
+info,umpire,Aleem Dar
+info,umpire,MR Benson
+info,reserve_umpire,VV Bullen
+info,tv_umpire,GE Greaves
+info,match_referee,RS Mahanama
+info,winner,Australia
+info,winner_runs,87
+info,player,Australia,PA Jaques
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,A Symonds
+info,player,Australia,BJ Haddin
+info,player,Australia,B Casson
+info,player,Australia,B Lee
+info,player,Australia,MG Johnson
+info,player,Australia,SR Clark
+info,player,West Indies,CH Gayle
+info,player,West Indies,S Chattergoon
+info,player,West Indies,RR Sarwan
+info,player,West Indies,XM Marshall
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DJ Bravo
+info,player,West Indies,D Ramdin
+info,player,West Indies,JE Taylor
+info,player,West Indies,SJ Benn
+info,player,West Indies,DBL Powell
+info,player,West Indies,FH Edwards
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Casson,fc14c2bb
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DBL Powell,83904270
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GE Greaves,7b7cc1ff
+info,registry,people,JE Taylor,4180d897
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MR Benson,790e14d3
+info,registry,people,PA Jaques,03252e44
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RS Morton,2f8a9682
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Chattergoon,122108d8
+info,registry,people,SJ Benn,364ee2cf
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Clark,a3bfec5d
+info,registry,people,VV Bullen,25f8ce1d
+info,registry,people,XM Marshall,ffb504b1

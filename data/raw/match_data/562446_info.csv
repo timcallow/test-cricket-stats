@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2012
+info,date,2012/07/08
+info,date,2012/07/09
+info,date,2012/07/10
+info,date,2012/07/11
+info,date,2012/07/12
+info,event,Pakistan in Sri Lanka Test Series
+info,match_number,3
+info,venue,Pallekele International Cricket Stadium
+info,city,
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,Asad Shafiq
+info,umpire,SJ Davis
+info,umpire,SJA Taufel
+info,reserve_umpire,RR Wimalasiri
+info,tv_umpire,REJ Martinesz
+info,match_referee,DC Boon
+info,outcome,draw
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Adnan Akmal
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Saeed Ajmal
+info,player,Pakistan,Junaid Khan
+info,player,Sri Lanka,NT Paranavitana
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,NLTC Perera
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,CRD Fernando
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Adnan Akmal,05da443b
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,Junaid Khan,086f5984
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,NT Paranavitana,200f2761
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Younis Khan,33cb3411

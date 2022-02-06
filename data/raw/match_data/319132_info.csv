@@ -1,0 +1,76 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Sri Lanka
+info,gender,male
+info,season,2007/08
+info,date,2008/03/22
+info,date,2008/03/23
+info,date,2008/03/24
+info,date,2008/03/25
+info,date,2008/03/26
+info,event,Sri Lanka in West Indies Test Series
+info,match_number,1
+info,venue,Providence Stadium
+info,city,Guyana
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,WPUJC Vaas
+info,umpire,BF Bowden
+info,umpire,SJA Taufel
+info,reserve_umpire,GE Greaves
+info,tv_umpire,CR Duncan
+info,match_referee,BC Broad
+info,winner,Sri Lanka
+info,winner_runs,121
+info,player,Sri Lanka,MG Vandort
+info,player,Sri Lanka,SM Warnapura
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,T Thushara
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,M Muralitharan
+info,player,West Indies,CH Gayle
+info,player,West Indies,DS Smith
+info,player,West Indies,RR Sarwan
+info,player,West Indies,MN Samuels
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DJ Bravo
+info,player,West Indies,RO Hinds
+info,player,West Indies,D Ramdin
+info,player,West Indies,SJ Benn
+info,player,West Indies,JE Taylor
+info,player,West Indies,DBL Powell
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CR Duncan,d993c121
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DBL Powell,83904270
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DS Smith,85ad2217
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GE Greaves,7b7cc1ff
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,JE Taylor,4180d897
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MG Vandort,49fa1236
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,RO Hinds,d5afc103
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SJ Benn,364ee2cf
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SM Warnapura,add57f1f
+info,registry,people,T Thushara,b2ae53f5
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TM Dowlin,24ecc358
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,WPUJC Vaas,bcce309e

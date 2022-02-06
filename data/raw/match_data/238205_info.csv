@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,New Zealand
+info,gender,male
+info,season,2005/06
+info,date,2006/04/15
+info,date,2006/04/16
+info,date,2006/04/17
+info,date,2006/04/18
+info,date,2006/04/19
+info,event,New Zealand tour of South Africa
+info,match_number,1
+info,venue,SuperSport Park
+info,city,Centurion
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,M Ntini
+info,umpire,MR Benson
+info,umpire,DJ Harper
+info,tv_umpire,M Erasmus
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_runs,128
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,HH Dippenaar
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,AB de Villiers
+info,player,South Africa,MV Boucher
+info,player,South Africa,SM Pollock
+info,player,South Africa,N Boje
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Ntini
+info,player,New Zealand,HJH Marshall
+info,player,New Zealand,PG Fulton
+info,player,New Zealand,KD Mills
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,SB Styris
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,JEC Franklin
+info,player,New Zealand,CS Martin
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HJH Marshall,70542bef
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,KD Mills,7fb32e5b
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MR Benson,790e14d3
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,N Boje,6a0537aa
+info,registry,people,NJ Astle,99639abf
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,SP Fleming,eea6b7f1

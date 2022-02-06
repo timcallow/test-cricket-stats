@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,male
+info,season,2004/05
+info,date,2004/11/26
+info,date,2004/11/27
+info,date,2004/11/28
+info,date,2004/11/29
+info,date,2004/11/30
+info,event,New Zealand tour of Australia
+info,match_number,2
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,JL Langer
+info,umpire,DR Shepherd
+info,umpire,SA Bucknor
+info,tv_umpire,SJ Davis
+info,match_referee,MJ Procter
+info,winner,Australia
+info,winner_runs,213
+info,player,Australia,JL Langer
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,DS Lehmann
+info,player,Australia,MJ Clarke
+info,player,Australia,AC Gilchrist
+info,player,Australia,SK Warne
+info,player,Australia,JN Gillespie
+info,player,Australia,MS Kasprowicz
+info,player,Australia,GD McGrath
+info,player,New Zealand,MH Richardson
+info,player,New Zealand,MS Sinclair
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,PJ Wiseman
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,JEC Franklin
+info,player,New Zealand,SB Styris
+info,player,New Zealand,CS Martin
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Martyn,69762509
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,DS Lehmann,53fe6ee4
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,JL Langer,94198ef4
+info,registry,people,JN Gillespie,74234d66
+info,registry,people,MH Richardson,48322f1f
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Procter,32e65048
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MS Kasprowicz,8d0ea930
+info,registry,people,MS Sinclair,1b668884
+info,registry,people,NJ Astle,99639abf
+info,registry,people,PJ Wiseman,f39866f1
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SK Warne,bb18be76
+info,registry,people,SP Fleming,eea6b7f1

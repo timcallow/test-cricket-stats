@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,India
+info,gender,male
+info,season,2005/06
+info,date,2006/01/21
+info,date,2006/01/22
+info,date,2006/01/23
+info,date,2006/01/24
+info,date,2006/01/25
+info,event,India tour of Pakistan
+info,match_number,2
+info,venue,Iqbal Stadium
+info,city,Faisalabad
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,RP Singh
+info,umpire,RE Koertzen
+info,umpire,SJA Taufel
+info,tv_umpire,Zameer Haider
+info,match_referee,RS Madugalle
+info,outcome,draw
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Shahid Afridi
+info,player,Pakistan,Mohammad Asif
+info,player,Pakistan,Shoaib Akhtar
+info,player,Pakistan,Danish Kaneria
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Shoaib Malik
+info,player,India,VVS Laxman
+info,player,India,R Dravid
+info,player,India,V Sehwag
+info,player,India,SR Tendulkar
+info,player,India,Yuvraj Singh
+info,player,India,MS Dhoni
+info,player,India,IK Pathan
+info,player,India,Harbhajan Singh
+info,player,India,A Kumble
+info,player,India,Z Khan
+info,player,India,RP Singh
+info,registry,people,A Kumble,0c2730df
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RP Singh,c3d1402f
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Shahid Afridi,0dc00542
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Yuvraj Singh,1c914163
+info,registry,people,Z Khan,91a4a398
+info,registry,people,Zameer Haider,5537565f

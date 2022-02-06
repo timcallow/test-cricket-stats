@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Australia
+info,gender,male
+info,season,2005/06
+info,date,2005/11/17
+info,date,2005/11/18
+info,date,2005/11/19
+info,date,2005/11/20
+info,date,2005/11/21
+info,event,West Indies tour of Australia
+info,match_number,2
+info,venue,Bellerive Oval
+info,city,Hobart
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,MEK Hussey
+info,umpire,Aleem Dar
+info,umpire,RE Koertzen
+info,tv_umpire,SJ Davis
+info,match_referee,MJ Procter
+info,winner,Australia
+info,winner_wickets,9
+info,player,West Indies,CH Gayle
+info,player,West Indies,DS Smith
+info,player,West Indies,RR Sarwan
+info,player,West Indies,BC Lara
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,MN Samuels
+info,player,West Indies,DJ Bravo
+info,player,West Indies,D Ramdin
+info,player,West Indies,DBL Powell
+info,player,West Indies,FH Edwards
+info,player,West Indies,CD Collymore
+info,player,Australia,ML Hayden
+info,player,Australia,MEK Hussey
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,BJ Hodge
+info,player,Australia,A Symonds
+info,player,Australia,AC Gilchrist
+info,player,Australia,SK Warne
+info,player,Australia,B Lee
+info,player,Australia,GD McGrath
+info,player,Australia,SCG MacGill
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BC Lara,d5403021
+info,registry,people,BJ Hodge,b57f8a9a
+info,registry,people,CD Collymore,87b177e8
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DBL Powell,83904270
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DR Smith,35205dfc
+info,registry,people,DS Smith,85ad2217
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Procter,32e65048
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SCG MacGill,60dac349
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SK Warne,bb18be76

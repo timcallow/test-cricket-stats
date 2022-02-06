@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2017/18
+info,date,2018/01/24
+info,date,2018/01/25
+info,date,2018/01/26
+info,date,2018/01/27
+info,event,India tour of South Africa
+info,match_number,3
+info,venue,The Wanderers Stadium
+info,city,Johannesburg
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,B Kumar
+info,umpire,Aleem Dar
+info,umpire,IJ Gould
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,MA Gough
+info,match_referee,AJ Pycroft
+info,winner,India
+info,winner_runs,63
+info,player,India,M Vijay
+info,player,India,PA Patel
+info,player,India,KL Rahul
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,HH Pandya
+info,player,India,B Kumar
+info,player,India,Mohammed Shami
+info,player,India,I Sharma
+info,player,India,JJ Bumrah
+info,player,South Africa,AK Markram
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,F du Plessis
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,K Rabada
+info,player,South Africa,M Morkel
+info,player,South Africa,L Ngidi
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,D Elgar,33085ffb
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,HM Amla,e798611a
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,Q de Kock,372455c4
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VD Philander,cfe70281

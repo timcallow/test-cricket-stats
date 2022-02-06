@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,West Indies
+info,gender,male
+info,season,2015/16
+info,date,2015/10/14
+info,date,2015/10/15
+info,date,2015/10/16
+info,date,2015/10/17
+info,event,Sobers/Tissera Trophy
+info,match_number,1
+info,venue,Galle International Stadium
+info,city,
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,HMRKB Herath
+info,umpire,M Erasmus
+info,umpire,RK Illingworth
+info,reserve_umpire,RSA Palliyaguruge
+info,tv_umpire,SD Fry
+info,match_referee,DC Boon
+info,winner,Sri Lanka
+info,winner_innings,1
+info,winner_runs,6
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,JK Silva
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,TAM Siriwardana
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,KTGD Prasad
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,PHT Kaushal
+info,player,Sri Lanka,N Pradeep
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,SD Hope
+info,player,West Indies,DM Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,J Blackwood
+info,player,West Indies,D Ramdin
+info,player,West Indies,JO Holder
+info,player,West Indies,KAJ Roach
+info,player,West Indies,JE Taylor
+info,player,West Indies,D Bishoo
+info,player,West Indies,ST Gabriel
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,JE Taylor,4180d897
+info,registry,people,JK Silva,52f7299a
+info,registry,people,JO Holder,0f721006
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KTGD Prasad,9b79b9de
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,PHT Kaushal,ef6aea67
+info,registry,people,R Chandrika,0ef64bba
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,TAM Siriwardana,bf7842c9

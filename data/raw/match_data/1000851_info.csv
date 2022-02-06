@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,South Africa
+info,gender,male
+info,season,2016/17
+info,date,2016/11/03
+info,date,2016/11/04
+info,date,2016/11/05
+info,date,2016/11/06
+info,date,2016/11/07
+info,event,South Africa in Australia Test Series
+info,match_number,1
+info,venue,Western Australia Cricket Association Ground
+info,city,Perth
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,K Rabada
+info,umpire,Aleem Dar
+info,umpire,NJ Llong
+info,reserve_umpire,SJ Nogajski
+info,tv_umpire,RA Kettleborough
+info,match_referee,AJ Pycroft
+info,winner,South Africa
+info,winner_runs,177
+info,player,Australia,DA Warner
+info,player,Australia,SE Marsh
+info,player,Australia,UT Khawaja
+info,player,Australia,SPD Smith
+info,player,Australia,AC Voges
+info,player,Australia,MR Marsh
+info,player,Australia,PM Nevill
+info,player,Australia,MA Starc
+info,player,Australia,PM Siddle
+info,player,Australia,JR Hazlewood
+info,player,Australia,NM Lyon
+info,player,South Africa,SC Cook
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,JP Duminy
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,DW Steyn
+info,registry,people,AC Voges,864c199e
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HM Amla,e798611a
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PM Nevill,a22fb7b5
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,SC Cook,13bee186
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,VD Philander,cfe70281

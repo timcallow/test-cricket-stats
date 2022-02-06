@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,South Africa
+info,gender,male
+info,season,2012
+info,date,2012/08/16
+info,date,2012/08/17
+info,date,2012/08/18
+info,date,2012/08/19
+info,date,2012/08/20
+info,event,Basil D'Oliveira Trophy
+info,match_number,3
+info,venue,Lord's
+info,city,London
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,VD Philander
+info,umpire,HDPK Dharmasena
+info,umpire,SJA Taufel
+info,reserve_umpire,PJ Hartley
+info,tv_umpire,RJ Tucker
+info,match_referee,JJ Crowe
+info,winner,South Africa
+info,winner_runs,51
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,IR Bell
+info,player,England,JWA Taylor
+info,player,England,JM Bairstow
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,JM Anderson
+info,player,England,ST Finn
+info,player,South Africa,GC Smith
+info,player,South Africa,AN Petersen
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,JA Rudolph
+info,player,South Africa,JP Duminy
+info,player,South Africa,VD Philander
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Morkel
+info,player,South Africa,Imran Tahir
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HM Amla,e798611a
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,JWA Taylor,c374f37f
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MJ Prior,1200550f
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,VD Philander,cfe70281

@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,male
+info,season,2017/18
+info,date,2018/03/22
+info,date,2018/03/23
+info,date,2018/03/24
+info,date,2018/03/25
+info,date,2018/03/26
+info,event,England tour of Australia and New Zealand
+info,match_number,1
+info,venue,Eden Park
+info,city,Auckland
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,TA Boult
+info,umpire,BNJ Oxenford
+info,umpire,PR Reiffel
+info,reserve_umpire,WR Knights
+info,tv_umpire,M Erasmus
+info,match_referee,RB Richardson
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,49
+info,player,England,AN Cook
+info,player,England,MD Stoneman
+info,player,England,JE Root
+info,player,England,DJ Malan
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,CR Woakes
+info,player,England,C Overton
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,New Zealand,JA Raval
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,TD Astle
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C Overton,e9987a94
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Wagner,78adc879
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TD Astle,383dd431
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WR Knights,63cbf8d8

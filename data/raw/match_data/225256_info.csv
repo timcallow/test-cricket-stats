@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,England
+info,gender,male
+info,season,2006
+info,date,2006/07/27
+info,date,2006/07/28
+info,date,2006/07/29
+info,event,Pakistan tour of England and Scotland
+info,match_number,2
+info,venue,Old Trafford
+info,city,Manchester
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,SJ Harmison
+info,umpire,SA Bucknor
+info,umpire,SJA Taufel
+info,reserve_umpire,JH Evans
+info,tv_umpire,IJ Gould
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_innings,1
+info,winner_runs,120
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Shahid Afridi
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Danish Kaneria
+info,player,England,ME Trescothick
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,IR Bell
+info,player,England,GO Jones
+info,player,England,SI Mahmood
+info,player,England,MJ Hoggard
+info,player,England,SJ Harmison
+info,player,England,MS Panesar
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,GO Jones,2e929b99
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,IR Bell,33155d1b
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,JH Evans,f444fdac
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,MS Panesar,5a37ec26
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SI Mahmood,e97aefe2
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Shahid Afridi,0dc00542
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Younis Khan,33cb3411

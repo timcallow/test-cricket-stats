@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Pakistan
+info,gender,male
+info,season,2020/21
+info,date,2020/12/26
+info,date,2020/12/27
+info,date,2020/12/28
+info,date,2020/12/29
+info,date,2020/12/30
+info,event,Pakistan tour of New Zealand
+info,match_number,1
+info,venue,Bay Oval
+info,city,Mount Maunganui
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,KS Williamson
+info,umpire,CB Gaffaney
+info,umpire,WR Knights
+info,reserve_umpire,SB Haig
+info,tv_umpire,CM Brown
+info,match_referee,JJ Crowe
+info,winner,New Zealand
+info,winner_runs,101
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,KA Jamieson
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Abid Ali
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Mohammad Abbas
+info,player,Pakistan,Haris Sohail
+info,player,Pakistan,Fawad Alam
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Yasir Shah
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Naseem Shah
+info,registry,people,Abid Ali,5d836a72
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fawad Alam,61f05b05
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,Haris Sohail,7cd0a092
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,N Wagner,78adc879
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,SB Haig,811655b3
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shan Masood,6843a783
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,Yasir Shah,f2800ef3

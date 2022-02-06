@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,India
+info,gender,male
+info,season,2016
+info,date,2016/08/09
+info,date,2016/08/10
+info,date,2016/08/11
+info,date,2016/08/12
+info,date,2016/08/13
+info,event,India in West Indies Test Series
+info,match_number,3
+info,venue,"Darren Sammy National Cricket Stadium, Gros Islet"
+info,city,St Lucia
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,R Ashwin
+info,umpire,NJ Llong
+info,umpire,RJ Tucker
+info,reserve_umpire,N Duguid
+info,tv_umpire,GO Brathwaite
+info,match_referee,RS Madugalle
+info,winner,India
+info,winner_runs,237
+info,player,India,KL Rahul
+info,player,India,S Dhawan
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RG Sharma
+info,player,India,R Ashwin
+info,player,India,WP Saha
+info,player,India,RA Jadeja
+info,player,India,B Kumar
+info,player,India,Mohammed Shami
+info,player,India,I Sharma
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,LR Johnson
+info,player,West Indies,DM Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,J Blackwood
+info,player,West Indies,RL Chase
+info,player,West Indies,SO Dowrich
+info,player,West Indies,JO Holder
+info,player,West Indies,AS Joseph
+info,player,West Indies,ML Cummins
+info,player,West Indies,ST Gabriel
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AS Joseph,b0946605
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,JO Holder,0f721006
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,LR Johnson,b8f3362a
+info,registry,people,ML Cummins,92aa28fe
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Duguid,64495506
+info,registry,people,NJ Llong,573fb985
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

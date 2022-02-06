@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,New Zealand
+info,gender,male
+info,season,2016/17
+info,date,2016/10/08
+info,date,2016/10/09
+info,date,2016/10/10
+info,date,2016/10/11
+info,event,New Zealand in India Test Series
+info,match_number,3
+info,venue,Holkar Cricket Stadium
+info,city,Indore
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,R Ashwin
+info,umpire,HDPK Dharmasena
+info,umpire,BNJ Oxenford
+info,reserve_umpire,Nitin Menon
+info,tv_umpire,C Shamshuddin
+info,match_referee,DC Boon
+info,winner,India
+info,winner_runs,321
+info,player,India,M Vijay
+info,player,India,G Gambhir
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RG Sharma
+info,player,India,RA Jadeja
+info,player,India,R Ashwin
+info,player,India,WP Saha
+info,player,India,Mohammed Shami
+info,player,India,UT Yadav
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,L Ronchi
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,JS Patel
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,TA Boult
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C Shamshuddin,0f9d921b
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JS Patel,f5821615
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,L Ronchi,0fa5042b
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

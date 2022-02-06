@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,male
+info,season,2020/21
+info,date,2021/02/24
+info,date,2021/02/25
+info,event,England tour of India
+info,match_number,3
+info,venue,Narendra Modi Stadium
+info,city,Ahmedabad
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,AR Patel
+info,umpire,AK Chaudhary
+info,umpire,Nitin Menon
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,C Shamshuddin
+info,match_referee,J Srinath
+info,winner,India
+info,winner_wickets,10
+info,player,England,Z Crawley
+info,player,England,DP Sibley
+info,player,England,JM Bairstow
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,OJ Pope
+info,player,England,BT Foakes
+info,player,England,JC Archer
+info,player,England,MJ Leach
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,India,RG Sharma
+info,player,India,Shubman Gill
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RR Pant
+info,player,India,R Ashwin
+info,player,India,Washington Sundar
+info,player,India,AR Patel
+info,player,India,I Sharma
+info,player,India,JJ Bumrah
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AR Patel,2e171977
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BT Foakes,fd770945
+info,registry,people,C Shamshuddin,0f9d921b
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Archer,5574750c
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,MJ Leach,3987e390
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,Z Crawley,922e1b19

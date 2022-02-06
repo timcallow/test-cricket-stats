@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2016/17
+info,date,2017/03/16
+info,date,2017/03/17
+info,date,2017/03/18
+info,date,2017/03/19
+info,date,2017/03/20
+info,event,Border-Gavaskar Trophy
+info,match_number,3
+info,venue,JSCA International Stadium Complex
+info,city,Ranchi
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,CA Pujara
+info,umpire,CB Gaffaney
+info,umpire,IJ Gould
+info,reserve_umpire,CK Nandan
+info,tv_umpire,NJ Llong
+info,match_referee,RB Richardson
+info,outcome,draw
+info,player,Australia,MT Renshaw
+info,player,Australia,DA Warner
+info,player,Australia,SPD Smith
+info,player,Australia,SE Marsh
+info,player,Australia,PSP Handscomb
+info,player,Australia,GJ Maxwell
+info,player,Australia,MS Wade
+info,player,Australia,PJ Cummins
+info,player,Australia,SNJ O'Keefe
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,player,India,KL Rahul
+info,player,India,M Vijay
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,KK Nair
+info,player,India,R Ashwin
+info,player,India,WP Saha
+info,player,India,RA Jadeja
+info,player,India,UT Yadav
+info,player,India,I Sharma
+info,registry,people,AM Rahane,29e95537
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CK Nandan,012de9c4
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KK Nair,944533a5
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SNJ O'Keefe,3540beff
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

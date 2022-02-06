@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Bangladesh
+info,gender,male
+info,season,2012/13
+info,date,2013/03/08
+info,date,2013/03/09
+info,date,2013/03/10
+info,date,2013/03/11
+info,date,2013/03/12
+info,event,Bangladesh in Sri Lanka Test Series
+info,match_number,1
+info,venue,Galle International Stadium
+info,city,
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,Mushfiqur Rahim
+info,umpire,RK Illingworth
+info,umpire,NJ Llong
+info,reserve_umpire,MSK Nandiweera
+info,tv_umpire,TH Wijewardene
+info,match_referee,DC Boon
+info,outcome,draw
+info,player,Bangladesh,Jahurul Islam
+info,player,Bangladesh,Anamul Haque
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Nasir Hossain
+info,player,Bangladesh,Sohag Gazi
+info,player,Bangladesh,Abul Hasan
+info,player,Bangladesh,Elias Sunny
+info,player,Bangladesh,Shahadat Hossain
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,KDK Vithanage
+info,player,Sri Lanka,RMS Eranga
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,BAW Mendis
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Abul Hasan,5c756df3
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,BAW Mendis,ea0cdc12
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,Elias Sunny,817c1746
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,Jahurul Islam,6752c57b
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KDK Vithanage,f3bde2b3
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,MSK Nandiweera,d8328d3d
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RMS Eranga,8f7a598f
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Sohag Gazi,5a4c12ab
+info,registry,people,TH Wijewardene,6a6be119
+info,registry,people,TM Dilshan,5bdcdb72

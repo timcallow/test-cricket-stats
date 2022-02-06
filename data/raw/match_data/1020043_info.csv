@@ -1,0 +1,70 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,South Africa
+info,gender,male
+info,season,2016/17
+info,date,2017/03/16
+info,date,2017/03/17
+info,date,2017/03/18
+info,event,South Africa in New Zealand Test Series
+info,match_number,2
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,KA Maharaj
+info,umpire,HDPK Dharmasena
+info,umpire,RJ Tucker
+info,tv_umpire,BNJ Oxenford
+info,match_referee,DC Boon
+info,winner,South Africa
+info,winner_wickets,8
+info,player,New Zealand,JA Raval
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,NT Broom
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,TG Southee
+info,player,New Zealand,JS Patel
+info,player,New Zealand,N Wagner
+info,player,South Africa,SC Cook
+info,player,South Africa,D Elgar
+info,player,South Africa,K Rabada
+info,player,South Africa,HM Amla
+info,player,South Africa,JP Duminy
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,KA Maharaj
+info,player,South Africa,M Morkel
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HM Amla,e798611a
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,JS Patel,f5821615
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,N Wagner,78adc879
+info,registry,people,NT Broom,a354c917
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SC Cook,13bee186
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,VD Philander,cfe70281

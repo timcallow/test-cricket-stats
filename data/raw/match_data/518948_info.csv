@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,male
+info,season,2011/12
+info,date,2011/12/09
+info,date,2011/12/10
+info,date,2011/12/11
+info,date,2011/12/12
+info,event,Trans-Tasman Trophy
+info,match_number,2
+info,venue,Bellerive Oval
+info,city,Hobart
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,DA Warner
+info,umpire,Asad Rauf
+info,umpire,NJ Llong
+info,reserve_umpire,PR Reiffel
+info,tv_umpire,Aleem Dar
+info,match_referee,AJ Pycroft
+info,winner,New Zealand
+info,winner_runs,7
+info,player,Australia,DA Warner
+info,player,Australia,PJ Hughes
+info,player,Australia,UT Khawaja
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,MEK Hussey
+info,player,Australia,BJ Haddin
+info,player,Australia,PM Siddle
+info,player,Australia,JL Pattinson
+info,player,Australia,MA Starc
+info,player,Australia,NM Lyon
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,JD Ryder
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,DG Brownlie
+info,player,New Zealand,RA Young
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,TG Southee
+info,player,New Zealand,TA Boult
+info,player,New Zealand,CS Martin
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,JL Pattinson,f752db61
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Hughes,004c9e85
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RA Young,f4535e46
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,UT Khawaja,331ea488

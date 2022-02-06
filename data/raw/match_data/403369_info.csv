@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2009
+info,date,2009/07/20
+info,date,2009/07/21
+info,date,2009/07/22
+info,date,2009/07/23
+info,date,2009/07/24
+info,event,Pakistan in Sri Lanka Test Series
+info,match_number,3
+info,venue,Sinhalese Sports Club Ground
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,KC Sangakkara
+info,umpire,IJ Gould
+info,umpire,SJA Taufel
+info,reserve_umpire,RD Kottahachchi
+info,tv_umpire,MG Silva
+info,match_referee,AG Hurst
+info,outcome,draw
+info,player,Pakistan,Khurram Manzoor
+info,player,Pakistan,Fawad Alam
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Danish Kaneria
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Saeed Ajmal
+info,player,Sri Lanka,SM Warnapura
+info,player,Sri Lanka,NT Paranavitana
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,T Thushara
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,Fawad Alam,61f05b05
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,Khurram Manzoor,82c78845
+info,registry,people,MG Silva,0f22d07b
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,NT Paranavitana,200f2761
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RD Kottahachchi,92e41d14
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SM Warnapura,add57f1f
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,T Thushara,b2ae53f5
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,WPUJC Vaas,bcce309e
+info,registry,people,Younis Khan,33cb3411

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2019
+info,date,2019/08/01
+info,date,2019/08/02
+info,date,2019/08/03
+info,date,2019/08/04
+info,date,2019/08/05
+info,event,The Ashes
+info,match_number,1
+info,venue,Edgbaston
+info,city,Birmingham
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,SPD Smith
+info,umpire,Aleem Dar
+info,umpire,JS Wilson
+info,reserve_umpire,RT Robinson
+info,tv_umpire,CB Gaffaney
+info,match_referee,RS Madugalle
+info,winner,Australia
+info,winner_runs,251
+info,player,Australia,CT Bancroft
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,SPD Smith
+info,player,Australia,TM Head
+info,player,Australia,MS Wade
+info,player,Australia,TD Paine
+info,player,Australia,JL Pattinson
+info,player,Australia,PJ Cummins
+info,player,Australia,PM Siddle
+info,player,Australia,NM Lyon
+info,player,England,RJ Burns
+info,player,England,JJ Roy
+info,player,England,JE Root
+info,player,England,JL Denly
+info,player,England,JC Buttler
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,CR Woakes
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JL Pattinson,f752db61
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Robinson,b143c87d
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TD Paine,5748e866
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Khawaja,331ea488

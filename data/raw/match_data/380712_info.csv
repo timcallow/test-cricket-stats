@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,male
+info,season,2009
+info,date,2009/05/06
+info,date,2009/05/07
+info,date,2009/05/08
+info,event,The Wisden Trophy
+info,match_number,1
+info,venue,Lord's
+info,city,London
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,GP Swann
+info,umpire,SJ Davis
+info,umpire,EAR de Silva
+info,reserve_umpire,NA Mallender
+info,tv_umpire,IJ Gould
+info,match_referee,AJ Pycroft
+info,winner,England
+info,winner_wickets,10
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,RS Bopara
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,TT Bresnan
+info,player,England,GP Swann
+info,player,England,JM Anderson
+info,player,England,G Onions
+info,player,West Indies,CH Gayle
+info,player,West Indies,DS Smith
+info,player,West Indies,RR Sarwan
+info,player,West Indies,LMP Simmons
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,BP Nash
+info,player,West Indies,D Ramdin
+info,player,West Indies,JE Taylor
+info,player,West Indies,SJ Benn
+info,player,West Indies,FH Edwards
+info,player,West Indies,LS Baker
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BP Nash,749a1b3a
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DS Smith,85ad2217
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,G Onions,c1f6c27e
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JE Taylor,4180d897
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,LMP Simmons,89f64c19
+info,registry,people,LS Baker,441b1b20
+info,registry,people,MJ Prior,1200550f
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Benn,364ee2cf
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TT Bresnan,58043739

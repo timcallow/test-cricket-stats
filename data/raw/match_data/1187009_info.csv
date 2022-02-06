@@ -1,0 +1,76 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2019/20
+info,date,2019/10/19
+info,date,2019/10/20
+info,date,2019/10/21
+info,date,2019/10/22
+info,event,South Africa in India Test Series
+info,match_number,3
+info,venue,JSCA International Stadium Complex
+info,city,Ranchi
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,RG Sharma
+info,umpire,RK Illingworth
+info,umpire,NJ Llong
+info,reserve_umpire,Nitin Menon
+info,tv_umpire,CB Gaffaney
+info,match_referee,RB Richardson
+info,winner,India
+info,winner_innings,1
+info,winner_runs,202
+info,player,India,MA Agarwal
+info,player,India,RG Sharma
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RA Jadeja
+info,player,India,WP Saha
+info,player,India,R Ashwin
+info,player,India,UT Yadav
+info,player,India,S Nadeem
+info,player,India,Mohammed Shami
+info,player,South Africa,D Elgar
+info,player,South Africa,Q de Kock
+info,player,South Africa,Zubayr Hamza
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,H Klaasen
+info,player,South Africa,GF Linde
+info,player,South Africa,DL Piedt
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,L Ngidi
+info,player,South Africa,TB de Bruyn
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AM Rahane,29e95537
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GF Linde,e5437608
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Illingworth,20672246
+info,registry,people,S Nadeem,9d80c5e1
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6
+info,registry,people,Zubayr Hamza,22feee04

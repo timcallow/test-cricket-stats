@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2015
+info,date,2015/06/25
+info,date,2015/06/26
+info,date,2015/06/27
+info,date,2015/06/28
+info,date,2015/06/29
+info,event,Pakistan in Sri Lanka Test Series
+info,match_number,2
+info,venue,P Sara Oval
+info,city,Colombo
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,KTGD Prasad
+info,umpire,RK Illingworth
+info,umpire,S Ravi
+info,reserve_umpire,RR Wimalasiri
+info,tv_umpire,PR Reiffel
+info,match_referee,BC Broad
+info,winner,Sri Lanka
+info,winner_wickets,7
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Ahmed Shehzad
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Sarfraz Ahmed
+info,player,Pakistan,Wahab Riaz
+info,player,Pakistan,Yasir Shah
+info,player,Pakistan,Zulfiqar Babar
+info,player,Pakistan,Junaid Khan
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,JK Silva
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,KDK Vithanage
+info,player,Sri Lanka,KTGD Prasad
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,PHT Kaushal
+info,player,Sri Lanka,PVD Chameera
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Ahmed Shehzad,f8fd6e3f
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,JK Silva,52f7299a
+info,registry,people,Junaid Khan,086f5984
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KDK Vithanage,f3bde2b3
+info,registry,people,KTGD Prasad,9b79b9de
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,PHT Kaushal,ef6aea67
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Wahab Riaz,b3118300
+info,registry,people,Yasir Shah,f2800ef3
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Zulfiqar Babar,3a0f6df2

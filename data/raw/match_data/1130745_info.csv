@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Bangladesh
+info,gender,male
+info,season,2017/18
+info,date,2018/02/08
+info,date,2018/02/09
+info,date,2018/02/10
+info,event,Sri Lanka tour of Bangladesh
+info,match_number,2
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,ARS Silva
+info,umpire,RJ Tucker
+info,umpire,JS Wilson
+info,reserve_umpire,Anisur Rahman
+info,tv_umpire,M Erasmus
+info,match_referee,DC Boon
+info,winner,Sri Lanka
+info,winner_runs,215
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,MD Gunathilaka
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,ARS Silva
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,A Dananjaya
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,HMRKB Herath
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Sabbir Rahman
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Abdur Razzak
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,A Dananjaya,5b16a806
+info,registry,people,ARS Silva,198798b2
+info,registry,people,Abdur Razzak,888e32bf
+info,registry,people,Anisur Rahman,affbf093
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MD Gunathilaka,509a7ca1
+info,registry,people,MDK Perera,5531248e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12

@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Australia
+info,gender,male
+info,season,2017
+info,date,2017/08/27
+info,date,2017/08/28
+info,date,2017/08/29
+info,date,2017/08/30
+info,event,Australia tour of Bangladesh
+info,match_number,1
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Shakib Al Hasan
+info,umpire,Aleem Dar
+info,umpire,NJ Llong
+info,reserve_umpire,Anisur Rahman
+info,tv_umpire,IJ Gould
+info,match_referee,JJ Crowe
+info,winner,Bangladesh
+info,winner_runs,20
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Sabbir Rahman
+info,player,Bangladesh,Nasir Hossain
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Shafiul Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Australia,DA Warner
+info,player,Australia,MT Renshaw
+info,player,Australia,UT Khawaja
+info,player,Australia,SPD Smith
+info,player,Australia,PSP Handscomb
+info,player,Australia,GJ Maxwell
+info,player,Australia,MS Wade
+info,player,Australia,AC Agar
+info,player,Australia,PJ Cummins
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,registry,people,AC Agar,a2421394
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Anisur Rahman,affbf093
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Shafiul Islam,1a8eebbe
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,UT Khawaja,331ea488

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,male
+info,season,2007
+info,date,2007/05/17
+info,date,2007/05/18
+info,date,2007/05/19
+info,date,2007/05/20
+info,date,2007/05/21
+info,event,West Indies tour of England and Ireland
+info,match_number,1
+info,venue,Lord's
+info,city,London
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,AN Cook
+info,umpire,Asad Rauf
+info,umpire,RE Koertzen
+info,reserve_umpire,RA Kettleborough
+info,tv_umpire,NJ Llong
+info,match_referee,AG Hurst
+info,outcome,draw
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,OA Shah
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,IR Bell
+info,player,England,MJ Prior
+info,player,England,LE Plunkett
+info,player,England,SJ Harmison
+info,player,England,MS Panesar
+info,player,England,MJ Hoggard
+info,player,West Indies,CH Gayle
+info,player,West Indies,D Ganga
+info,player,West Indies,DS Smith
+info,player,West Indies,RR Sarwan
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,RS Morton
+info,player,West Indies,DJ Bravo
+info,player,West Indies,D Ramdin
+info,player,West Indies,DBL Powell
+info,player,West Indies,CD Collymore
+info,player,West Indies,JE Taylor
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,CD Collymore,87b177e8
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ganga,d5f3b5e1
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DBL Powell,83904270
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DS Smith,85ad2217
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JE Taylor,4180d897
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,LE Plunkett,9a963804
+info,registry,people,LJ Hodgson,a0be76b2
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MS Panesar,5a37ec26
+info,registry,people,NJ Llong,573fb985
+info,registry,people,OA Shah,7bf96684
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Morton,2f8a9682
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SJ Harmison,c16d2e28

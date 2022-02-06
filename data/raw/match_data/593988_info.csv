@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Zimbabwe
+info,gender,male
+info,season,2012/13
+info,date,2013/03/12
+info,date,2013/03/13
+info,date,2013/03/14
+info,event,Clive Lloyd Trophy
+info,match_number,1
+info,venue,"Kensington Oval, Bridgetown"
+info,city,Barbados
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,S Shillingford
+info,umpire,REJ Martinesz
+info,umpire,BNJ Oxenford
+info,reserve_umpire,PJ Nero
+info,tv_umpire,AL Hill
+info,match_referee,JJ Crowe
+info,winner,West Indies
+info,winner_wickets,9
+info,player,West Indies,CH Gayle
+info,player,West Indies,KOA Powell
+info,player,West Indies,KAJ Roach
+info,player,West Indies,DM Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,D Ramdin
+info,player,West Indies,DJG Sammy
+info,player,West Indies,S Shillingford
+info,player,West Indies,TL Best
+info,player,West Indies,ST Gabriel
+info,player,Zimbabwe,TMK Mawoyo
+info,player,Zimbabwe,V Sibanda
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,MN Waller
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,RW Price
+info,player,Zimbabwe,KM Jarvis
+info,player,Zimbabwe,TL Chatara
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KM Jarvis,59792462
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,MN Waller,ec4dada1
+info,registry,people,PJ Nero,925d2e93
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,RW Price,67af6f81
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Shillingford,d76b0d2d
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,TL Best,db767b89
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,TMK Mawoyo,3fb197cd
+info,registry,people,V Sibanda,0fdabe05

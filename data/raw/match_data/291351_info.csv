@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,male
+info,season,2007/08
+info,date,2007/12/26
+info,date,2007/12/27
+info,date,2007/12/28
+info,date,2007/12/29
+info,event,India tour of Australia
+info,match_number,1
+info,venue,Melbourne Cricket Ground
+info,city,
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,ML Hayden
+info,umpire,MR Benson
+info,umpire,BF Bowden
+info,reserve_umpire,JD Ward
+info,tv_umpire,SJ Davis
+info,match_referee,MJ Procter
+info,winner,Australia
+info,winner_runs,337
+info,player,Australia,PA Jaques
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,A Symonds
+info,player,Australia,AC Gilchrist
+info,player,Australia,GB Hogg
+info,player,Australia,B Lee
+info,player,Australia,MG Johnson
+info,player,Australia,SR Clark
+info,player,India,R Dravid
+info,player,India,W Jaffer
+info,player,India,VVS Laxman
+info,player,India,SR Tendulkar
+info,player,India,SC Ganguly
+info,player,India,Yuvraj Singh
+info,player,India,MS Dhoni
+info,player,India,A Kumble
+info,player,India,Harbhajan Singh
+info,player,India,Z Khan
+info,player,India,RP Singh
+info,registry,people,A Kumble,0c2730df
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,GB Hogg,f708a0bc
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,JD Ward,511299c1
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Procter,32e65048
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MR Benson,790e14d3
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,PA Jaques,03252e44
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RP Singh,c3d1402f
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SR Clark,a3bfec5d
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,W Jaffer,619aa81f
+info,registry,people,Yuvraj Singh,1c914163
+info,registry,people,Z Khan,91a4a398

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Sri Lanka
+info,gender,male
+info,season,2017
+info,date,2017/07/14
+info,date,2017/07/15
+info,date,2017/07/16
+info,date,2017/07/17
+info,date,2017/07/18
+info,event,Zimbabwe tour of Sri Lanka
+info,venue,"R.Premadasa Stadium, Khettarama"
+info,city,Colombo
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,DAS Gunaratne
+info,umpire,IJ Gould
+info,umpire,NJ Llong
+info,reserve_umpire,REJ Martinesz
+info,tv_umpire,C Shamshuddin
+info,match_referee,BC Broad
+info,winner,Sri Lanka
+info,winner_wickets,4
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,TK Musakanda
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,PJ Moor
+info,player,Zimbabwe,MN Waller
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,CB Mpofu
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,DAS Gunaratne
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,CBRLS Kumara
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Shamshuddin,0f9d921b
+info,registry,people,CB Mpofu,49691d7a
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,DAS Gunaratne,770494eb
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,MD Gunathilaka,509a7ca1
+info,registry,people,MDK Perera,5531248e
+info,registry,people,MN Waller,ec4dada1
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TK Musakanda,9f9b903e
+info,registry,people,WU Tharanga,7ed9fd56

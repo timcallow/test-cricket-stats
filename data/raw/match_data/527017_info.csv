@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,New Zealand
+info,gender,male
+info,season,2011/12
+info,date,2011/11/01
+info,date,2011/11/02
+info,date,2011/11/03
+info,date,2011/11/04
+info,date,2011/11/05
+info,venue,Queens Sports Club
+info,city,Bulawayo
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,DL Vettori
+info,umpire,M Erasmus
+info,umpire,BNJ Oxenford
+info,reserve_umpire,O Chirombe
+info,tv_umpire,TJ Matibiri
+info,match_referee,BC Broad
+info,winner,New Zealand
+info,winner_runs,34
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,DG Brownlie
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,RA Young
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,JS Patel
+info,player,New Zealand,CS Martin
+info,player,Zimbabwe,TMK Mawoyo
+info,player,Zimbabwe,V Sibanda
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,MN Waller
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,RW Price
+info,player,Zimbabwe,KM Jarvis
+info,player,Zimbabwe,CB Mpofu
+info,player,Zimbabwe,N Ncube
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CB Mpofu,49691d7a
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,JS Patel,f5821615
+info,registry,people,KM Jarvis,59792462
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MN Waller,ec4dada1
+info,registry,people,N Ncube,fd4afedb
+info,registry,people,O Chirombe,6345307f
+info,registry,people,RA Young,f4535e46
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,RW Price,67af6f81
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Matibiri,4a3132b1
+info,registry,people,TMK Mawoyo,3fb197cd
+info,registry,people,V Sibanda,0fdabe05

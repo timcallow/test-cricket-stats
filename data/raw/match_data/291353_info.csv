@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,male
+info,season,2007/08
+info,date,2008/01/16
+info,date,2008/01/17
+info,date,2008/01/18
+info,date,2008/01/19
+info,event,Border-Gavaskar Trophy
+info,match_number,3
+info,venue,Western Australia Cricket Association Ground
+info,city,Perth
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,IK Pathan
+info,umpire,Asad Rauf
+info,umpire,BF Bowden
+info,reserve_umpire,JK Brookes
+info,tv_umpire,BNJ Oxenford
+info,match_referee,MJ Procter
+info,winner,India
+info,winner_runs,72
+info,player,Australia,PA Jaques
+info,player,Australia,CJL Rogers
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,A Symonds
+info,player,Australia,AC Gilchrist
+info,player,Australia,B Lee
+info,player,Australia,MG Johnson
+info,player,Australia,SR Clark
+info,player,Australia,SW Tait
+info,player,India,W Jaffer
+info,player,India,V Sehwag
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,SC Ganguly
+info,player,India,VVS Laxman
+info,player,India,MS Dhoni
+info,player,India,IK Pathan
+info,player,India,A Kumble
+info,player,India,RP Singh
+info,player,India,I Sharma
+info,registry,people,A Kumble,0c2730df
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CJL Rogers,d8360178
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,JK Brookes,55391363
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Procter,32e65048
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,PA Jaques,03252e44
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RP Singh,c3d1402f
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SR Clark,a3bfec5d
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,SW Tait,addfb70e
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,W Jaffer,619aa81f

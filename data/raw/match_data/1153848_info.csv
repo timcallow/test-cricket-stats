@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Bangladesh
+info,gender,male
+info,season,2018/19
+info,date,2019/03/08
+info,date,2019/03/09
+info,date,2019/03/10
+info,date,2019/03/11
+info,date,2019/03/12
+info,event,Bangladesh tour of New Zealand
+info,match_number,2
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,LRPL Taylor
+info,umpire,PR Reiffel
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,SB Haig
+info,tv_umpire,NJ Llong
+info,match_referee,DC Boon
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,12
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Shadman Islam
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mohammad Mithun
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Abu Jayed
+info,player,Bangladesh,Ebadat Hossain
+info,player,New Zealand,JA Raval
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,N Wagner
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,TG Southee
+info,player,New Zealand,TA Boult
+info,registry,people,Abu Jayed,1bb0993e
+info,registry,people,BJ Watling,928670cc
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Wagner,78adc879
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SB Haig,811655b3
+info,registry,people,Shadman Islam,246d11a2
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12

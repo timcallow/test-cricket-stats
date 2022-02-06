@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Ireland
+info,gender,male
+info,season,2018/19
+info,date,2019/03/15
+info,date,2019/03/16
+info,date,2019/03/17
+info,date,2019/03/18
+info,event,Ireland tour of India
+info,venue,"Rajiv Gandhi International Cricket Stadium, Dehradun"
+info,city,Dehra Dun
+info,toss_winner,Ireland
+info,toss_decision,bat
+info,player_of_match,Rahmat Shah
+info,umpire,RK Illingworth
+info,umpire,S Ravi
+info,reserve_umpire,Bismillah Shinwari
+info,tv_umpire,Ahmed Shah Pakteen
+info,match_referee,J Srinath
+info,winner,Afghanistan
+info,winner_wickets,7
+info,player,Ireland,WTS Porterfield
+info,player,Ireland,PR Stirling
+info,player,Ireland,A Balbirnie
+info,player,Ireland,JA McCollum
+info,player,Ireland,KJ O'Brien
+info,player,Ireland,SW Poynter
+info,player,Ireland,SR Thompson
+info,player,Ireland,GH Dockrell
+info,player,Ireland,AR McBrine
+info,player,Ireland,J Cameron-Dow
+info,player,Ireland,TJ Murtagh
+info,player,Afghanistan,Mohammad Shahzad
+info,player,Afghanistan,Ihsanullah
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Asghar Stanikzai
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Ikram Alikhil
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Yamin Ahmadzai
+info,player,Afghanistan,Wafadar Momand
+info,player,Afghanistan,Waqar Salamkheil
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Asghar Stanikzai,88679525
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Ihsanullah,5aeab54c
+info,registry,people,Ikram Alikhil,f67c958d
+info,registry,people,J Cameron-Dow,b9a2c483
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JA McCollum,c7105dab
+info,registry,people,KJ O'Brien,243431b5
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mohammad Shahzad,d6dcb0c9
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SR Thompson,7f3ad1ed
+info,registry,people,SW Poynter,cdf59953
+info,registry,people,TJ Murtagh,c89474d1
+info,registry,people,WTS Porterfield,ec02b798
+info,registry,people,Wafadar Momand,6b68d7b3
+info,registry,people,Waqar Salamkheil,3f1066d0
+info,registry,people,Yamin Ahmadzai,6e4588bc

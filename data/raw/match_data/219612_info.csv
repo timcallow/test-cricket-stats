@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Bangladesh
+info,gender,male
+info,season,2005
+info,date,2005/09/20
+info,date,2005/09/21
+info,date,2005/09/22
+info,event,Bangladesh tour of Sri Lanka
+info,match_number,2
+info,venue,P Sara Oval
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,TT Samaraweera
+info,umpire,BF Bowden
+info,umpire,SA Bucknor
+info,tv_umpire,EAR de Silva
+info,match_referee,CH Lloyd
+info,winner,Sri Lanka
+info,winner_innings,1
+info,winner_runs,69
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,CRD Fernando
+info,player,Sri Lanka,SL Malinga
+info,player,Bangladesh,Javed Omar
+info,player,Bangladesh,Nafees Iqbal
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Aftab Ahmed
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Syed Rasel
+info,player,Bangladesh,Enamul Haque jnr
+info,registry,people,Aftab Ahmed,53bc7b84
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,Enamul Haque jnr,0480aba6
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,Javed Omar,e15faa51
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,Nafees Iqbal,c5b87d8c
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SL Malinga,a12e1d51
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Syed Rasel,b743f01b
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,WPUJC Vaas,bcce309e

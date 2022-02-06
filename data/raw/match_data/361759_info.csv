@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,New Zealand
+info,gender,male
+info,season,2008/09
+info,date,2008/10/25
+info,date,2008/10/26
+info,date,2008/10/27
+info,date,2008/10/28
+info,date,2008/10/29
+info,event,New Zealand in Bangladesh Test Series
+info,match_number,2
+info,venue,Shere Bangla National Stadium
+info,city,Mirpur
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,DL Vettori
+info,umpire,EAR de Silva
+info,umpire,DJ Harper
+info,reserve_umpire,Anisur Rahman
+info,tv_umpire,AFM Akhtaruddin
+info,match_referee,J Srinath
+info,outcome,draw
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Junaid Siddique
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Rajin Saleh
+info,player,Bangladesh,Mehrab Hossain jnr
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mashrafe Mortaza
+info,player,Bangladesh,Abdur Razzak
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Mahbubul Alam
+info,player,New Zealand,AJ Redmond
+info,player,New Zealand,JM How
+info,player,New Zealand,JD Ryder
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DR Flynn
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,GD Elliott
+info,player,New Zealand,JS Patel
+info,player,New Zealand,IE O'Brien
+info,player,New Zealand,KD Mills
+info,registry,people,AFM Akhtaruddin,b786b38f
+info,registry,people,AJ Redmond,48f177f5
+info,registry,people,Abdur Razzak,888e32bf
+info,registry,people,Anisur Rahman,affbf093
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,GD Elliott,c03449e0
+info,registry,people,IE O'Brien,78f34e15
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,JM How,fd8f11e9
+info,registry,people,JS Patel,f5821615
+info,registry,people,Junaid Siddique,62e203d4
+info,registry,people,KD Mills,7fb32e5b
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,Mahbubul Alam,5284c884
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mehrab Hossain jnr,86cd782f
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Rajin Saleh,acc321aa
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Tamim Iqbal,3b041a12

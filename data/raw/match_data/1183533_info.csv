@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,male
+info,season,2019/20
+info,date,2019/12/26
+info,date,2019/12/27
+info,date,2019/12/28
+info,date,2019/12/29
+info,event,Trans-Tasman Trophy
+info,match_number,2
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,TM Head
+info,umpire,NJ Llong
+info,umpire,M Erasmus
+info,reserve_umpire,GA Abood
+info,tv_umpire,Aleem Dar
+info,match_referee,RB Richardson
+info,winner,Australia
+info,winner_runs,247
+info,player,Australia,DA Warner
+info,player,Australia,JA Burns
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,MS Wade
+info,player,Australia,TM Head
+info,player,Australia,TD Paine
+info,player,Australia,MA Starc
+info,player,Australia,JL Pattinson
+info,player,Australia,PJ Cummins
+info,player,Australia,NM Lyon
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ Watling,928670cc
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GA Abood,a4af5528
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JL Pattinson,f752db61
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Wade,afa7e784
+info,registry,people,N Wagner,78adc879
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TD Paine,5748e866
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TM Head,12b610c2
+info,registry,people,TWM Latham,e824e6ee

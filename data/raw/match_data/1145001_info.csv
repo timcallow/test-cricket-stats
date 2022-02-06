@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Sri Lanka
+info,gender,male
+info,season,2018/19
+info,date,2019/02/01
+info,date,2019/02/02
+info,date,2019/02/03
+info,date,2019/02/04
+info,event,Sri Lanka tour of Australia
+info,match_number,2
+info,venue,Manuka Oval
+info,city,Canberra
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,MA Starc
+info,umpire,MA Gough
+info,umpire,RK Illingworth
+info,reserve_umpire,SJ Nogajski
+info,tv_umpire,M Erasmus
+info,match_referee,J Srinath
+info,winner,Australia
+info,winner_runs,366
+info,player,Australia,MS Harris
+info,player,Australia,JA Burns
+info,player,Australia,UT Khawaja
+info,player,Australia,M Labuschagne
+info,player,Australia,TM Head
+info,player,Australia,KR Patterson
+info,player,Australia,TD Paine
+info,player,Australia,PJ Cummins
+info,player,Australia,MA Starc
+info,player,Australia,JA Richardson
+info,player,Australia,NM Lyon
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,C Karunaratne
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,MVT Fernando
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JA Richardson,1ee08e9a
+info,registry,people,KR Patterson,e3bf8356
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MDK Perera,5531248e
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MS Harris,9e85455c
+info,registry,people,MVT Fernando,5eef2118
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,TD Paine,5748e866
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Khawaja,331ea488

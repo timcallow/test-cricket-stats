@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Bangladesh
+info,gender,male
+info,season,2007
+info,date,2007/05/25
+info,date,2007/05/26
+info,date,2007/05/27
+info,event,India tour of Bangladesh
+info,match_number,2
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,Z Khan
+info,umpire,DJ Harper
+info,umpire,BR Doctrove
+info,reserve_umpire,Manzur Rahman
+info,tv_umpire,Nadir Shah
+info,match_referee,RS Mahanama
+info,winner,India
+info,winner_innings,1
+info,winner_runs,239
+info,player,India,KD Karthik
+info,player,India,W Jaffer
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,SC Ganguly
+info,player,India,MS Dhoni
+info,player,India,RR Powar
+info,player,India,Z Khan
+info,player,India,A Kumble
+info,player,India,RP Singh
+info,player,India,I Sharma
+info,player,Bangladesh,Javed Omar
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Rajin Saleh
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Mashrafe Mortaza
+info,player,Bangladesh,Mohammad Sharif
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Syed Rasel
+info,registry,people,A Kumble,0c2730df
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,Javed Omar,e15faa51
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Manzur Rahman,6e93c945
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,Mohammad Sharif,1ec36a1e
+info,registry,people,Nadir Shah,3515389d
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RP Singh,c3d1402f
+info,registry,people,RR Powar,5d096f3d
+info,registry,people,RS Mahanama,57910393
+info,registry,people,Rajin Saleh,acc321aa
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Syed Rasel,b743f01b
+info,registry,people,W Jaffer,619aa81f
+info,registry,people,Z Khan,91a4a398

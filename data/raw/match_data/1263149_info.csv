@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,male
+info,season,2021
+info,date,2021/06/10
+info,date,2021/06/11
+info,date,2021/06/12
+info,event,South Africa tour of West Indies
+info,match_number,1
+info,venue,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia"
+info,city,Gros Islet
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,Q de Kock
+info,umpire,GO Brathwaite
+info,umpire,JS Wilson
+info,reserve_umpire,N Duguid
+info,tv_umpire,LS Reifer
+info,match_referee,RB Richardson
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,63
+info,player,West Indies,KOA Powell
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,SD Hope
+info,player,West Indies,NE Bonner
+info,player,West Indies,RL Chase
+info,player,West Indies,KR Mayers
+info,player,West Indies,J Blackwood
+info,player,West Indies,JO Holder
+info,player,West Indies,J Da Silva
+info,player,West Indies,RRS Cornwall
+info,player,West Indies,KAJ Roach
+info,player,West Indies,JNT Seales
+info,player,South Africa,D Elgar
+info,player,South Africa,AK Markram
+info,player,South Africa,KD Petersen
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,K Verreynne
+info,player,South Africa,Q de Kock
+info,player,South Africa,PWA Mulder
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,L Ngidi
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,D Elgar,33085ffb
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,JNT Seales,ded9ff1e
+info,registry,people,JO Holder,0f721006
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,KR Mayers,73c18486
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,N Duguid,64495506
+info,registry,people,NE Bonner,59ddd811
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RRS Cornwall,c4d9634c
+info,registry,people,SD Hope,1fc6ef83

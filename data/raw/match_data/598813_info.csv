@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2012/13
+info,date,2013/03/02
+info,date,2013/03/03
+info,date,2013/03/04
+info,date,2013/03/05
+info,event,Border-Gavaskar Trophy
+info,match_number,2
+info,venue,"Rajiv Gandhi International Stadium, Uppal"
+info,city,Hyderabad
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,CA Pujara
+info,umpire,HDPK Dharmasena
+info,umpire,M Erasmus
+info,reserve_umpire,S Das
+info,tv_umpire,S Ravi
+info,match_referee,BC Broad
+info,winner,India
+info,winner_innings,1
+info,winner_runs,135
+info,player,Australia,DA Warner
+info,player,Australia,EJM Cowan
+info,player,Australia,PJ Hughes
+info,player,Australia,SR Watson
+info,player,Australia,MJ Clarke
+info,player,Australia,MS Wade
+info,player,Australia,MC Henriques
+info,player,Australia,GJ Maxwell
+info,player,Australia,PM Siddle
+info,player,Australia,JL Pattinson
+info,player,Australia,XJ Doherty
+info,player,India,M Vijay
+info,player,India,V Sehwag
+info,player,India,CA Pujara
+info,player,India,SR Tendulkar
+info,player,India,V Kohli
+info,player,India,MS Dhoni
+info,player,India,RA Jadeja
+info,player,India,R Ashwin
+info,player,India,Harbhajan Singh
+info,player,India,B Kumar
+info,player,India,I Sharma
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,EJM Cowan,fee3c48a
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,JL Pattinson,f752db61
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,MS Wade,afa7e784
+info,registry,people,PJ Hughes,004c9e85
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,S Das,475e38b6
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,V Kohli,ba607b88
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,XJ Doherty,502b2c81

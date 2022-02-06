@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,male
+info,season,2015/16
+info,date,2016/01/02
+info,date,2016/01/03
+info,date,2016/01/04
+info,date,2016/01/05
+info,date,2016/01/06
+info,event,Basil D'Oliveira Trophy
+info,match_number,2
+info,venue,Newlands
+info,city,Cape Town
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,BA Stokes
+info,umpire,Aleem Dar
+info,umpire,BNJ Oxenford
+info,reserve_umpire,S George
+info,tv_umpire,RJ Tucker
+info,match_referee,RS Madugalle
+info,outcome,draw
+info,player,England,AN Cook
+info,player,England,AD Hales
+info,player,England,NRD Compton
+info,player,England,JE Root
+info,player,England,JWA Taylor
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,England,ST Finn
+info,player,South Africa,D Elgar
+info,player,South Africa,S van Zyl
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,CH Morris
+info,player,South Africa,K Rabada
+info,player,South Africa,DL Piedt
+info,player,South Africa,M Morkel
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HM Amla,e798611a
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JWA Taylor,c374f37f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MM Ali,bb351c23
+info,registry,people,NRD Compton,e5437a99
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S George,6d9e5a54
+info,registry,people,S van Zyl,f4dfcbb4
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,T Bavuma,9ffd1ac1

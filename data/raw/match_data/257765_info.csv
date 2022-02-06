@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Pakistan
+info,gender,male
+info,season,2006/07
+info,date,2006/11/11
+info,date,2006/11/12
+info,date,2006/11/13
+info,date,2006/11/14
+info,event,West Indies tour of Pakistan
+info,match_number,1
+info,venue,Gaddafi Stadium
+info,city,Lahore
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,Umar Gul
+info,umpire,EAR de Silva
+info,umpire,SJA Taufel
+info,reserve_umpire,Afzaal Ahmed
+info,tv_umpire,Nadeem Ghauri
+info,match_referee,RS Mahanama
+info,winner,Pakistan
+info,winner_wickets,9
+info,player,West Indies,CH Gayle
+info,player,West Indies,D Ganga
+info,player,West Indies,RR Sarwan
+info,player,West Indies,BC Lara
+info,player,West Indies,FH Edwards
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DJ Bravo
+info,player,West Indies,D Ramdin
+info,player,West Indies,D Mohammed
+info,player,West Indies,JE Taylor
+info,player,West Indies,CD Collymore
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Shahid Nazir
+info,player,Pakistan,Danish Kaneria
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,Afzaal Ahmed,34f2b20f
+info,registry,people,BC Lara,d5403021
+info,registry,people,CD Collymore,87b177e8
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ganga,d5f3b5e1
+info,registry,people,D Mohammed,77079be1
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,JE Taylor,4180d897
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,Nadeem Ghauri,8387d138
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Mahanama,57910393
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Shahid Nazir,53fa8a73
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Younis Khan,33cb3411

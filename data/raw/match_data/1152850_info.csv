@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2019
+info,date,2019/09/12
+info,date,2019/09/13
+info,date,2019/09/14
+info,date,2019/09/15
+info,event,The Ashes
+info,match_number,5
+info,venue,Kennington Oval
+info,city,London
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,JC Archer
+info,umpire,HDPK Dharmasena
+info,umpire,M Erasmus
+info,reserve_umpire,AG Wharf
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,J Srinath
+info,winner,England
+info,winner_runs,135
+info,player,England,RJ Burns
+info,player,England,JL Denly
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,JC Buttler
+info,player,England,SM Curran
+info,player,England,CR Woakes
+info,player,England,JC Archer
+info,player,England,MJ Leach
+info,player,England,SCJ Broad
+info,player,Australia,DA Warner
+info,player,Australia,MS Harris
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,MS Wade
+info,player,Australia,MR Marsh
+info,player,Australia,TD Paine
+info,player,Australia,PJ Cummins
+info,player,Australia,PM Siddle
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MJ Leach,3987e390
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Harris,9e85455c
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TD Paine,5748e866

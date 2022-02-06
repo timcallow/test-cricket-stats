@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,male
+info,season,2015/16
+info,date,2015/12/26
+info,date,2015/12/27
+info,date,2015/12/28
+info,date,2015/12/29
+info,date,2015/12/30
+info,event,Basil D'Oliveira Trophy
+info,match_number,1
+info,venue,Kingsmead
+info,city,Durban
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,MM Ali
+info,umpire,Aleem Dar
+info,umpire,RJ Tucker
+info,reserve_umpire,JD Cloete
+info,tv_umpire,BNJ Oxenford
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_runs,241
+info,player,England,AN Cook
+info,player,England,AD Hales
+info,player,England,NRD Compton
+info,player,England,JE Root
+info,player,England,JWA Taylor
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,CR Woakes
+info,player,England,SCJ Broad
+info,player,England,ST Finn
+info,player,South Africa,S van Zyl
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,JP Duminy
+info,player,South Africa,KJ Abbott
+info,player,South Africa,DW Steyn
+info,player,South Africa,DL Piedt
+info,player,South Africa,M Morkel
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HM Amla,e798611a
+info,registry,people,JD Cloete,b0419f8c
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,JWA Taylor,c374f37f
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MM Ali,bb351c23
+info,registry,people,NRD Compton,e5437a99
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S van Zyl,f4dfcbb4
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,T Bavuma,9ffd1ac1

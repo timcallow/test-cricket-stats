@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,England
+info,gender,male
+info,season,2005
+info,date,2005/06/03
+info,date,2005/06/04
+info,date,2005/06/05
+info,event,Bangladesh tour of England
+info,match_number,2
+info,venue,Riverside Ground
+info,city,Chester-le-Street
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,MJ Hoggard
+info,umpire,DJ Harper
+info,umpire,AL Hill
+info,tv_umpire,NJ Llong
+info,match_referee,AG Hurst
+info,winner,England
+info,winner_innings,1
+info,winner_runs,27
+info,player,Bangladesh,Javed Omar
+info,player,Bangladesh,Nafees Iqbal
+info,player,Bangladesh,Rajin Saleh
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Aftab Ahmed
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Anwar Hossain Monir
+info,player,Bangladesh,Tapash Baisya
+info,player,Bangladesh,Mashrafe Mortaza
+info,player,England,ME Trescothick
+info,player,England,AJ Strauss
+info,player,England,MP Vaughan
+info,player,England,IR Bell
+info,player,England,GP Thorpe
+info,player,England,A Flintoff
+info,player,England,GO Jones
+info,player,England,GJ Batty
+info,player,England,MJ Hoggard
+info,player,England,SJ Harmison
+info,player,England,SP Jones
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AL Hill,4165ced0
+info,registry,people,Aftab Ahmed,53bc7b84
+info,registry,people,Anwar Hossain Monir,5d02a793
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,GJ Batty,5ac8f17b
+info,registry,people,GO Jones,2e929b99
+info,registry,people,GP Thorpe,53fcbbfb
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,IR Bell,33155d1b
+info,registry,people,Javed Omar,e15faa51
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Nafees Iqbal,c5b87d8c
+info,registry,people,Rajin Saleh,acc321aa
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,SP Jones,207c4398
+info,registry,people,Tapash Baisya,bb1819fa

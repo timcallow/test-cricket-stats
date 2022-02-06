@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Sri Lanka
+info,gender,male
+info,season,2012/13
+info,date,2012/12/26
+info,date,2012/12/27
+info,date,2012/12/28
+info,event,Warne-Muralitharan Trophy
+info,match_number,2
+info,venue,Melbourne Cricket Ground
+info,city,
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,MG Johnson
+info,umpire,Aleem Dar
+info,umpire,NJ Llong
+info,reserve_umpire,JD Ward
+info,tv_umpire,AL Hill
+info,match_referee,BC Broad
+info,winner,Australia
+info,winner_innings,1
+info,winner_runs,201
+info,player,Australia,EJM Cowan
+info,player,Australia,DA Warner
+info,player,Australia,PJ Hughes
+info,player,Australia,SR Watson
+info,player,Australia,MJ Clarke
+info,player,Australia,MEK Hussey
+info,player,Australia,MS Wade
+info,player,Australia,MG Johnson
+info,player,Australia,PM Siddle
+info,player,Australia,NM Lyon
+info,player,Australia,JM Bird
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,KTGD Prasad
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,RMS Eranga
+info,player,Sri Lanka,UWMBCA Welegedara
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AL Hill,4165ced0
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,EJM Cowan,fee3c48a
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,JD Ward,511299c1
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KTGD Prasad,9b79b9de
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Hughes,004c9e85
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RMS Eranga,8f7a598f
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,UWMBCA Welegedara,dd37da14

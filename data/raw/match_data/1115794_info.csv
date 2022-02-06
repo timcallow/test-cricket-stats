@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,West Indies
+info,gender,male
+info,season,2017/18
+info,date,2017/12/09
+info,date,2017/12/10
+info,date,2017/12/11
+info,date,2017/12/12
+info,event,West Indies tour of New Zealand
+info,match_number,2
+info,venue,Seddon Park
+info,city,Hamilton
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,LRPL Taylor
+info,umpire,RJ Tucker
+info,umpire,BNJ Oxenford
+info,reserve_umpire,CM Brown
+info,tv_umpire,IJ Gould
+info,match_referee,BC Broad
+info,winner,New Zealand
+info,winner_runs,240
+info,player,New Zealand,JA Raval
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TG Southee
+info,player,New Zealand,TA Boult
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,KOA Powell
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,SD Hope
+info,player,West Indies,RL Chase
+info,player,West Indies,SW Ambris
+info,player,West Indies,SO Dowrich
+info,player,West Indies,RA Reifer
+info,player,West Indies,KAJ Roach
+info,player,West Indies,ML Cummins
+info,player,West Indies,ST Gabriel
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,ML Cummins,92aa28fe
+info,registry,people,N Wagner,78adc879
+info,registry,people,RA Reifer,d7725664
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,SW Ambris,c7f6dd3b
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee

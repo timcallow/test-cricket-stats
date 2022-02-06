@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Pakistan
+info,gender,male
+info,season,2007/08
+info,date,2007/12/08
+info,date,2007/12/09
+info,date,2007/12/10
+info,date,2007/12/11
+info,date,2007/12/12
+info,event,Pakistan tour of India
+info,match_number,3
+info,venue,M.Chinnaswamy Stadium
+info,city,Bengaluru
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,SC Ganguly
+info,umpire,RE Koertzen
+info,umpire,SJA Taufel
+info,tv_umpire,GA Pratapkumar
+info,match_referee,RS Madugalle
+info,outcome,draw
+info,player,India,W Jaffer
+info,player,India,G Gambhir
+info,player,India,R Dravid
+info,player,India,SC Ganguly
+info,player,India,VVS Laxman
+info,player,India,Yuvraj Singh
+info,player,India,KD Karthik
+info,player,India,IK Pathan
+info,player,India,A Kumble
+info,player,India,Harbhajan Singh
+info,player,India,I Sharma
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Yasir Hameed
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Yasir Arafat
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Shoaib Akhtar
+info,player,Pakistan,Danish Kaneria
+info,registry,people,A Kumble,0c2730df
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,GA Pratapkumar,cf7c5778
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,W Jaffer,619aa81f
+info,registry,people,Yasir Arafat,3cf5ae43
+info,registry,people,Yasir Hameed,f144d99b
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Yuvraj Singh,1c914163

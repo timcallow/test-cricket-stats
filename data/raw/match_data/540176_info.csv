@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Australia
+info,gender,male
+info,season,2011/12
+info,date,2012/04/07
+info,date,2012/04/08
+info,date,2012/04/09
+info,date,2012/04/10
+info,date,2012/04/11
+info,event,The Frank Worrell Trophy
+info,match_number,1
+info,venue,"Kensington Oval, Bridgetown"
+info,city,Barbados
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,RJ Harris
+info,umpire,IJ Gould
+info,umpire,AL Hill
+info,reserve_umpire,GO Brathwaite
+info,tv_umpire,M Erasmus
+info,match_referee,JJ Crowe
+info,winner,Australia
+info,winner_wickets,3
+info,player,Australia,EJM Cowan
+info,player,Australia,DA Warner
+info,player,Australia,SR Watson
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,MEK Hussey
+info,player,Australia,MS Wade
+info,player,Australia,PM Siddle
+info,player,Australia,RJ Harris
+info,player,Australia,BW Hilfenhaus
+info,player,Australia,NM Lyon
+info,player,West Indies,AB Barath
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,KA Edwards
+info,player,West Indies,DM Bravo
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,N Deonarine
+info,player,West Indies,CS Baugh
+info,player,West Indies,DJG Sammy
+info,player,West Indies,KAJ Roach
+info,player,West Indies,FH Edwards
+info,player,West Indies,D Bishoo
+info,registry,people,AB Barath,d3a3e82d
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BW Hilfenhaus,f3171936
+info,registry,people,CS Baugh,151e8077
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,EJM Cowan,fee3c48a
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KA Edwards,d06335fd
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MS Wade,afa7e784
+info,registry,people,N Deonarine,caf1b14c
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RJ Harris,12eddf28
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SR Watson,4329fbb5

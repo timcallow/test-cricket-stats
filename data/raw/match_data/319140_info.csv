@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Australia
+info,gender,male
+info,season,2008
+info,date,2008/05/30
+info,date,2008/05/31
+info,date,2008/06/01
+info,date,2008/06/02
+info,date,2008/06/03
+info,event,The Frank Worrell Trophy
+info,match_number,2
+info,venue,"Sir Vivian Richards Stadium, North Sound"
+info,city,Antigua
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,S Chanderpaul
+info,umpire,MR Benson
+info,umpire,RB Tiffin
+info,reserve_umpire,CE Mack
+info,tv_umpire,NA Malcolm
+info,match_referee,RS Mahanama
+info,outcome,draw
+info,player,Australia,PA Jaques
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,A Symonds
+info,player,Australia,BJ Haddin
+info,player,Australia,B Lee
+info,player,Australia,MG Johnson
+info,player,Australia,SR Clark
+info,player,Australia,SCG MacGill
+info,player,West Indies,DS Smith
+info,player,West Indies,XM Marshall
+info,player,West Indies,RR Sarwan
+info,player,West Indies,RS Morton
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DJ Bravo
+info,player,West Indies,D Ramdin
+info,player,West Indies,DJG Sammy
+info,player,West Indies,JE Taylor
+info,player,West Indies,DBL Powell
+info,player,West Indies,FH Edwards
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BJ Hodge,b57f8a9a
+info,registry,people,CE Mack,ad90e4b8
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DBL Powell,83904270
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DS Smith,85ad2217
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,JE Taylor,4180d897
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MR Benson,790e14d3
+info,registry,people,NA Malcolm,9514072e
+info,registry,people,PA Jaques,03252e44
+info,registry,people,RB Tiffin,89087a0d
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RS Morton,2f8a9682
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SCG MacGill,60dac349
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Clark,a3bfec5d
+info,registry,people,XM Marshall,ffb504b1

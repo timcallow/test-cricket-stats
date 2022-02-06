@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Australia
+info,gender,male
+info,season,2015
+info,date,2015/06/03
+info,date,2015/06/04
+info,date,2015/06/05
+info,event,The Frank Worrell Trophy
+info,match_number,1
+info,venue,"Windsor Park, Roseau"
+info,city,Dominica
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,AC Voges
+info,umpire,Aleem Dar
+info,umpire,RA Kettleborough
+info,reserve_umpire,N Duguid
+info,tv_umpire,IJ Gould
+info,match_referee,RS Mahanama
+info,winner,Australia
+info,winner_wickets,9
+info,player,Australia,DA Warner
+info,player,Australia,SE Marsh
+info,player,Australia,SPD Smith
+info,player,Australia,MJ Clarke
+info,player,Australia,AC Voges
+info,player,Australia,SR Watson
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,MA Starc
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,SD Hope
+info,player,West Indies,DM Bravo
+info,player,West Indies,SO Dowrich
+info,player,West Indies,MN Samuels
+info,player,West Indies,J Blackwood
+info,player,West Indies,D Ramdin
+info,player,West Indies,JO Holder
+info,player,West Indies,JE Taylor
+info,player,West Indies,D Bishoo
+info,player,West Indies,ST Gabriel
+info,registry,people,AC Voges,864c199e
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,JE Taylor,4180d897
+info,registry,people,JO Holder,0f721006
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,N Duguid,64495506
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,ST Gabriel,d9609443

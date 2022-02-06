@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2017/18
+info,date,2018/01/04
+info,date,2018/01/05
+info,date,2018/01/06
+info,date,2018/01/07
+info,date,2018/01/08
+info,event,England tour of Australia and New Zealand
+info,match_number,5
+info,venue,Sydney Cricket Ground
+info,city,
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,PJ Cummins
+info,umpire,JS Wilson
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,GA Abood
+info,tv_umpire,S Ravi
+info,match_referee,RS Madugalle
+info,winner,Australia
+info,winner_innings,1
+info,winner_runs,123
+info,player,England,AN Cook
+info,player,England,MD Stoneman
+info,player,England,JM Vince
+info,player,England,JE Root
+info,player,England,DJ Malan
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,TK Curran
+info,player,England,SCJ Broad
+info,player,England,MS Crane
+info,player,England,JM Anderson
+info,player,Australia,CT Bancroft
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,SPD Smith
+info,player,Australia,SE Marsh
+info,player,Australia,MR Marsh
+info,player,Australia,TD Paine
+info,player,Australia,MA Starc
+info,player,Australia,PJ Cummins
+info,player,Australia,JR Hazlewood
+info,player,Australia,NM Lyon
+info,registry,people,AN Cook,f41598c1
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,GA Abood,a4af5528
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JM Vince,a15618fe
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TD Paine,5748e866
+info,registry,people,TK Curran,e86754b2
+info,registry,people,UT Khawaja,331ea488

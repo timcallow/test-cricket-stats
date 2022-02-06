@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Sri Lanka
+info,gender,male
+info,season,2009/10
+info,date,2009/11/24
+info,date,2009/11/25
+info,date,2009/11/26
+info,date,2009/11/27
+info,event,Sri Lanka in India Test Series
+info,match_number,2
+info,venue,Green Park
+info,city,Kanpur
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,S Sreesanth
+info,umpire,AL Hill
+info,umpire,NJ Llong
+info,reserve_umpire,SD Ranade
+info,tv_umpire,SS Hazare
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_innings,1
+info,winner_runs,144
+info,player,India,G Gambhir
+info,player,India,V Sehwag
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,VVS Laxman
+info,player,India,Yuvraj Singh
+info,player,India,MS Dhoni
+info,player,India,Harbhajan Singh
+info,player,India,Z Khan
+info,player,India,S Sreesanth
+info,player,India,PP Ojha
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,NT Paranavitana
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,UWMBCA Welegedara
+info,player,Sri Lanka,BAW Mendis
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BAW Mendis,ea0cdc12
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NT Paranavitana,200f2761
+info,registry,people,PP Ojha,6c6591ab
+info,registry,people,R Dravid,0184dc35
+info,registry,people,S Sreesanth,6b8eb6e5
+info,registry,people,SD Ranade,369c85c1
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,SS Hazare,166e5081
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,UWMBCA Welegedara,dd37da14
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Yuvraj Singh,1c914163
+info,registry,people,Z Khan,91a4a398

@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,West Indies
+info,gender,male
+info,season,2006
+info,date,2006/06/30
+info,date,2006/07/01
+info,date,2006/07/02
+info,event,India tour of West Indies
+info,match_number,4
+info,venue,"Sabina Park, Kingston"
+info,city,Jamaica
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,R Dravid
+info,umpire,RE Koertzen
+info,umpire,BG Jerling
+info,tv_umpire,NA Malcolm
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_runs,49
+info,player,India,W Jaffer
+info,player,India,V Sehwag
+info,player,India,VVS Laxman
+info,player,India,R Dravid
+info,player,India,Yuvraj Singh
+info,player,India,M Kaif
+info,player,India,MS Dhoni
+info,player,India,A Kumble
+info,player,India,Harbhajan Singh
+info,player,India,S Sreesanth
+info,player,India,MM Patel
+info,player,West Indies,CH Gayle
+info,player,West Indies,D Ganga
+info,player,West Indies,BC Lara
+info,player,West Indies,RR Sarwan
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DJ Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,D Ramdin
+info,player,West Indies,JE Taylor
+info,player,West Indies,PT Collins
+info,player,West Indies,CD Collymore
+info,registry,people,A Kumble,0c2730df
+info,registry,people,BC Lara,d5403021
+info,registry,people,BG Jerling,26457e41
+info,registry,people,CD Collymore,87b177e8
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ganga,d5f3b5e1
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,JE Taylor,4180d897
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,M Kaif,d84378a4
+info,registry,people,MM Patel,f0f628c7
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,NA Malcolm,9514072e
+info,registry,people,PT Collins,f1cb042f
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Morton,2f8a9682
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Sreesanth,6b8eb6e5
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,W Jaffer,619aa81f
+info,registry,people,Yuvraj Singh,1c914163

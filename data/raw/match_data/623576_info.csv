@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Bangladesh
+info,gender,male
+info,season,2013
+info,date,2013/04/17
+info,date,2013/04/18
+info,date,2013/04/19
+info,date,2013/04/20
+info,event,Bangladesh in Zimbabwe Test Series
+info,match_number,1
+info,venue,Harare Sports Club
+info,city,
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,BRM Taylor
+info,umpire,BF Bowden
+info,umpire,AL Hill
+info,reserve_umpire,O Chirombe
+info,tv_umpire,TJ Matibiri
+info,match_referee,BC Broad
+info,winner,Zimbabwe
+info,winner_runs,335
+info,player,Bangladesh,Jahurul Islam
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Nasir Hossain
+info,player,Bangladesh,Sohag Gazi
+info,player,Bangladesh,Enamul Haque jnr
+info,player,Bangladesh,Rubel Hossain
+info,player,Bangladesh,Robiul Islam
+info,player,Zimbabwe,T Maruma
+info,player,Zimbabwe,V Sibanda
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,MN Waller
+info,player,Zimbabwe,E Chigumbura
+info,player,Zimbabwe,R Mutumbami
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,KO Meth
+info,player,Zimbabwe,SW Masakadza
+info,player,Zimbabwe,KM Jarvis
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,E Chigumbura,d2babdd5
+info,registry,people,Enamul Haque jnr,0480aba6
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,Jahurul Islam,6752c57b
+info,registry,people,KM Jarvis,59792462
+info,registry,people,KO Meth,9fbc7bc4
+info,registry,people,MN Waller,ec4dada1
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,O Chirombe,6345307f
+info,registry,people,R Mutumbami,5fef85ee
+info,registry,people,Robiul Islam,d876610c
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,SW Masakadza,2182013e
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sohag Gazi,5a4c12ab
+info,registry,people,T Maruma,f55c526f
+info,registry,people,TJ Matibiri,4a3132b1
+info,registry,people,V Sibanda,0fdabe05

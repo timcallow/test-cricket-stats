@@ -1,0 +1,76 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,England
+info,gender,male
+info,season,2021
+info,date,2021/08/25
+info,date,2021/08/26
+info,date,2021/08/27
+info,date,2021/08/28
+info,event,India tour of England
+info,match_number,3
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,OE Robinson
+info,umpire,AG Wharf
+info,umpire,RA Kettleborough
+info,reserve_umpire,MJ Saggers
+info,tv_umpire,RK Illingworth
+info,match_referee,BC Broad
+info,winner,England
+info,winner_innings,1
+info,winner_runs,76
+info,players,India,RG Sharma
+info,players,India,KL Rahul
+info,players,India,CA Pujara
+info,players,India,V Kohli
+info,players,India,AM Rahane
+info,players,India,RR Pant
+info,players,India,RA Jadeja
+info,players,India,Mohammed Shami
+info,players,India,I Sharma
+info,players,India,JJ Bumrah
+info,players,India,Mohammed Siraj
+info,players,England,RJ Burns
+info,players,England,H Hameed
+info,players,England,DJ Malan
+info,players,England,JE Root
+info,players,England,JM Bairstow
+info,players,England,JC Buttler
+info,players,England,MM Ali
+info,players,England,SM Curran
+info,players,England,C Overton
+info,players,England,OE Robinson
+info,players,England,JM Anderson
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AR Patel,2e171977
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,C Overton,e9987a94
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SM Curran,e94915e6
+info,registry,people,V Kohli,ba607b88

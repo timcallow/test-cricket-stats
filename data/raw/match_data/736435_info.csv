@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,South Africa
+info,gender,male
+info,season,2014
+info,date,2014/08/09
+info,date,2014/08/10
+info,date,2014/08/11
+info,date,2014/08/12
+info,venue,Harare Sports Club
+info,city,
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,DL Piedt
+info,umpire,Aleem Dar
+info,umpire,CB Gaffaney
+info,reserve_umpire,O Chirombe
+info,tv_umpire,TJ Matibiri
+info,match_referee,RS Mahanama
+info,winner,South Africa
+info,winner_wickets,9
+info,player,South Africa,D Elgar
+info,player,South Africa,AN Petersen
+info,player,South Africa,F du Plessis
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,Q de Kock
+info,player,South Africa,JP Duminy
+info,player,South Africa,VD Philander
+info,player,South Africa,DW Steyn
+info,player,South Africa,DL Piedt
+info,player,South Africa,M Morkel
+info,player,Zimbabwe,V Sibanda
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,MA Vermeulen
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,R Mutumbami
+info,player,Zimbabwe,T Panyangara
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,TL Chatara
+info,player,Zimbabwe,J Nyumbu
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HM Amla,e798611a
+info,registry,people,J Nyumbu,024a173d
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MA Vermeulen,611c06dd
+info,registry,people,O Chirombe,6345307f
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Mutumbami,5fef85ee
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,T Panyangara,3b417422
+info,registry,people,TJ Matibiri,4a3132b1
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,V Sibanda,0fdabe05
+info,registry,people,VD Philander,cfe70281

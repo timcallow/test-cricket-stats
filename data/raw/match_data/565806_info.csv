@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,England
+info,gender,male
+info,season,2012/13
+info,date,2012/11/15
+info,date,2012/11/16
+info,date,2012/11/17
+info,date,2012/11/18
+info,date,2012/11/19
+info,event,England in India Test Series
+info,match_number,1
+info,venue,"Sardar Patel Stadium, Motera"
+info,city,Ahmedabad
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,CA Pujara
+info,umpire,Aleem Dar
+info,umpire,AL Hill
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,S Asnani
+info,match_referee,RS Mahanama
+info,winner,India
+info,winner_wickets,9
+info,player,England,AN Cook
+info,player,England,NRD Compton
+info,player,England,JM Anderson
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,SR Patel
+info,player,England,MJ Prior
+info,player,England,TT Bresnan
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,India,G Gambhir
+info,player,India,V Sehwag
+info,player,India,CA Pujara
+info,player,India,SR Tendulkar
+info,player,India,V Kohli
+info,player,India,Yuvraj Singh
+info,player,India,MS Dhoni
+info,player,India,R Ashwin
+info,player,India,Z Khan
+info,player,India,PP Ojha
+info,player,India,UT Yadav
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AL Hill,4165ced0
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,NRD Compton,e5437a99
+info,registry,people,PP Ojha,6c6591ab
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RS Mahanama,57910393
+info,registry,people,S Asnani,b04524bc
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SR Patel,18fac429
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,TT Bresnan,58043739
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,Yuvraj Singh,1c914163
+info,registry,people,Z Khan,91a4a398

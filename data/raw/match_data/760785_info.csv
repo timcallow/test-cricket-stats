@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Zimbabwe
+info,gender,male
+info,season,2014/15
+info,date,2014/11/12
+info,date,2014/11/13
+info,date,2014/11/14
+info,date,2014/11/15
+info,date,2014/11/16
+info,event,Zimbabwe in Bangladesh Test Series
+info,match_number,3
+info,venue,Zahur Ahmed Chowdhury Stadium
+info,city,Chittagong
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Mominul Haque
+info,umpire,Aleem Dar
+info,umpire,CB Gaffaney
+info,reserve_umpire,Sharfuddoula
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,BC Broad
+info,winner,Bangladesh
+info,winner_runs,186
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shuvagata Hom
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Shafiul Islam
+info,player,Bangladesh,Rubel Hossain
+info,player,Bangladesh,Jubair Hossain
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,BB Chari
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,E Chigumbura
+info,player,Zimbabwe,R Mutumbami
+info,player,Zimbabwe,SW Masakadza
+info,player,Zimbabwe,T Panyangara
+info,player,Zimbabwe,N M'shangwe
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BB Chari,41fc1ece
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,E Chigumbura,d2babdd5
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Jubair Hossain,902d916b
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,N M'shangwe,dd468277
+info,registry,people,R Mutumbami,5fef85ee
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,SW Masakadza,2182013e
+info,registry,people,Shafiul Islam,1a8eebbe
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Panyangara,3b417422
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,V Sibanda,0fdabe05

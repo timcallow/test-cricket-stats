@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,male
+info,season,2007
+info,date,2007/07/27
+info,date,2007/07/28
+info,date,2007/07/29
+info,date,2007/07/30
+info,date,2007/07/31
+info,event,"India tour of Ireland, England and Scotland"
+info,match_number,2
+info,venue,Trent Bridge
+info,city,Nottingham
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,Z Khan
+info,umpire,SJA Taufel
+info,umpire,IL Howell
+info,reserve_umpire,NA Mallender
+info,tv_umpire,NJ Llong
+info,match_referee,RS Madugalle
+info,winner,India
+info,winner_wickets,7
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,MP Vaughan
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,IR Bell
+info,player,England,MJ Prior
+info,player,England,CT Tremlett
+info,player,England,RJ Sidebottom
+info,player,England,MS Panesar
+info,player,England,JM Anderson
+info,player,India,KD Karthik
+info,player,India,W Jaffer
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,SC Ganguly
+info,player,India,VVS Laxman
+info,player,India,MS Dhoni
+info,player,India,A Kumble
+info,player,India,Z Khan
+info,player,India,RP Singh
+info,player,India,S Sreesanth
+info,registry,people,A Kumble,0c2730df
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,CT Tremlett,a72b14ff
+info,registry,people,IL Howell,c1cd91c3
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,MS Panesar,5a37ec26
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RJ Sidebottom,9dca07d7
+info,registry,people,RP Singh,c3d1402f
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Sreesanth,6b8eb6e5
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,W Jaffer,619aa81f
+info,registry,people,Z Khan,91a4a398

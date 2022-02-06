@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,India
+info,gender,male
+info,season,2011
+info,date,2011/07/06
+info,date,2011/07/07
+info,date,2011/07/08
+info,date,2011/07/09
+info,date,2011/07/10
+info,event,India in West Indies Test Series
+info,match_number,3
+info,venue,"Windsor Park, Roseau"
+info,city,Dominica
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,S Chanderpaul
+info,umpire,Asad Rauf
+info,umpire,RA Kettleborough
+info,reserve_umpire,NA Malcolm
+info,tv_umpire,JS Wilson
+info,match_referee,BC Broad
+info,outcome,draw
+info,player,India,A Mukund
+info,player,India,M Vijay
+info,player,India,R Dravid
+info,player,India,VVS Laxman
+info,player,India,V Kohli
+info,player,India,SK Raina
+info,player,India,MS Dhoni
+info,player,India,Harbhajan Singh
+info,player,India,P Kumar
+info,player,India,I Sharma
+info,player,India,MM Patel
+info,player,West Indies,AB Barath
+info,player,West Indies,KOA Powell
+info,player,West Indies,KA Edwards
+info,player,West Indies,DM Bravo
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,MN Samuels
+info,player,West Indies,CS Baugh
+info,player,West Indies,DJG Sammy
+info,player,West Indies,FH Edwards
+info,player,West Indies,R Rampaul
+info,player,West Indies,D Bishoo
+info,registry,people,A Mukund,6165bca6
+info,registry,people,AB Barath,d3a3e82d
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CS Baugh,151e8077
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KA Edwards,d06335fd
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MM Patel,f0f628c7
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,NA Malcolm,9514072e
+info,registry,people,P Kumar,e938e1bc
+info,registry,people,R Dravid,0184dc35
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VVS Laxman,de8cce37

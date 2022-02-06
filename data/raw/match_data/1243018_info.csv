@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,South Africa
+info,gender,male
+info,season,2020/21
+info,date,2021/02/04
+info,date,2021/02/05
+info,date,2021/02/06
+info,date,2021/02/07
+info,date,2021/02/08
+info,event,South Africa tour of Pakistan
+info,match_number,2
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Hasan Ali
+info,umpire,Ahsan Raza
+info,umpire,Aleem Dar
+info,reserve_umpire,Rashid Riaz
+info,tv_umpire,Asif Yaqoob
+info,match_referee,Muhammad Javed
+info,winner,Pakistan
+info,winner_runs,95
+info,player,Pakistan,Imran Butt (2)
+info,player,Pakistan,Abid Ali
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Fawad Alam
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Hasan Ali
+info,player,Pakistan,Yasir Shah
+info,player,Pakistan,Nauman Ali
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,South Africa,AK Markram
+info,player,South Africa,D Elgar
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,PWA Mulder
+info,player,South Africa,GF Linde
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Abid Ali,5d836a72
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,D Elgar,33085ffb
+info,registry,people,F du Plessis,3355b542
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fawad Alam,61f05b05
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Imran Butt (2),72683b68
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Nauman Ali,54c58a5e
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,Yasir Shah,f2800ef3

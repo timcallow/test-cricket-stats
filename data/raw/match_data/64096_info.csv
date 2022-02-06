@@ -1,0 +1,70 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,male
+info,season,2004
+info,date,2004/08/19
+info,date,2004/08/20
+info,date,2004/08/21
+info,event,West Indies tour of England
+info,match_number,4
+info,venue,Kennington Oval
+info,city,London
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,SJ Harmison
+info,umpire,DB Hair
+info,umpire,RE Koertzen
+info,tv_umpire,MR Benson
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_wickets,10
+info,player,England,ME Trescothick
+info,player,England,AJ Strauss
+info,player,England,RWT Key
+info,player,England,MP Vaughan
+info,player,England,IR Bell
+info,player,England,A Flintoff
+info,player,England,GO Jones
+info,player,England,AF Giles
+info,player,England,MJ Hoggard
+info,player,England,SJ Harmison
+info,player,England,JM Anderson
+info,player,West Indies,CH Gayle
+info,player,West Indies,SC Joseph
+info,player,West Indies,RR Sarwan
+info,player,West Indies,BC Lara
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DJ Bravo
+info,player,West Indies,CS Baugh
+info,player,West Indies,CD Collymore
+info,player,West Indies,FH Edwards
+info,player,West Indies,JJC Lawson
+info,player,West Indies,DR Smith
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AF Giles,a4af4849
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,BC Lara,d5403021
+info,registry,people,CD Collymore,87b177e8
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CS Baugh,151e8077
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DR Smith,35205dfc
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GO Jones,2e929b99
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JJC Lawson,1417ba2f
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,MR Benson,790e14d3
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RWT Key,bcb01d8c
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SC Joseph,1eff8625
+info,registry,people,SJ Harmison,c16d2e28

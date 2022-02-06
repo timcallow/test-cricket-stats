@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,India
+info,gender,male
+info,season,2018/19
+info,date,2018/10/12
+info,date,2018/10/13
+info,date,2018/10/14
+info,event,West Indies tour of India
+info,match_number,2
+info,venue,"Rajiv Gandhi International Stadium, Uppal"
+info,city,Hyderabad
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,UT Yadav
+info,umpire,BNJ Oxenford
+info,umpire,IJ Gould
+info,reserve_umpire,Nitin Menon
+info,tv_umpire,NJ Llong
+info,match_referee,BC Broad
+info,winner,India
+info,winner_wickets,10
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,KOA Powell
+info,player,West Indies,SD Hope
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,SW Ambris
+info,player,West Indies,RL Chase
+info,player,West Indies,SO Dowrich
+info,player,West Indies,JO Holder
+info,player,West Indies,D Bishoo
+info,player,West Indies,JA Warrican
+info,player,West Indies,ST Gabriel
+info,player,India,PP Shaw
+info,player,India,KL Rahul
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RR Pant
+info,player,India,R Ashwin
+info,player,India,RA Jadeja
+info,player,India,UT Yadav
+info,player,India,Kuldeep Yadav
+info,player,India,SN Thakur
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JA Warrican,cc23e91e
+info,registry,people,JN Hamilton,78feb458
+info,registry,people,JO Holder,0f721006
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,SW Ambris,c7f6dd3b
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,West Indies
+info,gender,male
+info,season,2007/08
+info,date,2008/01/02
+info,date,2008/01/03
+info,date,2008/01/04
+info,date,2008/01/05
+info,event,Sir Vivian Richards Trophy
+info,match_number,2
+info,venue,Newlands
+info,city,Cape Town
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,AG Prince
+info,umpire,SJA Taufel
+info,umpire,RB Tiffin
+info,reserve_umpire,MW Brown
+info,tv_umpire,M Erasmus
+info,match_referee,RS Mahanama
+info,winner,South Africa
+info,winner_wickets,7
+info,player,South Africa,GC Smith
+info,player,South Africa,ND McKenzie
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,AB de Villiers
+info,player,South Africa,MV Boucher
+info,player,South Africa,PL Harris
+info,player,South Africa,A Nel
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Ntini
+info,player,West Indies,CH Gayle
+info,player,West Indies,D Ganga
+info,player,West Indies,RS Morton
+info,player,West Indies,MN Samuels
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DJ Bravo
+info,player,West Indies,D Ramdin
+info,player,West Indies,RN Lewis
+info,player,West Indies,JE Taylor
+info,player,West Indies,DBL Powell
+info,player,West Indies,FH Edwards
+info,registry,people,A Nel,2503e881
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ganga,d5f3b5e1
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DBL Powell,83904270
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,JE Taylor,4180d897
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,MW Brown,d83d7796
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,RB Tiffin,89087a0d
+info,registry,people,RN Lewis,69362253
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RS Morton,2f8a9682
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SJA Taufel,4b43d5ac

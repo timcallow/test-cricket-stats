@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,male
+info,season,2021/22
+info,date,2021/12/16
+info,date,2021/12/17
+info,date,2021/12/18
+info,date,2021/12/19
+info,date,2021/12/20
+info,event,The Ashes
+info,match_number,2
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,M Labuschagne
+info,umpire,P Wilson
+info,umpire,RJ Tucker
+info,reserve_umpire,SJ Nogajski
+info,tv_umpire,PR Reiffel
+info,match_referee,DC Boon
+info,winner,Australia
+info,winner_runs,275
+info,player,Australia,MS Harris
+info,player,Australia,DA Warner
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,TM Head
+info,player,Australia,C Green
+info,player,Australia,AT Carey
+info,player,Australia,MA Starc
+info,player,Australia,MG Neser
+info,player,Australia,JA Richardson
+info,player,Australia,NM Lyon
+info,player,England,H Hameed
+info,player,England,RJ Burns
+info,player,England,DJ Malan
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,OJ Pope
+info,player,England,JC Buttler
+info,player,England,CR Woakes
+info,player,England,OE Robinson
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,registry,people,AT Carey,69d03465
+info,registry,people,BA Stokes,e087956b
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,JA Richardson,1ee08e9a
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MG Neser,0164b064
+info,registry,people,MS Harris,9e85455c
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,P Wilson,68304a36
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TM Head,12b610c2

@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Bangladesh
+info,gender,male
+info,season,2011
+info,date,2011/08/04
+info,date,2011/08/05
+info,date,2011/08/06
+info,date,2011/08/07
+info,date,2011/08/08
+info,venue,Harare Sports Club
+info,city,
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,BRM Taylor
+info,umpire,HDPK Dharmasena
+info,umpire,BNJ Oxenford
+info,reserve_umpire,O Chirombe
+info,tv_umpire,TJ Matibiri
+info,match_referee,RS Mahanama
+info,winner,Zimbabwe
+info,winner_runs,130
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Abdur Razzak
+info,player,Bangladesh,Shafiul Islam
+info,player,Bangladesh,Rubel Hossain
+info,player,Bangladesh,Robiul Islam
+info,player,Zimbabwe,TMK Mawoyo
+info,player,Zimbabwe,V Sibanda
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,E Chigumbura
+info,player,Zimbabwe,RW Price
+info,player,Zimbabwe,KM Jarvis
+info,player,Zimbabwe,BV Vitori
+info,player,Zimbabwe,CB Mpofu
+info,registry,people,Abdur Razzak,888e32bf
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,BV Vitori,37137c8b
+info,registry,people,CB Mpofu,49691d7a
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,E Chigumbura,d2babdd5
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,KM Jarvis,59792462
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,O Chirombe,6345307f
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RW Price,67af6f81
+info,registry,people,Robiul Islam,d876610c
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,Shafiul Islam,1a8eebbe
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Matibiri,4a3132b1
+info,registry,people,TMK Mawoyo,3fb197cd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,V Sibanda,0fdabe05

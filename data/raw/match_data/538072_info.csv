@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Pakistan
+info,gender,male
+info,season,2011/12
+info,date,2011/12/09
+info,date,2011/12/10
+info,date,2011/12/11
+info,date,2011/12/12
+info,event,Pakistan in Bangladesh Test Series
+info,match_number,1
+info,venue,Zahur Ahmed Chowdhury Stadium
+info,city,Chittagong
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Younis Khan
+info,umpire,BR Doctrove
+info,umpire,SK Tarapore
+info,reserve_umpire,Sharfuddoula
+info,tv_umpire,Enamul Haque
+info,match_referee,J Srinath
+info,winner,Pakistan
+info,winner_innings,1
+info,winner_runs,184
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Nazimuddin
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Nasir Hossain
+info,player,Bangladesh,Elias Sunny
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Rubel Hossain
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Adnan Akmal
+info,player,Pakistan,Abdur Rehman
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Saeed Ajmal
+info,player,Pakistan,Aizaz Cheema
+info,registry,people,Abdur Rehman,d094e7d1
+info,registry,people,Adnan Akmal,05da443b
+info,registry,people,Aizaz Cheema,5441db8c
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,Elias Sunny,817c1746
+info,registry,people,Enamul Haque,2ae9be7f
+info,registry,people,J Srinath,bad31fac
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,Nazimuddin,4aef496b
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,SK Tarapore,62a824b4
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Younis Khan,33cb3411

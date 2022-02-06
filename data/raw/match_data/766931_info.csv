@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,England
+info,gender,male
+info,season,2015
+info,date,2015/04/21
+info,date,2015/04/22
+info,date,2015/04/23
+info,date,2015/04/24
+info,date,2015/04/25
+info,event,The Wisden Trophy
+info,match_number,2
+info,venue,"National Cricket Stadium, St George's"
+info,city,Grenada
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,JE Root
+info,umpire,SJ Davis
+info,umpire,BNJ Oxenford
+info,reserve_umpire,PJ Nero
+info,tv_umpire,BF Bowden
+info,match_referee,AJ Pycroft
+info,winner,England
+info,winner_wickets,9
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,GS Ballance
+info,player,England,IR Bell
+info,player,England,JE Root
+info,player,England,MM Ali
+info,player,England,BA Stokes
+info,player,England,JC Buttler
+info,player,England,CJ Jordan
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,DS Smith
+info,player,West Indies,DM Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,J Blackwood
+info,player,West Indies,D Ramdin
+info,player,West Indies,JO Holder
+info,player,West Indies,KAJ Roach
+info,player,West Indies,D Bishoo
+info,player,West Indies,ST Gabriel
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,DS Smith,85ad2217
+info,registry,people,GS Ballance,755a77c6
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JO Holder,0f721006
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,PJ Nero,925d2e93
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,ST Gabriel,d9609443

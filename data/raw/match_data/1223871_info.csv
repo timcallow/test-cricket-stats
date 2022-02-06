@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,male
+info,season,2020/21
+info,date,2021/01/07
+info,date,2021/01/08
+info,date,2021/01/09
+info,date,2021/01/10
+info,date,2021/01/11
+info,event,India tour of Australia
+info,match_number,3
+info,venue,Sydney Cricket Ground
+info,city,Sydney
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,SPD Smith
+info,umpire,PR Reiffel
+info,umpire,P Wilson
+info,reserve_umpire,CA Polosak
+info,tv_umpire,BNJ Oxenford
+info,match_referee,DC Boon
+info,outcome,draw
+info,player,Australia,WJ Pucovski
+info,player,Australia,DA Warner
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,MS Wade
+info,player,Australia,C Green
+info,player,Australia,TD Paine
+info,player,Australia,PJ Cummins
+info,player,Australia,MA Starc
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,player,India,RG Sharma
+info,player,India,Shubman Gill
+info,player,India,CA Pujara
+info,player,India,AM Rahane
+info,player,India,RR Pant
+info,player,India,GH Vihari
+info,player,India,R Ashwin
+info,player,India,RA Jadeja
+info,player,India,NA Saini
+info,player,India,JJ Bumrah
+info,player,India,Mohammed Siraj
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,GH Vihari,94253925
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,NA Saini,21d4e29b
+info,registry,people,P Wilson,68304a36
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,TD Paine,5748e866
+info,registry,people,WJ Pucovski,c21d4f79
+info,registry,people,WP Saha,fe11caa6

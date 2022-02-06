@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2017/18
+info,date,2017/09/28
+info,date,2017/09/29
+info,date,2017/09/30
+info,date,2017/10/01
+info,date,2017/10/02
+info,event,Sri Lanka tour of United Arab Emirates and Pakistan
+info,match_number,1
+info,venue,Sheikh Zayed Stadium
+info,city,Abu Dhabi
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,HMRKB Herath
+info,umpire,RA Kettleborough
+info,umpire,NJ Llong
+info,reserve_umpire,IJ Dixon
+info,tv_umpire,Ahsan Raza
+info,match_referee,AJ Pycroft
+info,winner,Sri Lanka
+info,winner_runs,21
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,JK Silva
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,PADLR Sandakan
+info,player,Sri Lanka,N Pradeep
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Sami Aslam
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Haris Sohail
+info,player,Pakistan,Sarfraz Ahmed
+info,player,Pakistan,Hasan Ali
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Yasir Shah
+info,player,Pakistan,Mohammad Abbas
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,Haris Sohail,7cd0a092
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,IJ Dixon,a6e30365
+info,registry,people,JK Silva,52f7299a
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,MDK Perera,5531248e
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Sami Aslam,96a2336e
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Yasir Shah,f2800ef3

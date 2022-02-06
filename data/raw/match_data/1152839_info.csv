@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Ireland
+info,gender,male
+info,season,2019
+info,date,2019/07/24
+info,date,2019/07/25
+info,date,2019/07/26
+info,event,Ireland tour of England
+info,venue,Lord's
+info,city,London
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,MJ Leach
+info,umpire,Aleem Dar
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,RJ Bailey
+info,tv_umpire,P Wilson
+info,match_referee,AJ Pycroft
+info,winner,England
+info,winner_runs,143
+info,player,England,RJ Burns
+info,player,England,JJ Roy
+info,player,England,JL Denly
+info,player,England,JE Root
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,CR Woakes
+info,player,England,SM Curran
+info,player,England,SCJ Broad
+info,player,England,OP Stone
+info,player,England,MJ Leach
+info,player,Ireland,WTS Porterfield
+info,player,Ireland,JA McCollum
+info,player,Ireland,A Balbirnie
+info,player,Ireland,PR Stirling
+info,player,Ireland,KJ O'Brien
+info,player,Ireland,GC Wilson
+info,player,Ireland,SR Thompson
+info,player,Ireland,MR Adair
+info,player,Ireland,AR McBrine
+info,player,Ireland,TJ Murtagh
+info,player,Ireland,WB Rankin
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,GC Wilson,05de1a5a
+info,registry,people,JA McCollum,c7105dab
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KJ O'Brien,243431b5
+info,registry,people,MJ Leach,3987e390
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,OP Stone,3f659464
+info,registry,people,P Wilson,68304a36
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SR Thompson,7f3ad1ed
+info,registry,people,TJ Murtagh,c89474d1
+info,registry,people,WB Rankin,29b89ae8
+info,registry,people,WTS Porterfield,ec02b798

@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,England
+info,gender,male
+info,season,2009/10
+info,date,2010/03/12
+info,date,2010/03/13
+info,date,2010/03/14
+info,date,2010/03/15
+info,date,2010/03/16
+info,event,England in Bangladesh Test Series
+info,match_number,1
+info,venue,Zohur Ahmed Chowdhury Stadium
+info,city,Chittagong
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,GP Swann
+info,umpire,AL Hill
+info,umpire,RJ Tucker
+info,reserve_umpire,Sharfuddoula
+info,tv_umpire,Enamul Haque
+info,match_referee,JJ Crowe
+info,winner,England
+info,winner_runs,181
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Junaid Siddique
+info,player,Bangladesh,Aftab Ahmed
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Naeem Islam
+info,player,Bangladesh,Abdur Razzak
+info,player,Bangladesh,Rubel Hossain
+info,player,England,AN Cook
+info,player,England,MA Carberry
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,IR Bell
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,TT Bresnan
+info,player,England,ST Finn
+info,registry,people,AL Hill,4165ced0
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Abdur Razzak,888e32bf
+info,registry,people,Aftab Ahmed,53bc7b84
+info,registry,people,Enamul Haque,2ae9be7f
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JC Tredwell,49b6c09f
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,Junaid Siddique,62e203d4
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,MA Carberry,8305580c
+info,registry,people,MJ Prior,1200550f
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Naeem Islam,02e83ac5
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,TT Bresnan,58043739
+info,registry,people,Tamim Iqbal,3b041a12

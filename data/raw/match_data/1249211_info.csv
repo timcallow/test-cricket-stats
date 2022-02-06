@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,male
+info,season,2021
+info,date,2021/06/10
+info,date,2021/06/11
+info,date,2021/06/12
+info,date,2021/06/13
+info,event,New Zealand tour of England
+info,match_number,2
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,MJ Henry
+info,umpire,RK Illingworth
+info,umpire,RA Kettleborough
+info,reserve_umpire,MJ Saggers
+info,tv_umpire,MA Gough
+info,match_referee,BC Broad
+info,winner,New Zealand
+info,winner_wickets,8
+info,player,England,RJ Burns
+info,player,England,DP Sibley
+info,player,England,Z Crawley
+info,player,England,JE Root
+info,player,England,OJ Pope
+info,player,England,DW Lawrence
+info,player,England,James Bracey
+info,player,England,OP Stone
+info,player,England,MA Wood
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,DP Conway
+info,player,New Zealand,WA Young
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,N Wagner
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,AY Patel
+info,player,New Zealand,TA Boult
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,N Wagner,78adc879
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,OP Stone,3f659464
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WA Young,8afe73e2
+info,registry,people,Z Crawley,922e1b19

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2017/18
+info,date,2017/11/23
+info,date,2017/11/24
+info,date,2017/11/25
+info,date,2017/11/26
+info,date,2017/11/27
+info,event,England tour of Australia and New Zealand
+info,match_number,1
+info,venue,"Brisbane Cricket Ground, Woolloongabba"
+info,city,Brisbane
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,SPD Smith
+info,umpire,Aleem Dar
+info,umpire,M Erasmus
+info,reserve_umpire,P Wilson
+info,tv_umpire,CB Gaffaney
+info,match_referee,RB Richardson
+info,winner,Australia
+info,winner_wickets,10
+info,player,England,AN Cook
+info,player,England,MD Stoneman
+info,player,England,JM Vince
+info,player,England,JE Root
+info,player,England,DJ Malan
+info,player,England,MM Ali
+info,player,England,JM Bairstow
+info,player,England,CR Woakes
+info,player,England,SCJ Broad
+info,player,England,JT Ball
+info,player,England,JM Anderson
+info,player,Australia,CT Bancroft
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,SPD Smith
+info,player,Australia,PSP Handscomb
+info,player,Australia,SE Marsh
+info,player,Australia,TD Paine
+info,player,Australia,MA Starc
+info,player,Australia,PJ Cummins
+info,player,Australia,JR Hazlewood
+info,player,Australia,NM Lyon
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JM Vince,a15618fe
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,JT Ball,3d0ed2f9
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MM Ali,bb351c23
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,P Wilson,68304a36
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TD Paine,5748e866
+info,registry,people,UT Khawaja,331ea488

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2017/18
+info,date,2018/03/30
+info,date,2018/03/31
+info,date,2018/04/01
+info,date,2018/04/02
+info,date,2018/04/03
+info,event,Australia tour of South Africa
+info,match_number,4
+info,venue,The Wanderers Stadium
+info,city,Johannesburg
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,VD Philander
+info,umpire,IJ Gould
+info,umpire,NJ Llong
+info,reserve_umpire,BP Jele
+info,tv_umpire,RK Illingworth
+info,match_referee,AJ Pycroft
+info,winner,South Africa
+info,winner_runs,492
+info,player,South Africa,AK Markram
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,M Morkel
+info,player,Australia,MT Renshaw
+info,player,Australia,JA Burns
+info,player,Australia,UT Khawaja
+info,player,Australia,PSP Handscomb
+info,player,Australia,SE Marsh
+info,player,Australia,MR Marsh
+info,player,Australia,TD Paine
+info,player,Australia,PJ Cummins
+info,player,Australia,NM Lyon
+info,player,Australia,CJ Sayers
+info,player,Australia,JR Hazlewood
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CJ Sayers,81d06fb5
+info,registry,people,D Elgar,33085ffb
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HM Amla,e798611a
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TD Paine,5748e866
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,VD Philander,cfe70281

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,England
+info,gender,male
+info,season,2007/08
+info,date,2008/03/13
+info,date,2008/03/14
+info,date,2008/03/15
+info,date,2008/03/16
+info,date,2008/03/17
+info,event,England in New Zealand Test Series
+info,match_number,2
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,TR Ambrose
+info,umpire,SJ Davis
+info,umpire,RE Koertzen
+info,reserve_umpire,JM Busby
+info,tv_umpire,EA Watkin
+info,match_referee,J Srinath
+info,winner,England
+info,winner_runs,126
+info,player,England,AN Cook
+info,player,England,MP Vaughan
+info,player,England,AJ Strauss
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,PD Collingwood
+info,player,England,TR Ambrose
+info,player,England,SCJ Broad
+info,player,England,RJ Sidebottom
+info,player,England,MS Panesar
+info,player,England,JM Anderson
+info,player,New Zealand,JM How
+info,player,New Zealand,MD Bell
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,MS Sinclair
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,KD Mills
+info,player,New Zealand,MR Gillespie
+info,player,New Zealand,CS Martin
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,EA Watkin,147afe9d
+info,registry,people,IR Bell,33155d1b
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Busby,33c7e65d
+info,registry,people,JM How,fd8f11e9
+info,registry,people,KD Mills,7fb32e5b
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MD Bell,4921afa2
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,MR Gillespie,7d7ab238
+info,registry,people,MS Panesar,5a37ec26
+info,registry,people,MS Sinclair,1b668884
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RJ Sidebottom,9dca07d7
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,TR Ambrose,a15aaa7f

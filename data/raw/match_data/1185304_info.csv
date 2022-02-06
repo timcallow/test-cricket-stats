@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,male
+info,season,2019/20
+info,date,2019/12/26
+info,date,2019/12/27
+info,date,2019/12/28
+info,date,2019/12/29
+info,event,Basil D'Oliveira Trophy
+info,match_number,1
+info,venue,SuperSport Park
+info,city,Centurion
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,Q de Kock
+info,umpire,CB Gaffaney
+info,umpire,PR Reiffel
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,AJ Pycroft
+info,winner,South Africa
+info,winner_runs,107
+info,player,South Africa,D Elgar
+info,player,South Africa,AK Markram
+info,player,South Africa,Zubayr Hamza
+info,player,South Africa,F du Plessis
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,Q de Kock
+info,player,South Africa,D Pretorius
+info,player,South Africa,VD Philander
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,England,RJ Burns
+info,player,England,DP Sibley
+info,player,England,JL Denly
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,JC Buttler
+info,player,England,SM Curran
+info,player,England,JC Archer
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Elgar,33085ffb
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SM Curran,e94915e6
+info,registry,people,VD Philander,cfe70281
+info,registry,people,Z Crawley,922e1b19
+info,registry,people,Zubayr Hamza,22feee04

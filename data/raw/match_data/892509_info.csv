@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,male
+info,season,2015/16
+info,date,2015/11/05
+info,date,2015/11/06
+info,date,2015/11/07
+info,date,2015/11/08
+info,date,2015/11/09
+info,event,Trans-Tasman Trophy
+info,match_number,1
+info,venue,"Brisbane Cricket Ground, Woolloongabba"
+info,city,Brisbane
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,DA Warner
+info,umpire,RK Illingworth
+info,umpire,NJ Llong
+info,reserve_umpire,P Wilson
+info,tv_umpire,S Ravi
+info,match_referee,RS Mahanama
+info,winner,Australia
+info,winner_runs,208
+info,player,Australia,JA Burns
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,SPD Smith
+info,player,Australia,AC Voges
+info,player,Australia,MR Marsh
+info,player,Australia,PM Nevill
+info,player,Australia,MG Johnson
+info,player,Australia,MA Starc
+info,player,Australia,JR Hazlewood
+info,player,Australia,NM Lyon
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,MD Craig
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,TG Southee
+info,player,New Zealand,TA Boult
+info,registry,people,AC Voges,864c199e
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MD Craig,c8574282
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,P Wilson,68304a36
+info,registry,people,PM Nevill,a22fb7b5
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RS Mahanama,57910393
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,UT Khawaja,331ea488

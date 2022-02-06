@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,India
+info,gender,male
+info,season,2004/05
+info,date,2004/12/10
+info,date,2004/12/11
+info,date,2004/12/12
+info,date,2004/12/13
+info,event,India tour of Bangladesh
+info,match_number,1
+info,venue,Bangabandhu National Stadium
+info,city,Dhaka
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,IK Pathan
+info,umpire,Aleem Dar
+info,umpire,JW Lloyds
+info,tv_umpire,AFM Akhtaruddin
+info,match_referee,BC Broad
+info,winner,India
+info,winner_innings,1
+info,winner_runs,140
+info,player,Bangladesh,Javed Omar
+info,player,Bangladesh,Nafees Iqbal
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Rajin Saleh
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Manjural Islam Rana
+info,player,Bangladesh,Mushfiqur Rahman
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Tapash Baisya
+info,player,Bangladesh,Mashrafe Mortaza
+info,player,India,G Gambhir
+info,player,India,V Sehwag
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,SC Ganguly
+info,player,India,VVS Laxman
+info,player,India,KD Karthik
+info,player,India,IK Pathan
+info,player,India,A Kumble
+info,player,India,Harbhajan Singh
+info,player,India,Z Khan
+info,registry,people,A Kumble,0c2730df
+info,registry,people,AFM Akhtaruddin,b786b38f
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,JW Lloyds,112b8472
+info,registry,people,Javed Omar,e15faa51
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,Manjural Islam Rana,e8d7b493
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,Mushfiqur Rahman,3fc3b204
+info,registry,people,Nafees Iqbal,c5b87d8c
+info,registry,people,R Dravid,0184dc35
+info,registry,people,Rajin Saleh,acc321aa
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,Tapash Baisya,bb1819fa
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Z Khan,91a4a398

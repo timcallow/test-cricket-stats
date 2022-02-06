@@ -1,0 +1,70 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Zimbabwe
+info,gender,male
+info,season,2005
+info,date,2005/08/07
+info,date,2005/08/08
+info,event,New Zealand tour of Zimbabwe
+info,match_number,1
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,DL Vettori
+info,umpire,DB Hair
+info,umpire,MR Benson
+info,tv_umpire,KC Barbour
+info,match_referee,BC Broad
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,294
+info,player,New Zealand,JAH Marshall
+info,player,New Zealand,L Vincent
+info,player,New Zealand,HJH Marshall
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,SB Styris
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,JEC Franklin
+info,player,New Zealand,SE Bond
+info,player,New Zealand,CS Martin
+info,player,Zimbabwe,NR Ferreira
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,CB Wishart
+info,player,Zimbabwe,SV Carlisle
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,NB Mahwire
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,CB Mpofu
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CB Mpofu,49691d7a
+info,registry,people,CB Wishart,8319b9ea
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HH Streak,37f501d7
+info,registry,people,HJH Marshall,70542bef
+info,registry,people,JAH Marshall,fdac5295
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,KC Barbour,4359f89a
+info,registry,people,L Vincent,2764133a
+info,registry,people,MR Benson,790e14d3
+info,registry,people,NB Mahwire,0cc343b0
+info,registry,people,NJ Astle,99639abf
+info,registry,people,NR Ferreira,3afbcc19
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SE Bond,4f629497
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,SV Carlisle,17f552bf
+info,registry,people,T Taibu,75de770f

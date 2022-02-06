@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Sri Lanka
+info,gender,male
+info,season,2015/16
+info,date,2015/12/10
+info,date,2015/12/11
+info,date,2015/12/12
+info,date,2015/12/13
+info,date,2015/12/14
+info,event,Sri Lanka in New Zealand Test Series
+info,match_number,1
+info,venue,University Oval
+info,city,Dunedin
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,MJ Guptill
+info,umpire,RA Kettleborough
+info,umpire,NJ Llong
+info,reserve_umpire,DJ Walker
+info,tv_umpire,PR Reiffel
+info,match_referee,DC Boon
+info,winner,New Zealand
+info,winner_runs,122
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDUS Jayasundera
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,KDK Vithanage
+info,player,Sri Lanka,TAM Siriwardana
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,PVD Chameera
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,N Pradeep
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,KDK Vithanage,f3bde2b3
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MDUS Jayasundera,5bc84250
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,N Wagner,78adc879
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TAM Siriwardana,bf7842c9
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee

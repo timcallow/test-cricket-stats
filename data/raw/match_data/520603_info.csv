@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,South Africa
+info,gender,male
+info,season,2011/12
+info,date,2012/03/07
+info,date,2012/03/08
+info,date,2012/03/09
+info,date,2012/03/10
+info,date,2012/03/11
+info,event,South Africa in New Zealand Test Series
+info,match_number,1
+info,venue,University Oval
+info,city,Dunedin
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,GC Smith
+info,umpire,Aleem Dar
+info,umpire,BR Doctrove
+info,reserve_umpire,GAV Baxter
+info,tv_umpire,RA Kettleborough
+info,match_referee,RS Mahanama
+info,outcome,draw
+info,player,New Zealand,RJ Nicol
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,CFK van Wyk
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,TG Southee
+info,player,New Zealand,TA Boult
+info,player,New Zealand,CS Martin
+info,player,South Africa,GC Smith
+info,player,South Africa,AN Petersen
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,JA Rudolph
+info,player,South Africa,MV Boucher
+info,player,South Africa,DW Steyn
+info,player,South Africa,VD Philander
+info,player,South Africa,M Morkel
+info,player,South Africa,Imran Tahir
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CFK van Wyk,24fd039c
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Nicol,8d8c24fd
+info,registry,people,RS Mahanama,57910393
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,VD Philander,cfe70281

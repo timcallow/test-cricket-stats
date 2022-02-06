@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,England
+info,gender,male
+info,season,2016/17
+info,date,2016/11/09
+info,date,2016/11/10
+info,date,2016/11/11
+info,date,2016/11/12
+info,date,2016/11/13
+info,event,England in India Test Series
+info,match_number,1
+info,venue,Saurashtra Cricket Association Stadium
+info,city,Rajkot
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,MM Ali
+info,umpire,HDPK Dharmasena
+info,umpire,CB Gaffaney
+info,reserve_umpire,CK Nandan
+info,tv_umpire,RJ Tucker
+info,match_referee,RS Madugalle
+info,outcome,draw
+info,player,England,AN Cook
+info,player,England,H Hameed
+info,player,England,JE Root
+info,player,England,BM Duckett
+info,player,England,MM Ali
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,CR Woakes
+info,player,England,AU Rashid
+info,player,England,ZS Ansari
+info,player,England,SCJ Broad
+info,player,India,M Vijay
+info,player,India,G Gambhir
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,A Mishra
+info,player,India,AM Rahane
+info,player,India,R Ashwin
+info,player,India,WP Saha
+info,player,India,RA Jadeja
+info,player,India,UT Yadav
+info,player,India,Mohammed Shami
+info,registry,people,A Mishra,6b19d823
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AN Cook,f41598c1
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CK Nandan,012de9c4
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6
+info,registry,people,ZS Ansari,7b1e20ea

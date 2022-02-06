@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Sri Lanka
+info,gender,male
+info,season,2013/14
+info,date,2014/01/27
+info,date,2014/01/28
+info,date,2014/01/29
+info,date,2014/01/30
+info,event,Sri Lanka in Bangladesh Test Series
+info,match_number,1
+info,venue,Shere Bangla National Stadium
+info,city,Mirpur
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,DPMD Jayawardene
+info,umpire,NJ Llong
+info,umpire,PR Reiffel
+info,reserve_umpire,Anisur Rahman
+info,tv_umpire,Sharfuddoula
+info,match_referee,J Srinath
+info,winner,Sri Lanka
+info,winner_innings,1
+info,winner_runs,248
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Shamsur Rahman
+info,player,Bangladesh,Marshall Ayub
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Nasir Hossain
+info,player,Bangladesh,Sohag Gazi
+info,player,Bangladesh,Robiul Islam
+info,player,Bangladesh,Rubel Hossain
+info,player,Bangladesh,Al-Amin Hossain
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,JK Silva
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,KDK Vithanage
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,RMS Eranga
+info,player,Sri Lanka,HMRKB Herath
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Anisur Rahman,affbf093
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JK Silva,52f7299a
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KDK Vithanage,f3bde2b3
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,MDK Perera,5531248e
+info,registry,people,Marshall Ayub,e72d8f6a
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RMS Eranga,8f7a598f
+info,registry,people,Robiul Islam,d876610c
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamsur Rahman,02789d88
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Sohag Gazi,5a4c12ab
+info,registry,people,Tamim Iqbal,3b041a12

@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,West Indies
+info,gender,male
+info,season,2013/14
+info,date,2013/12/11
+info,date,2013/12/12
+info,date,2013/12/13
+info,event,West Indies in New Zealand Test Series
+info,match_number,2
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,TA Boult
+info,umpire,IJ Gould
+info,umpire,PR Reiffel
+info,reserve_umpire,GAV Baxter
+info,tv_umpire,NJ Llong
+info,match_referee,RS Mahanama
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,73
+info,player,New Zealand,PG Fulton
+info,player,New Zealand,HD Rutherford
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,CJ Anderson
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,TG Southee
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,player,West Indies,KA Edwards
+info,player,West Indies,KOA Powell
+info,player,West Indies,DM Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,N Deonarine
+info,player,West Indies,D Ramdin
+info,player,West Indies,DJG Sammy
+info,player,West Indies,S Shillingford
+info,player,West Indies,TL Best
+info,player,West Indies,ST Gabriel
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,KA Edwards,d06335fd
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,N Deonarine,caf1b14c
+info,registry,people,N Wagner,78adc879
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RS Mahanama,57910393
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Shillingford,d76b0d2d
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TL Best,db767b89

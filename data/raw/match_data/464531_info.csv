@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,New Zealand
+info,gender,male
+info,season,2010/11
+info,date,2010/11/04
+info,date,2010/11/05
+info,date,2010/11/06
+info,date,2010/11/07
+info,date,2010/11/08
+info,event,New Zealand in India Test Series
+info,match_number,1
+info,venue,"Sardar Patel Stadium, Motera"
+info,city,Ahmedabad
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,Harbhajan Singh
+info,umpire,SJ Davis
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,SN Bandekar
+info,tv_umpire,SK Tarapore
+info,match_referee,RS Madugalle
+info,outcome,draw
+info,player,India,G Gambhir
+info,player,India,V Sehwag
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,VVS Laxman
+info,player,India,SK Raina
+info,player,India,MS Dhoni
+info,player,India,Harbhajan Singh
+info,player,India,Z Khan
+info,player,India,PP Ojha
+info,player,India,S Sreesanth
+info,player,New Zealand,TG McIntosh
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,JD Ryder
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,GJ Hopkins
+info,player,New Zealand,JS Patel
+info,player,New Zealand,HK Bennett
+info,player,New Zealand,CS Martin
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,GJ Hopkins,4d3097d8
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HK Bennett,94238673
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,JS Patel,f5821615
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,PP Ojha,6c6591ab
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Sreesanth,6b8eb6e5
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,SK Tarapore,62a824b4
+info,registry,people,SN Bandekar,350528bb
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,TG McIntosh,73ccd561
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Z Khan,91a4a398

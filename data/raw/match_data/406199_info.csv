@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Pakistan
+info,gender,male
+info,season,2009/10
+info,date,2009/12/26
+info,date,2009/12/27
+info,date,2009/12/28
+info,date,2009/12/29
+info,date,2009/12/30
+info,event,Pakistan in Australia Test Series
+info,match_number,1
+info,venue,Melbourne Cricket Ground
+info,city,
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,SR Watson
+info,umpire,BR Doctrove
+info,umpire,RE Koertzen
+info,reserve_umpire,PR Reiffel
+info,tv_umpire,EAR de Silva
+info,match_referee,RS Madugalle
+info,winner,Australia
+info,winner_runs,170
+info,player,Australia,SR Watson
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,NM Hauritz
+info,player,Australia,MJ Clarke
+info,player,Australia,MJ North
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,DE Bollinger
+info,player,Australia,PM Siddle
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Umar Akmal
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Abdur Rauf
+info,player,Pakistan,Mohammad Asif
+info,player,Pakistan,Saeed Ajmal
+info,registry,people,Abdur Rauf,43b375d4
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,DE Bollinger,45c2196c
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ North,99464591
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,NM Hauritz,8ea6e670
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Umar Akmal,fd2bf2a0

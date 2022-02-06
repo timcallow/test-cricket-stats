@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,India
+info,gender,male
+info,season,2005
+info,date,2005/09/13
+info,date,2005/09/14
+info,date,2005/09/15
+info,date,2005/09/16
+info,event,India tour of Zimbabwe
+info,match_number,1
+info,venue,Queens Sports Club
+info,city,Bulawayo
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,IK Pathan
+info,umpire,Aleem Dar
+info,umpire,DJ Harper
+info,tv_umpire,RB Tiffin
+info,match_referee,MJ Procter
+info,winner,India
+info,winner_innings,1
+info,winner_runs,90
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,T Duffin
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,CK Coventry
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,KM Dabengwa
+info,player,Zimbabwe,GM Ewing
+info,player,Zimbabwe,NB Mahwire
+info,player,India,G Gambhir
+info,player,India,V Sehwag
+info,player,India,R Dravid
+info,player,India,VVS Laxman
+info,player,India,SC Ganguly
+info,player,India,Yuvraj Singh
+info,player,India,KD Karthik
+info,player,India,IK Pathan
+info,player,India,A Kumble
+info,player,India,Harbhajan Singh
+info,player,India,Z Khan
+info,registry,people,A Kumble,0c2730df
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CK Coventry,a21ea40c
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,GM Ewing,36fc8d18
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HH Streak,37f501d7
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KM Dabengwa,df08c69e
+info,registry,people,MJ Procter,32e65048
+info,registry,people,NB Mahwire,0cc343b0
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RB Tiffin,89087a0d
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,T Duffin,4a84f573
+info,registry,people,T Taibu,75de770f
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Yuvraj Singh,1c914163
+info,registry,people,Z Khan,91a4a398

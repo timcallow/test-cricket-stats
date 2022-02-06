@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,South Africa
+info,gender,male
+info,season,2008
+info,date,2008/08/07
+info,date,2008/08/08
+info,date,2008/08/09
+info,date,2008/08/10
+info,date,2008/08/11
+info,event,Basil D'Oliveira Trophy
+info,match_number,4
+info,venue,Kennington Oval
+info,city,London
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,KP Pietersen
+info,umpire,Aleem Dar
+info,umpire,SJ Davis
+info,reserve_umpire,RK Illingworth
+info,tv_umpire,PJ Hartley
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_wickets,6
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IR Bell
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,A Flintoff
+info,player,England,TR Ambrose
+info,player,England,SCJ Broad
+info,player,England,SJ Harmison
+info,player,England,JM Anderson
+info,player,England,MS Panesar
+info,player,South Africa,GC Smith
+info,player,South Africa,ND McKenzie
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,AB de Villiers
+info,player,South Africa,MV Boucher
+info,player,South Africa,M Morkel
+info,player,South Africa,PL Harris
+info,player,South Africa,A Nel
+info,player,South Africa,M Ntini
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,A Nel,2503e881
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MS Panesar,5a37ec26
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,TR Ambrose,a15aaa7f

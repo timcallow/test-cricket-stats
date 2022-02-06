@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,South Africa
+info,gender,male
+info,season,2012/13
+info,date,2012/11/09
+info,date,2012/11/10
+info,date,2012/11/11
+info,date,2012/11/12
+info,date,2012/11/13
+info,event,South Africa in Australia Test Series
+info,match_number,1
+info,venue,"Brisbane Cricket Ground, Woolloongabba"
+info,city,Brisbane
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,MJ Clarke
+info,umpire,Asad Rauf
+info,umpire,BF Bowden
+info,reserve_umpire,PR Reiffel
+info,tv_umpire,RA Kettleborough
+info,match_referee,RS Madugalle
+info,outcome,draw
+info,player,Australia,EJM Cowan
+info,player,Australia,DA Warner
+info,player,Australia,RJ Quiney
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,MEK Hussey
+info,player,Australia,MS Wade
+info,player,Australia,NM Lyon
+info,player,Australia,PM Siddle
+info,player,Australia,JL Pattinson
+info,player,Australia,BW Hilfenhaus
+info,player,South Africa,GC Smith
+info,player,South Africa,AN Petersen
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,JA Rudolph
+info,player,South Africa,VD Philander
+info,player,South Africa,DW Steyn
+info,player,South Africa,RK Kleinveldt
+info,player,South Africa,M Morkel
+info,player,South Africa,JP Duminy
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BW Hilfenhaus,f3171936
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,EJM Cowan,fee3c48a
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JL Pattinson,f752db61
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Quiney,23ac69e6
+info,registry,people,RK Kleinveldt,7955eb15
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,VD Philander,cfe70281

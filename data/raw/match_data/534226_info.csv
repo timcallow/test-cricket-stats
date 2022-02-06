@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,South Africa
+info,gender,male
+info,season,2012
+info,date,2012/08/02
+info,date,2012/08/03
+info,date,2012/08/04
+info,date,2012/08/05
+info,date,2012/08/06
+info,event,Basil D'Oliveira Trophy
+info,match_number,2
+info,venue,Headingley
+info,city,Leeds
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,KP Pietersen
+info,umpire,SJ Davis
+info,umpire,RJ Tucker
+info,reserve_umpire,NGB Cook
+info,tv_umpire,Asad Rauf
+info,match_referee,JJ Crowe
+info,outcome,draw
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,JWA Taylor
+info,player,England,MJ Prior
+info,player,England,TT Bresnan
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,England,ST Finn
+info,player,South Africa,AN Petersen
+info,player,South Africa,GC Smith
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,DW Steyn
+info,player,South Africa,JA Rudolph
+info,player,South Africa,JP Duminy
+info,player,South Africa,VD Philander
+info,player,South Africa,M Morkel
+info,player,South Africa,Imran Tahir
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,JWA Taylor,c374f37f
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MJ Prior,1200550f
+info,registry,people,NGB Cook,772fe461
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,TT Bresnan,58043739
+info,registry,people,VD Philander,cfe70281

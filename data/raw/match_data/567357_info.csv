@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,New Zealand
+info,gender,male
+info,season,2012/13
+info,date,2013/01/11
+info,date,2013/01/12
+info,date,2013/01/13
+info,date,2013/01/14
+info,event,New Zealand in South Africa Test Series
+info,match_number,2
+info,venue,St George's Park
+info,city,Port Elizabeth
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,DW Steyn
+info,umpire,HDPK Dharmasena
+info,umpire,IJ Gould
+info,reserve_umpire,JD Cloete
+info,tv_umpire,RJ Tucker
+info,match_referee,DC Boon
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,193
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,DG Brownlie
+info,player,New Zealand,DR Flynn
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,C Munro
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,N Wagner
+info,player,New Zealand,JS Patel
+info,player,New Zealand,TA Boult
+info,player,South Africa,AN Petersen
+info,player,South Africa,GC Smith
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,F du Plessis
+info,player,South Africa,D Elgar
+info,player,South Africa,RJ Peterson
+info,player,South Africa,DW Steyn
+info,player,South Africa,RK Kleinveldt
+info,player,South Africa,M Morkel
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,C Munro,af2c687b
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Smith,72861603
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HM Amla,e798611a
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JD Cloete,b0419f8c
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JS Patel,f5821615
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,N Wagner,78adc879
+info,registry,people,RJ Peterson,26ff4c29
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RK Kleinveldt,7955eb15
+info,registry,people,TA Boult,a818c1be

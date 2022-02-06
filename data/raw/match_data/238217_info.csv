@@ -1,0 +1,70 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2005/06
+info,date,2006/04/03
+info,date,2006/04/04
+info,date,2006/04/05
+info,event,Pakistan tour of Sri Lanka
+info,match_number,2
+info,venue,Asgiriya Stadium
+info,city,Kandy
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Mohammad Asif
+info,umpire,SJ Davis
+info,umpire,DJ Harper
+info,tv_umpire,EAR de Silva
+info,match_referee,AG Hurst
+info,winner,Pakistan
+info,winner_wickets,8
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,MF Maharoof
+info,player,Sri Lanka,HMCM Bandara
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,SL Malinga
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Iftikhar Anjum
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Mohammad Asif
+info,player,Pakistan,Danish Kaneria
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,HMCM Bandara,4fc516bd
+info,registry,people,Iftikhar Anjum,6adf9347
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MF Maharoof,ab89348d
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SL Malinga,a12e1d51
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,WU Tharanga,7ed9fd56
+info,registry,people,Younis Khan,33cb3411

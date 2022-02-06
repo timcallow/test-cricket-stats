@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2008/09
+info,date,2008/11/06
+info,date,2008/11/07
+info,date,2008/11/08
+info,date,2008/11/09
+info,date,2008/11/10
+info,event,Border-Gavaskar Trophy
+info,match_number,4
+info,venue,"Vidarbha Cricket Association Stadium, Jamtha"
+info,city,Nagpur
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,JJ Krejza
+info,umpire,Aleem Dar
+info,umpire,BF Bowden
+info,reserve_umpire,S Asnani
+info,tv_umpire,SL Shastri
+info,match_referee,BC Broad
+info,winner,India
+info,winner_runs,172
+info,player,Australia,ML Hayden
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,SR Watson
+info,player,Australia,BJ Haddin
+info,player,Australia,CL White
+info,player,Australia,JJ Krejza
+info,player,Australia,MG Johnson
+info,player,Australia,B Lee
+info,player,India,V Sehwag
+info,player,India,M Vijay
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,VVS Laxman
+info,player,India,SC Ganguly
+info,player,India,MS Dhoni
+info,player,India,Harbhajan Singh
+info,player,India,Z Khan
+info,player,India,A Mishra
+info,player,India,I Sharma
+info,registry,people,A Mishra,6b19d823
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,CL White,d0513f63
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,JJ Krejza,047d9032
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,S Asnani,b04524bc
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SL Shastri,53ef012d
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Z Khan,91a4a398

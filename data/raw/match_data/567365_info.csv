@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Pakistan
+info,gender,male
+info,season,2012/13
+info,date,2013/02/22
+info,date,2013/02/23
+info,date,2013/02/24
+info,event,Pakistan in South Africa Test Series
+info,match_number,3
+info,venue,SuperSport Park
+info,city,Centurion
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,KJ Abbott
+info,umpire,BF Bowden
+info,umpire,SJ Davis
+info,reserve_umpire,S George
+info,tv_umpire,BNJ Oxenford
+info,match_referee,JJ Crowe
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,18
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Sarfraz Ahmed
+info,player,Pakistan,Saeed Ajmal
+info,player,Pakistan,Ehsan Adil
+info,player,Pakistan,Mohammad Irfan
+info,player,Pakistan,Rahat Ali
+info,player,South Africa,GC Smith
+info,player,South Africa,AN Petersen
+info,player,South Africa,HM Amla
+info,player,South Africa,F du Plessis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,D Elgar
+info,player,South Africa,RJ Peterson
+info,player,South Africa,VD Philander
+info,player,South Africa,KJ Abbott
+info,player,South Africa,RK Kleinveldt
+info,player,South Africa,DW Steyn
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,Ehsan Adil,210b05cb
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Irfan,a8e3170f
+info,registry,people,RJ Peterson,26ff4c29
+info,registry,people,RK Kleinveldt,7955eb15
+info,registry,people,Rahat Ali,a63775d6
+info,registry,people,S George,6d9e5a54
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,VD Philander,cfe70281
+info,registry,people,Younis Khan,33cb3411

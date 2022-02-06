@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Sri Lanka
+info,gender,male
+info,season,2013/14
+info,date,2013/12/31
+info,date,2014/01/01
+info,date,2014/01/02
+info,date,2014/01/03
+info,date,2014/01/04
+info,event,Pakistan v Sri Lanka Test Series
+info,match_number,1
+info,venue,Sheikh Zayed Stadium
+info,city,Abu Dhabi
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,AD Mathews
+info,umpire,RA Kettleborough
+info,umpire,BNJ Oxenford
+info,reserve_umpire,Shozab Raza
+info,tv_umpire,S Ravi
+info,match_referee,J Srinath
+info,outcome,draw
+info,player,Pakistan,Khurram Manzoor
+info,player,Pakistan,Ahmed Shehzad
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Adnan Akmal
+info,player,Pakistan,Bilawal Bhatti
+info,player,Pakistan,Saeed Ajmal
+info,player,Pakistan,Rahat Ali
+info,player,Pakistan,Junaid Khan
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,JK Silva
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,SMSM Senanayake
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,RMS Eranga
+info,player,Sri Lanka,RAS Lakmal
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Adnan Akmal,05da443b
+info,registry,people,Ahmed Shehzad,f8fd6e3f
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,Bilawal Bhatti,7662cf7a
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JK Silva,52f7299a
+info,registry,people,Junaid Khan,086f5984
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,Khurram Manzoor,82c78845
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RMS Eranga,8f7a598f
+info,registry,people,Rahat Ali,a63775d6
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SMSM Senanayake,4c4fa80b
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,Younis Khan,33cb3411

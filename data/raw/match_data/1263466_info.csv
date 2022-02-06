@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,male
+info,season,2021/22
+info,date,2022/01/14
+info,date,2022/01/15
+info,date,2022/01/16
+info,event,The Ashes
+info,match_number,5
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,TM Head
+info,umpire,P Wilson
+info,umpire,RJ Tucker
+info,reserve_umpire,DM Koch
+info,tv_umpire,PR Reiffel
+info,match_referee,DC Boon
+info,winner,Australia
+info,winner_runs,146
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,TM Head
+info,player,Australia,C Green
+info,player,Australia,AT Carey
+info,player,Australia,MA Starc
+info,player,Australia,PJ Cummins
+info,player,Australia,NM Lyon
+info,player,Australia,SM Boland
+info,player,England,RJ Burns
+info,player,England,Z Crawley
+info,player,England,DJ Malan
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,OJ Pope
+info,player,England,SW Billings
+info,player,England,CR Woakes
+info,player,England,MA Wood
+info,player,England,SCJ Broad
+info,player,England,OE Robinson
+info,registry,people,AT Carey,69d03465
+info,registry,people,BA Stokes,e087956b
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DM Koch,6d10c034
+info,registry,people,JE Root,a343262c
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,P Wilson,68304a36
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SM Boland,d167edd3
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,Z Crawley,922e1b19

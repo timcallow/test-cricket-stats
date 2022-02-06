@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,South Africa
+info,gender,male
+info,season,2012/13
+info,date,2012/11/30
+info,date,2012/12/01
+info,date,2012/12/02
+info,date,2012/12/03
+info,event,South Africa in Australia Test Series
+info,match_number,3
+info,venue,Western Australia Cricket Association Ground
+info,city,Perth
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,HM Amla
+info,umpire,Asad Rauf
+info,umpire,RA Kettleborough
+info,reserve_umpire,JD Ward
+info,tv_umpire,BF Bowden
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_runs,309
+info,player,Australia,DA Warner
+info,player,Australia,EJM Cowan
+info,player,Australia,SR Watson
+info,player,Australia,NM Lyon
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,MEK Hussey
+info,player,Australia,MS Wade
+info,player,Australia,JW Hastings
+info,player,Australia,MG Johnson
+info,player,Australia,MA Starc
+info,player,South Africa,GC Smith
+info,player,South Africa,AN Petersen
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,D Elgar
+info,player,South Africa,F du Plessis
+info,player,South Africa,RJ Peterson
+info,player,South Africa,VD Philander
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Morkel
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,EJM Cowan,fee3c48a
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,JD Ward,511299c1
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JW Hastings,012829ff
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Peterson,26ff4c29
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,VD Philander,cfe70281

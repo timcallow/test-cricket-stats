@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Bangladesh
+info,gender,male
+info,season,2016/17
+info,date,2017/01/20
+info,date,2017/01/21
+info,date,2017/01/22
+info,date,2017/01/23
+info,event,Bangladesh in New Zealand Test Series
+info,match_number,2
+info,venue,Hagley Oval
+info,city,Christchurch
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,TG Southee
+info,umpire,NJ Llong
+info,umpire,PR Reiffel
+info,reserve_umpire,SB Haig
+info,tv_umpire,M Erasmus
+info,match_referee,J Srinath
+info,winner,New Zealand
+info,winner_wickets,9
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Sabbir Rahman
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Nurul Hasan
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Kamrul Islam Rabbi
+info,player,Bangladesh,Rubel Hossain
+info,player,New Zealand,JA Raval
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,registry,people,BJ Watling,928670cc
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,Kamrul Islam Rabbi,f7e9a562
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,N Wagner,78adc879
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,SB Haig,811655b3
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Taskin Ahmed,ef18b66e

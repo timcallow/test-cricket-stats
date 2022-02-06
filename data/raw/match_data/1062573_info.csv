@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2016/17
+info,date,2017/02/23
+info,date,2017/02/24
+info,date,2017/02/25
+info,event,Australia in India Test Series
+info,match_number,1
+info,venue,Maharashtra Cricket Association Stadium
+info,city,Pune
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,SNJ O'Keefe
+info,umpire,RA Kettleborough
+info,umpire,NJ Llong
+info,reserve_umpire,CK Nandan
+info,tv_umpire,RK Illingworth
+info,match_referee,BC Broad
+info,winner,Australia
+info,winner_runs,333
+info,player,Australia,MT Renshaw
+info,player,Australia,DA Warner
+info,player,Australia,SPD Smith
+info,player,Australia,SE Marsh
+info,player,Australia,PSP Handscomb
+info,player,Australia,MR Marsh
+info,player,Australia,MS Wade
+info,player,Australia,MA Starc
+info,player,Australia,SNJ O'Keefe
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,player,India,M Vijay
+info,player,India,KL Rahul
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,R Ashwin
+info,player,India,WP Saha
+info,player,India,RA Jadeja
+info,player,India,J Yadav
+info,player,India,UT Yadav
+info,player,India,I Sharma
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CK Nandan,012de9c4
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,J Yadav,81049310
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SNJ O'Keefe,3540beff
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

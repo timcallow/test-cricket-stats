@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,New Zealand
+info,gender,male
+info,season,2003/04
+info,date,2004/03/18
+info,date,2004/03/19
+info,date,2004/03/20
+info,date,2004/03/21
+info,date,2004/03/22
+info,event,South Africa tour of New Zealand
+info,match_number,2
+info,venue,Eden Park
+info,city,Auckland
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,CS Martin
+info,umpire,Aleem Dar
+info,umpire,EAR de Silva
+info,tv_umpire,DB Cowie
+info,match_referee,CH Lloyd
+info,winner,New Zealand
+info,winner_wickets,9
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,JA Rudolph
+info,player,South Africa,JH Kallis
+info,player,South Africa,G Kirsten
+info,player,South Africa,ND McKenzie
+info,player,South Africa,MV Boucher
+info,player,South Africa,SM Pollock
+info,player,South Africa,N Boje
+info,player,South Africa,M Ntini
+info,player,South Africa,DJ Terbrugge
+info,player,New Zealand,MH Richardson
+info,player,New Zealand,MHW Papps
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,SB Styris
+info,player,New Zealand,CD McMillan
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,CL Cairns
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,DR Tuffey
+info,player,New Zealand,CS Martin
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CD McMillan,f5390243
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CL Cairns,0b130202
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DB Cowie,36931357
+info,registry,people,DJ Terbrugge,49479e6a
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Tuffey,43936951
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,G Kirsten,ad48eb56
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JAH Marshall,fdac5295
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MH Richardson,48322f1f
+info,registry,people,MHW Papps,6c1beb66
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,N Boje,6a0537aa
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,SP Fleming,eea6b7f1

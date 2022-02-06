@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Sri Lanka
+info,gender,male
+info,season,2017/18
+info,date,2017/11/16
+info,date,2017/11/17
+info,date,2017/11/18
+info,date,2017/11/19
+info,date,2017/11/20
+info,event,Sri Lanka tour of India
+info,match_number,1
+info,venue,Eden Gardens
+info,city,Kolkata
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,B Kumar
+info,umpire,RA Kettleborough
+info,umpire,JS Wilson
+info,umpire,NJ Llong
+info,reserve_umpire,Soumen Singh
+info,tv_umpire,AK Chaudhary
+info,match_referee,DC Boon
+info,outcome,draw
+info,player,India,KL Rahul
+info,player,India,S Dhawan
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RA Jadeja
+info,player,India,R Ashwin
+info,player,India,WP Saha
+info,player,India,B Kumar
+info,player,India,Mohammed Shami
+info,player,India,UT Yadav
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,PLS Gamage
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AM Rahane,29e95537
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDK Perera,5531248e
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PLS Gamage,08bae9d5
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,S Dhawan,0a476045
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Soumen Singh,6e0ca16b
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

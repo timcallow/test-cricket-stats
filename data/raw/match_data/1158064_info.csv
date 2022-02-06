@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,England
+info,gender,male
+info,season,2018/19
+info,date,2019/02/09
+info,date,2019/02/10
+info,date,2019/02/11
+info,date,2019/02/12
+info,event,England tour of West Indies
+info,match_number,3
+info,venue,"Daren Sammy National Cricket Stadium, St Lucia"
+info,city,Gros Islet
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,MA Wood
+info,umpire,RJ Tucker
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,GO Brathwaite
+info,tv_umpire,CB Gaffaney
+info,match_referee,JJ Crowe
+info,winner,England
+info,winner_runs,232
+info,player,England,RJ Burns
+info,player,England,KK Jennings
+info,player,England,JL Denly
+info,player,England,JE Root
+info,player,England,JC Buttler
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,MA Wood
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,JD Campbell
+info,player,West Indies,SD Hope
+info,player,West Indies,DM Bravo
+info,player,West Indies,RL Chase
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,SO Dowrich
+info,player,West Indies,KMA Paul
+info,player,West Indies,KAJ Roach
+info,player,West Indies,AS Joseph
+info,player,West Indies,ST Gabriel
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JD Campbell,6fd0c8e1
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,KMA Paul,75224f22
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MM Ali,bb351c23
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,ST Gabriel,d9609443

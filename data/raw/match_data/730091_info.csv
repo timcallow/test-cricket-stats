@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,South Africa
+info,gender,male
+info,season,2014
+info,date,2014/07/24
+info,date,2014/07/25
+info,date,2014/07/26
+info,date,2014/07/27
+info,date,2014/07/28
+info,event,South Africa in Sri Lanka Test Series
+info,match_number,2
+info,venue,Sinhalese Sports Club Ground
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,DPMD Jayawardene
+info,umpire,RA Kettleborough
+info,umpire,NJ Llong
+info,reserve_umpire,REJ Martinesz
+info,tv_umpire,BF Bowden
+info,match_referee,JJ Crowe
+info,outcome,draw
+info,player,South Africa,AN Petersen
+info,player,South Africa,D Elgar
+info,player,South Africa,F du Plessis
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,Q de Kock
+info,player,South Africa,JP Duminy
+info,player,South Africa,VD Philander
+info,player,South Africa,DW Steyn
+info,player,South Africa,Imran Tahir
+info,player,South Africa,M Morkel
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,JK Silva
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,KDK Vithanage
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,BAW Mendis
+info,player,Sri Lanka,RAS Lakmal
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,BAW Mendis,ea0cdc12
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HM Amla,e798611a
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JK Silva,52f7299a
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KDK Vithanage,f3bde2b3
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MDK Perera,5531248e
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,VD Philander,cfe70281
+info,registry,people,WU Tharanga,7ed9fd56

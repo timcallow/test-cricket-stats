@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,England
+info,gender,male
+info,season,2016/17
+info,date,2016/10/20
+info,date,2016/10/21
+info,date,2016/10/22
+info,date,2016/10/23
+info,date,2016/10/24
+info,event,England in Bangladesh Test Series
+info,match_number,1
+info,venue,Zahur Ahmed Chowdhury Stadium
+info,city,Chittagong
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,BA Stokes
+info,umpire,HDPK Dharmasena
+info,umpire,CB Gaffaney
+info,reserve_umpire,Sharfuddoula
+info,tv_umpire,S Ravi
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_runs,22
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Shafiul Islam
+info,player,Bangladesh,Sabbir Rahman
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Kamrul Islam Rabbi
+info,player,England,AN Cook
+info,player,England,BM Duckett
+info,player,England,JE Root
+info,player,England,GS Ballance
+info,player,England,MM Ali
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,CR Woakes
+info,player,England,AU Rashid
+info,player,England,SCJ Broad
+info,player,England,GJ Batty
+info,registry,people,AN Cook,f41598c1
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,GJ Batty,5ac8f17b
+info,registry,people,GS Ballance,755a77c6
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,Kamrul Islam Rabbi,f7e9a562
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Shafiul Islam,1a8eebbe
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12

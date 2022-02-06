@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2011/12
+info,date,2011/11/17
+info,date,2011/11/18
+info,date,2011/11/19
+info,date,2011/11/20
+info,date,2011/11/21
+info,event,Australia in South Africa Test Series
+info,match_number,2
+info,venue,New Wanderers Stadium
+info,city,Johannesburg
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,PJ Cummins
+info,umpire,BF Bowden
+info,umpire,IJ Gould
+info,reserve_umpire,S George
+info,tv_umpire,BR Doctrove
+info,match_referee,RS Mahanama
+info,winner,Australia
+info,winner_wickets,2
+info,player,Australia,SR Watson
+info,player,Australia,PJ Hughes
+info,player,Australia,UT Khawaja
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,MEK Hussey
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,PM Siddle
+info,player,Australia,PJ Cummins
+info,player,Australia,NM Lyon
+info,player,South Africa,JA Rudolph
+info,player,South Africa,GC Smith
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,AG Prince
+info,player,South Africa,MV Boucher
+info,player,South Africa,VD Philander
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Morkel
+info,player,South Africa,Imran Tahir
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PJ Hughes,004c9e85
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,S George,6d9e5a54
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,VD Philander,cfe70281

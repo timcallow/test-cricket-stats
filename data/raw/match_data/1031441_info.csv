@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,South Africa
+info,gender,male
+info,season,2017
+info,date,2017/07/27
+info,date,2017/07/28
+info,date,2017/07/29
+info,date,2017/07/30
+info,date,2017/07/31
+info,event,South Africa tour of England
+info,match_number,3
+info,venue,Kennington Oval
+info,city,London
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,BA Stokes
+info,umpire,JS Wilson
+info,umpire,Aleem Dar
+info,reserve_umpire,NA Mallender
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_runs,239
+info,player,England,AN Cook
+info,player,England,KK Jennings
+info,player,England,T Westley
+info,player,England,JE Root
+info,player,England,DJ Malan
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,TS Roland-Jones
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,South Africa,HG Kuhn
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,Q de Kock
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,VD Philander
+info,player,South Africa,CH Morris
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,M Morkel
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,HM Amla,e798611a
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MM Ali,bb351c23
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Westley,25a42048
+info,registry,people,TS Roland-Jones,6c6aca89
+info,registry,people,VD Philander,cfe70281

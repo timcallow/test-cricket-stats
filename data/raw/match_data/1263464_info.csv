@@ -1,0 +1,73 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2021/22
+info,date,2021/12/26
+info,date,2021/12/27
+info,date,2021/12/28
+info,event,The Ashes
+info,match_number,3
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,SM Boland
+info,umpire,PR Reiffel
+info,umpire,P Wilson
+info,reserve_umpire,SAJ Craig
+info,tv_umpire,RJ Tucker
+info,match_referee,DC Boon
+info,winner,Australia
+info,winner_innings,1
+info,winner_runs,14
+info,player,England,H Hameed
+info,player,England,Z Crawley
+info,player,England,DJ Malan
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,JC Buttler
+info,player,England,MA Wood
+info,player,England,OE Robinson
+info,player,England,MJ Leach
+info,player,England,JM Anderson
+info,player,Australia,MS Harris
+info,player,Australia,DA Warner
+info,player,Australia,NM Lyon
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,TM Head
+info,player,Australia,C Green
+info,player,Australia,AT Carey
+info,player,Australia,PJ Cummins
+info,player,Australia,MA Starc
+info,player,Australia,SM Boland
+info,registry,people,AT Carey,69d03465
+info,registry,people,BA Stokes,e087956b
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MJ Leach,3987e390
+info,registry,people,MS Harris,9e85455c
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,P Wilson,68304a36
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SM Boland,d167edd3
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TM Head,12b610c2
+info,registry,people,Z Crawley,922e1b19

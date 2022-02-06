@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Pakistan
+info,gender,male
+info,season,2006/07
+info,date,2007/01/19
+info,date,2007/01/20
+info,date,2007/01/21
+info,date,2007/01/22
+info,event,Pakistan tour of South Africa
+info,match_number,2
+info,venue,St George's Park
+info,city,Port Elizabeth
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,Inzamam-ul-Haq
+info,umpire,PD Parker
+info,umpire,BR Doctrove
+info,reserve_umpire,BG Jerling
+info,tv_umpire,RE Koertzen
+info,match_referee,BC Broad
+info,winner,Pakistan
+info,winner_wickets,5
+info,player,South Africa,GC Smith
+info,player,South Africa,AB de Villiers
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,HH Gibbs
+info,player,South Africa,MV Boucher
+info,player,South Africa,SM Pollock
+info,player,South Africa,A Nel
+info,player,South Africa,PL Harris
+info,player,South Africa,M Ntini
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Yasir Hameed
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Shoaib Akhtar
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Danish Kaneria
+info,player,Pakistan,Mohammad Asif
+info,registry,people,A Nel,2503e881
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BG Jerling,26457e41
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HM Amla,e798611a
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,PD Parker,439aa572
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,Yasir Hameed,f144d99b
+info,registry,people,Younis Khan,33cb3411

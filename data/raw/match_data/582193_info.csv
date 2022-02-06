@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,New Zealand
+info,gender,male
+info,season,2012/13
+info,date,2012/11/25
+info,date,2012/11/26
+info,date,2012/11/27
+info,date,2012/11/28
+info,date,2012/11/29
+info,event,New Zealand in Sri Lanka Test Series
+info,match_number,2
+info,venue,P Sara Oval
+info,city,Colombo
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,LRPL Taylor
+info,umpire,M Erasmus
+info,umpire,NJ Llong
+info,reserve_umpire,TH Wijewardene
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,J Srinath
+info,winner,New Zealand
+info,winner_runs,167
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,DR Flynn
+info,player,New Zealand,CFK van Wyk
+info,player,New Zealand,TD Astle
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,TG Southee
+info,player,New Zealand,JS Patel
+info,player,New Zealand,TA Boult
+info,player,Sri Lanka,NT Paranavitana
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,S Randiv
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,RMS Eranga
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CFK van Wyk,24fd039c
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JS Patel,f5821615
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NT Paranavitana,200f2761
+info,registry,people,RMS Eranga,8f7a598f
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Randiv,f5f18a18
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TD Astle,383dd431
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TH Wijewardene,6a6be119
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75

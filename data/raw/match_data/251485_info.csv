@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,New Zealand
+info,gender,male
+info,season,2006/07
+info,date,2006/12/07
+info,date,2006/12/08
+info,date,2006/12/09
+info,event,Sri Lanka tour of New Zealand
+info,match_number,1
+info,venue,AMI Stadium
+info,city,Christchurch
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,SE Bond
+info,umpire,SJA Taufel
+info,umpire,BG Jerling
+info,reserve_umpire,DM Quested
+info,tv_umpire,GAV Baxter
+info,match_referee,J Srinath
+info,winner,New Zealand
+info,winner_wickets,5
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,CK Kapugedera
+info,player,Sri Lanka,LPC Silva
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,MF Maharoof
+info,player,Sri Lanka,SL Malinga
+info,player,Sri Lanka,M Muralitharan
+info,player,New Zealand,CD Cumming
+info,player,New Zealand,JM How
+info,player,New Zealand,MS Sinclair
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,JEC Franklin
+info,player,New Zealand,SE Bond
+info,player,New Zealand,CS Martin
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BG Jerling,26457e41
+info,registry,people,CD Cumming,463cd7cb
+info,registry,people,CK Kapugedera,cfad138c
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DM Quested,bb312212
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,JM How,fd8f11e9
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,LPC Silva,1be70c88
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MF Maharoof,ab89348d
+info,registry,people,MS Sinclair,1b668884
+info,registry,people,NJ Astle,99639abf
+info,registry,people,SE Bond,4f629497
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SL Malinga,a12e1d51
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,WPUJC Vaas,bcce309e
+info,registry,people,WU Tharanga,7ed9fd56

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,male
+info,season,2013
+info,date,2013/05/16
+info,date,2013/05/17
+info,date,2013/05/18
+info,date,2013/05/19
+info,event,New Zealand in England Test Series
+info,match_number,1
+info,venue,Lord's
+info,city,London
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,SCJ Broad
+info,umpire,Aleem Dar
+info,umpire,SJ Davis
+info,reserve_umpire,PJ Hartley
+info,tv_umpire,M Erasmus
+info,match_referee,DC Boon
+info,winner,England
+info,winner_runs,170
+info,player,England,AN Cook
+info,player,England,NRD Compton
+info,player,England,IJL Trott
+info,player,England,IR Bell
+info,player,England,JE Root
+info,player,England,JM Bairstow
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,ST Finn
+info,player,England,JM Anderson
+info,player,New Zealand,PG Fulton
+info,player,New Zealand,HD Rutherford
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,DG Brownlie
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,TG Southee
+info,player,New Zealand,BP Martin
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BP Martin,a02a6cb1
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Prior,1200550f
+info,registry,people,N Wagner,78adc879
+info,registry,people,NRD Compton,e5437a99
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e

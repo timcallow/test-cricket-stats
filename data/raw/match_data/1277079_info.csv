@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2021/22
+info,date,2021/12/26
+info,date,2021/12/27
+info,date,2021/12/28
+info,date,2021/12/29
+info,date,2021/12/30
+info,event,India tour of South Africa
+info,match_number,1
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,KL Rahul
+info,umpire,AT Holdstock
+info,umpire,M Erasmus
+info,reserve_umpire,BP Jele
+info,tv_umpire,A Paleker
+info,match_referee,AJ Pycroft
+info,winner,India
+info,winner_runs,113
+info,player,India,KL Rahul
+info,player,India,MA Agarwal
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RR Pant
+info,player,India,R Ashwin
+info,player,India,SN Thakur
+info,player,India,Mohammed Shami
+info,player,India,JJ Bumrah
+info,player,India,Mohammed Siraj
+info,player,South Africa,D Elgar
+info,player,South Africa,AK Markram
+info,player,South Africa,KD Petersen
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,PWA Mulder
+info,player,South Africa,M Jansen
+info,player,South Africa,K Rabada
+info,player,South Africa,KA Maharaj
+info,player,South Africa,L Ngidi
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,D Elgar,33085ffb
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,V Kohli,ba607b88

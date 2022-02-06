@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Pakistan
+info,gender,male
+info,season,2007/08
+info,date,2007/10/01
+info,date,2007/10/02
+info,date,2007/10/03
+info,date,2007/10/04
+info,date,2007/10/05
+info,event,South Africa tour of Pakistan
+info,match_number,1
+info,venue,National Stadium
+info,city,Karachi
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,JH Kallis
+info,umpire,MR Benson
+info,umpire,SJA Taufel
+info,reserve_umpire,Afzaal Ahmed
+info,tv_umpire,Riazuddin
+info,match_referee,AG Hurst
+info,winner,South Africa
+info,winner_runs,160
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,AB de Villiers
+info,player,South Africa,MV Boucher
+info,player,South Africa,A Nel
+info,player,South Africa,PL Harris
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Ntini
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Mohammad Asif
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Abdur Rehman
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Danish Kaneria
+info,registry,people,A Nel,2503e881
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AG Prince,035cb925
+info,registry,people,Abdur Rehman,d094e7d1
+info,registry,people,Afzaal Ahmed,34f2b20f
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HM Amla,e798611a
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MR Benson,790e14d3
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,Riazuddin,08f088e3
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Younis Khan,33cb3411

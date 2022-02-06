@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,West Indies
+info,gender,male
+info,season,2019/20
+info,date,2019/11/27
+info,date,2019/11/28
+info,date,2019/11/29
+info,event,Afghanistan tour of India
+info,venue,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+info,city,Lucknow
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,RRS Cornwall
+info,umpire,Nitin Menon
+info,umpire,PR Reiffel
+info,reserve_umpire,Bismillah Shinwari
+info,tv_umpire,Ahmed Shah Pakteen
+info,match_referee,BC Broad
+info,winner,West Indies
+info,winner_wickets,9
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Javed Ahmadi
+info,player,Afghanistan,Ihsanullah
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Asghar Stanikzai
+info,player,Afghanistan,Nasir Jamal
+info,player,Afghanistan,Afsar Zazai
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Amir Hamza
+info,player,Afghanistan,Yamin Ahmadzai
+info,player,Afghanistan,Zahir Khan
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,JD Campbell
+info,player,West Indies,SD Hope
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,RL Chase
+info,player,West Indies,SO Dowrich
+info,player,West Indies,JO Holder
+info,player,West Indies,RRS Cornwall
+info,player,West Indies,KAJ Roach
+info,player,West Indies,JA Warrican
+info,registry,people,Afsar Zazai,50930025
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Amir Hamza,dca1ac2e
+info,registry,people,Asghar Stanikzai,88679525
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Ihsanullah,5aeab54c
+info,registry,people,JA Warrican,cc23e91e
+info,registry,people,JD Campbell,6fd0c8e1
+info,registry,people,JO Holder,0f721006
+info,registry,people,Javed Ahmadi,0087a35d
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,Nasir Jamal,b430ec8c
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RRS Cornwall,c4d9634c
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,Yamin Ahmadzai,6e4588bc
+info,registry,people,Zahir Khan,786b7fe8

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Australia
+info,gender,male
+info,season,2009/10
+info,date,2010/03/27
+info,date,2010/03/28
+info,date,2010/03/29
+info,date,2010/03/30
+info,date,2010/03/31
+info,event,Trans-Tasman Trophy
+info,match_number,2
+info,venue,Seddon Park
+info,city,Hamilton
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,MG Johnson
+info,umpire,Aleem Dar
+info,umpire,Asad Rauf
+info,reserve_umpire,GAV Baxter
+info,tv_umpire,IJ Gould
+info,match_referee,J Srinath
+info,winner,Australia
+info,winner_runs,176
+info,player,Australia,SR Watson
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,MJ North
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,NM Hauritz
+info,player,Australia,RJ Harris
+info,player,Australia,DE Bollinger
+info,player,New Zealand,TG McIntosh
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,MS Sinclair
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,JS Patel
+info,player,New Zealand,TG Southee
+info,player,New Zealand,BJ Arnel
+info,player,New Zealand,CS Martin
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Arnel,a5ac694f
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DE Bollinger,45c2196c
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JS Patel,f5821615
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ North,99464591
+info,registry,people,MS Sinclair,1b668884
+info,registry,people,NM Hauritz,8ea6e670
+info,registry,people,RJ Harris,12eddf28
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,TG McIntosh,73ccd561
+info,registry,people,TG Southee,13c35c9e

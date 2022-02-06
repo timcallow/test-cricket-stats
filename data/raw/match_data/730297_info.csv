@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Bangladesh
+info,gender,male
+info,season,2014
+info,date,2014/09/13
+info,date,2014/09/14
+info,date,2014/09/15
+info,date,2014/09/16
+info,event,Bangladesh in West Indies Test Series
+info,match_number,2
+info,venue,"Beausejour Stadium, Gros Islet"
+info,city,St Lucia
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,S Chanderpaul
+info,umpire,SJ Davis
+info,umpire,RK Illingworth
+info,reserve_umpire,PJ Nero
+info,tv_umpire,M Erasmus
+info,match_referee,RS Mahanama
+info,winner,West Indies
+info,winner_runs,296
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Shamsur Rahman
+info,player,Bangladesh,Anamul Haque
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Nasir Hossain
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Shafiul Islam
+info,player,Bangladesh,Robiul Islam
+info,player,Bangladesh,Al-Amin Hossain
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,LR Johnson
+info,player,West Indies,KA Edwards
+info,player,West Indies,DM Bravo
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,J Blackwood
+info,player,West Indies,D Ramdin
+info,player,West Indies,KAJ Roach
+info,player,West Indies,JE Taylor
+info,player,West Indies,SJ Benn
+info,player,West Indies,ST Gabriel
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,JE Taylor,4180d897
+info,registry,people,KA Edwards,d06335fd
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,LR Johnson,b8f3362a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,PJ Nero,925d2e93
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RS Mahanama,57910393
+info,registry,people,Robiul Islam,d876610c
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SJ Benn,364ee2cf
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,Shafiul Islam,1a8eebbe
+info,registry,people,Shamsur Rahman,02789d88
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12

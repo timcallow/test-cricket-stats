@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,England
+info,gender,male
+info,season,2020
+info,date,2020/08/05
+info,date,2020/08/06
+info,date,2020/08/07
+info,date,2020/08/08
+info,date,2020/08/09
+info,event,Pakistan tour of England
+info,match_number,1
+info,venue,Old Trafford
+info,city,Manchester
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,CR Woakes
+info,umpire,RA Kettleborough
+info,umpire,RK Illingworth
+info,reserve_umpire,SJ O'Shaughnessy
+info,tv_umpire,MA Gough
+info,match_referee,BC Broad
+info,winner,England
+info,winner_wickets,3
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Abid Ali
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Yasir Shah
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Mohammad Abbas
+info,player,Pakistan,Naseem Shah
+info,player,England,RJ Burns
+info,player,England,DP Sibley
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,OJ Pope
+info,player,England,JC Buttler
+info,player,England,CR Woakes
+info,player,England,SCJ Broad
+info,player,England,DM Bess
+info,player,England,JC Archer
+info,player,England,JM Anderson
+info,registry,people,Abid Ali,5d836a72
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DM Bess,ad46c747
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Yasir Shah,f2800ef3

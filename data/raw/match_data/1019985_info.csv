@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Bangladesh
+info,gender,male
+info,season,2016/17
+info,date,2017/01/12
+info,date,2017/01/13
+info,date,2017/01/14
+info,date,2017/01/15
+info,date,2017/01/16
+info,event,Bangladesh in New Zealand Test Series
+info,match_number,1
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,TWM Latham
+info,umpire,M Erasmus
+info,umpire,PR Reiffel
+info,reserve_umpire,CM Brown
+info,tv_umpire,NJ Llong
+info,match_referee,J Srinath
+info,winner,New Zealand
+info,winner_wickets,7
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Sabbir Rahman
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Kamrul Islam Rabbi
+info,player,Bangladesh,Subashis Roy
+info,player,New Zealand,JA Raval
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,registry,people,BJ Watling,928670cc
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,Kamrul Islam Rabbi,f7e9a562
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,N Wagner,78adc879
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Subashis Roy,a3a078ba
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Taskin Ahmed,ef18b66e

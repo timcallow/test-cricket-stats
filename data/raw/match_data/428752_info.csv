@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,male
+info,season,2010/11
+info,date,2010/12/26
+info,date,2010/12/27
+info,date,2010/12/28
+info,date,2010/12/29
+info,event,The Ashes
+info,match_number,4
+info,venue,Melbourne Cricket Ground
+info,city,
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,IJL Trott
+info,umpire,Aleem Dar
+info,umpire,AL Hill
+info,reserve_umpire,PR Reiffel
+info,tv_umpire,M Erasmus
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_innings,1
+info,winner_runs,157
+info,player,Australia,SR Watson
+info,player,Australia,PJ Hughes
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,MEK Hussey
+info,player,Australia,SPD Smith
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,RJ Harris
+info,player,Australia,PM Siddle
+info,player,Australia,BW Hilfenhaus
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,IR Bell
+info,player,England,MJ Prior
+info,player,England,TT Bresnan
+info,player,England,GP Swann
+info,player,England,CT Tremlett
+info,player,England,JM Anderson
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AL Hill,4165ced0
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BW Hilfenhaus,f3171936
+info,registry,people,CT Tremlett,a72b14ff
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Prior,1200550f
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,PJ Hughes,004c9e85
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RJ Harris,12eddf28
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,TT Bresnan,58043739

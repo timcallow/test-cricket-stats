@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2015
+info,date,2015/07/29
+info,date,2015/07/30
+info,date,2015/07/31
+info,event,The Ashes
+info,match_number,3
+info,venue,Edgbaston
+info,city,Birmingham
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,ST Finn
+info,umpire,Aleem Dar
+info,umpire,CB Gaffaney
+info,reserve_umpire,RJ Bailey
+info,tv_umpire,M Erasmus
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_wickets,8
+info,player,Australia,CJL Rogers
+info,player,Australia,DA Warner
+info,player,Australia,SPD Smith
+info,player,Australia,MJ Clarke
+info,player,Australia,AC Voges
+info,player,Australia,MR Marsh
+info,player,Australia,PM Nevill
+info,player,Australia,MG Johnson
+info,player,Australia,MA Starc
+info,player,Australia,JR Hazlewood
+info,player,Australia,NM Lyon
+info,player,England,A Lyth
+info,player,England,AN Cook
+info,player,England,IR Bell
+info,player,England,JE Root
+info,player,England,JM Bairstow
+info,player,England,BA Stokes
+info,player,England,JC Buttler
+info,player,England,MM Ali
+info,player,England,SCJ Broad
+info,player,England,ST Finn
+info,player,England,JM Anderson
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AC Voges,864c199e
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CJL Rogers,d8360178
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Poysden,bbbb7f1e
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PM Nevill,a22fb7b5
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,ST Finn,ccdd8308

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Sri Lanka
+info,gender,male
+info,season,2006
+info,date,2006/08/04
+info,date,2006/08/05
+info,date,2006/08/06
+info,date,2006/08/07
+info,date,2006/08/08
+info,event,South Africa tour of Sri Lanka
+info,match_number,2
+info,venue,P Sara Oval
+info,city,Colombo
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,DPMD Jayawardene
+info,umpire,BF Bowden
+info,umpire,Aleem Dar
+info,reserve_umpire,REJ Martinesz
+info,tv_umpire,TH Wijewardene
+info,match_referee,J Srinath
+info,winner,Sri Lanka
+info,winner_wickets,1
+info,player,South Africa,HH Gibbs
+info,player,South Africa,AJ Hall
+info,player,South Africa,JA Rudolph
+info,player,South Africa,HM Amla
+info,player,South Africa,AG Prince
+info,player,South Africa,AB de Villiers
+info,player,South Africa,MV Boucher
+info,player,South Africa,SM Pollock
+info,player,South Africa,N Boje
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Ntini
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,CK Kapugedera
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,MF Maharoof
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,SL Malinga
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,AJ Hall,6b0c3a20
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CK Kapugedera,cfad138c
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HM Amla,e798611a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MF Maharoof,ab89348d
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,N Boje,6a0537aa
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,SL Malinga,a12e1d51
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,TH Wijewardene,6a6be119
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,WPUJC Vaas,bcce309e
+info,registry,people,WU Tharanga,7ed9fd56

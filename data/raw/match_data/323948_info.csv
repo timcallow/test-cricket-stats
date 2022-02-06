@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,South Africa
+info,gender,male
+info,season,2007/08
+info,date,2008/02/29
+info,date,2008/03/01
+info,date,2008/03/02
+info,date,2008/03/03
+info,event,South Africa in Bangladesh Test Series
+info,match_number,2
+info,venue,Chittagong Divisional Stadium
+info,city,
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,GC Smith
+info,umpire,Aleem Dar
+info,umpire,SA Bucknor
+info,reserve_umpire,Tanvir Ahmed
+info,tv_umpire,Nadir Shah
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,205
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Junaid Siddique
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Abdur Razzak
+info,player,Bangladesh,Aftab Ahmed
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Mashrafe Mortaza
+info,player,Bangladesh,Shahadat Hossain
+info,player,South Africa,ND McKenzie
+info,player,South Africa,GC Smith
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,AB de Villiers
+info,player,South Africa,MV Boucher
+info,player,South Africa,RJ Peterson
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Morkel
+info,player,South Africa,M Ntini
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,Abdur Razzak,888e32bf
+info,registry,people,Aftab Ahmed,53bc7b84
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,Junaid Siddique,62e203d4
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,Nadir Shah,3515389d
+info,registry,people,RJ Peterson,26ff4c29
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Tanvir Ahmed,ea2df1f1

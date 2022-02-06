@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,male
+info,season,2012
+info,date,2012/05/25
+info,date,2012/05/26
+info,date,2012/05/27
+info,date,2012/05/28
+info,event,The Wisden Trophy
+info,match_number,2
+info,venue,Trent Bridge
+info,city,Nottingham
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,TT Bresnan
+info,umpire,Aleem Dar
+info,umpire,Asad Rauf
+info,reserve_umpire,NA Mallender
+info,tv_umpire,M Erasmus
+info,match_referee,RS Mahanama
+info,winner,England
+info,winner_wickets,9
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,JM Bairstow
+info,player,England,MJ Prior
+info,player,England,TT Bresnan
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,JM Anderson
+info,player,West Indies,AB Barath
+info,player,West Indies,KOA Powell
+info,player,West Indies,KA Edwards
+info,player,West Indies,DM Bravo
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,MN Samuels
+info,player,West Indies,D Ramdin
+info,player,West Indies,DJG Sammy
+info,player,West Indies,KAJ Roach
+info,player,West Indies,S Shillingford
+info,player,West Indies,R Rampaul
+info,registry,people,AB Barath,d3a3e82d
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KA Edwards,d06335fd
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,RS Mahanama,57910393
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Shillingford,d76b0d2d
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,TT Bresnan,58043739

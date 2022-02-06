@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,South Africa
+info,gender,male
+info,season,2016/17
+info,date,2016/11/24
+info,date,2016/11/25
+info,date,2016/11/26
+info,date,2016/11/27
+info,event,South Africa in Australia Test Series
+info,match_number,3
+info,venue,Adelaide Oval
+info,city,
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,UT Khawaja
+info,umpire,RA Kettleborough
+info,umpire,NJ Llong
+info,reserve_umpire,P Wilson
+info,tv_umpire,Aleem Dar
+info,match_referee,AJ Pycroft
+info,winner,Australia
+info,winner_wickets,7
+info,player,Australia,UT Khawaja
+info,player,Australia,MT Renshaw
+info,player,Australia,DA Warner
+info,player,Australia,SPD Smith
+info,player,Australia,PSP Handscomb
+info,player,Australia,NJ Maddinson
+info,player,Australia,MS Wade
+info,player,Australia,MA Starc
+info,player,Australia,JR Hazlewood
+info,player,Australia,NM Lyon
+info,player,Australia,JM Bird
+info,player,South Africa,SC Cook
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,JP Duminy
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,KJ Abbott
+info,player,South Africa,K Rabada
+info,player,South Africa,T Shamsi
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HM Amla,e798611a
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NJ Maddinson,44afbf2d
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,P Wilson,68304a36
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,SC Cook,13bee186
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,VD Philander,cfe70281

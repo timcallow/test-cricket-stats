@@ -1,0 +1,75 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,England
+info,gender,male
+info,season,2021
+info,date,2021/09/02
+info,date,2021/09/03
+info,date,2021/09/04
+info,date,2021/09/05
+info,date,2021/09/06
+info,event,India tour of England
+info,match_number,4
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,RG Sharma
+info,umpire,AG Wharf
+info,umpire,RK Illingworth
+info,reserve_umpire,M Burns
+info,tv_umpire,MA Gough
+info,match_referee,BC Broad
+info,winner,India
+info,winner_runs,157
+info,player,India,RG Sharma
+info,player,India,KL Rahul
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,RA Jadeja
+info,player,India,AM Rahane
+info,player,India,RR Pant
+info,player,India,SN Thakur
+info,player,India,UT Yadav
+info,player,India,JJ Bumrah
+info,player,India,Mohammed Siraj
+info,player,England,RJ Burns
+info,player,England,H Hameed
+info,player,England,DJ Malan
+info,player,England,JE Root
+info,player,England,C Overton
+info,player,England,OJ Pope
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,CR Woakes
+info,player,England,OE Robinson
+info,player,England,JM Anderson
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,C Overton,e9987a94
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88

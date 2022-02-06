@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Sri Lanka
+info,gender,male
+info,season,2007/08
+info,date,2007/11/16
+info,date,2007/11/17
+info,date,2007/11/18
+info,date,2007/11/19
+info,date,2007/11/20
+info,event,Sri Lanka tour of Australia
+info,match_number,2
+info,venue,Bellerive Oval
+info,city,Hobart
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,B Lee
+info,umpire,Aleem Dar
+info,umpire,RE Koertzen
+info,reserve_umpire,SG John
+info,tv_umpire,PD Parker
+info,match_referee,MJ Procter
+info,winner,Australia
+info,winner_runs,96
+info,player,Australia,PA Jaques
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,A Symonds
+info,player,Australia,AC Gilchrist
+info,player,Australia,B Lee
+info,player,Australia,MG Johnson
+info,player,Australia,SR Clark
+info,player,Australia,SCG MacGill
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,MG Vandort
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,LPC Silva
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,MF Maharoof
+info,player,Sri Lanka,CRD Fernando
+info,player,Sri Lanka,SL Malinga
+info,player,Sri Lanka,M Muralitharan
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,LPC Silva,1be70c88
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MF Maharoof,ab89348d
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MG Vandort,49fa1236
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Procter,32e65048
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,PA Jaques,03252e44
+info,registry,people,PD Parker,439aa572
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RJG Lockyear,c8e7c983
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SCG MacGill,60dac349
+info,registry,people,SG John,e9870d43
+info,registry,people,SL Malinga,a12e1d51
+info,registry,people,SR Clark,a3bfec5d
+info,registry,people,ST Jayasuriya,f233bbb4

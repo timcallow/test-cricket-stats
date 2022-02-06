@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,India
+info,gender,male
+info,season,2013/14
+info,date,2014/02/06
+info,date,2014/02/07
+info,date,2014/02/08
+info,date,2014/02/09
+info,event,India in New Zealand Test Series
+info,match_number,1
+info,venue,Eden Park
+info,city,Auckland
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,BB McCullum
+info,umpire,SJ Davis
+info,umpire,RA Kettleborough
+info,reserve_umpire,BF Bowden
+info,tv_umpire,GAV Baxter
+info,match_referee,RS Madugalle
+info,winner,New Zealand
+info,winner_runs,40
+info,player,India,S Dhawan
+info,player,India,M Vijay
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,RG Sharma
+info,player,India,AM Rahane
+info,player,India,MS Dhoni
+info,player,India,RA Jadeja
+info,player,India,Z Khan
+info,player,India,I Sharma
+info,player,India,Mohammed Shami
+info,player,New Zealand,PG Fulton
+info,player,New Zealand,HD Rutherford
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,CJ Anderson
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,TG Southee
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Wagner,78adc879
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Z Khan,91a4a398

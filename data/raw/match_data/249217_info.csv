@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2006/07
+info,date,2007/01/02
+info,date,2007/01/03
+info,date,2007/01/04
+info,date,2007/01/05
+info,date,2007/01/06
+info,event,India tour of South Africa
+info,match_number,3
+info,venue,Newlands
+info,city,Cape Town
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,GC Smith
+info,umpire,Asad Rauf
+info,umpire,DJ Harper
+info,reserve_umpire,MW Brown
+info,tv_umpire,M Erasmus
+info,match_referee,RS Mahanama
+info,winner,South Africa
+info,winner_wickets,5
+info,player,India,W Jaffer
+info,player,India,V Sehwag
+info,player,India,R Dravid
+info,player,India,SC Ganguly
+info,player,India,SR Tendulkar
+info,player,India,VVS Laxman
+info,player,India,KD Karthik
+info,player,India,A Kumble
+info,player,India,Z Khan
+info,player,India,S Sreesanth
+info,player,India,MM Patel
+info,player,South Africa,AB de Villiers
+info,player,South Africa,GC Smith
+info,player,South Africa,HM Amla
+info,player,South Africa,SM Pollock
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,HH Gibbs
+info,player,South Africa,MV Boucher
+info,player,South Africa,DW Steyn
+info,player,South Africa,PL Harris
+info,player,South Africa,M Ntini
+info,registry,people,A Kumble,0c2730df
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HM Amla,e798611a
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MM Patel,f0f628c7
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,MW Brown,d83d7796
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RS Mahanama,57910393
+info,registry,people,S Sreesanth,6b8eb6e5
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,W Jaffer,619aa81f
+info,registry,people,Z Khan,91a4a398

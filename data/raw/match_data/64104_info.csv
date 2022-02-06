@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Bangladesh
+info,gender,male
+info,season,2004/05
+info,date,2004/10/26
+info,date,2004/10/27
+info,date,2004/10/28
+info,date,2004/10/29
+info,event,New Zealand tour of Bangladesh
+info,match_number,2
+info,venue,MA Aziz Stadium
+info,city,Chattogram
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,SP Fleming
+info,umpire,DJ Harper
+info,umpire,MR Benson
+info,tv_umpire,AFM Akhtaruddin
+info,match_referee,AG Hurst
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,101
+info,player,New Zealand,MH Richardson
+info,player,New Zealand,MS Sinclair
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,SB Styris
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,HJH Marshall
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,JEC Franklin
+info,player,New Zealand,PJ Wiseman
+info,player,New Zealand,DL Vettori
+info,player,Bangladesh,Nafees Iqbal
+info,player,Bangladesh,Javed Omar
+info,player,Bangladesh,Aftab Ahmed
+info,player,Bangladesh,Rajin Saleh
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Alok Kapali
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Mushfiqur Rahman
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Tapash Baisya
+info,player,Bangladesh,Enamul Haque jnr
+info,registry,people,AFM Akhtaruddin,b786b38f
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,Aftab Ahmed,53bc7b84
+info,registry,people,Alok Kapali,54279e23
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,Enamul Haque jnr,0480aba6
+info,registry,people,HJH Marshall,70542bef
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,Javed Omar,e15faa51
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,MH Richardson,48322f1f
+info,registry,people,MR Benson,790e14d3
+info,registry,people,MS Sinclair,1b668884
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,Mushfiqur Rahman,3fc3b204
+info,registry,people,NJ Astle,99639abf
+info,registry,people,Nafees Iqbal,c5b87d8c
+info,registry,people,PJ Wiseman,f39866f1
+info,registry,people,Rajin Saleh,acc321aa
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,Tapash Baisya,bb1819fa

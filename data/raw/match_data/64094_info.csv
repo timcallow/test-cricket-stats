@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,male
+info,season,2004
+info,date,2004/07/29
+info,date,2004/07/30
+info,date,2004/07/31
+info,date,2004/08/01
+info,event,West Indies tour of England
+info,match_number,2
+info,venue,Edgbaston
+info,city,Birmingham
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,A Flintoff
+info,umpire,DB Hair
+info,umpire,SJA Taufel
+info,tv_umpire,JW Lloyds
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_runs,256
+info,player,England,ME Trescothick
+info,player,England,AJ Strauss
+info,player,England,RWT Key
+info,player,England,MP Vaughan
+info,player,England,GP Thorpe
+info,player,England,A Flintoff
+info,player,England,GO Jones
+info,player,England,AF Giles
+info,player,England,MJ Hoggard
+info,player,England,JM Anderson
+info,player,England,SJ Harmison
+info,player,West Indies,CH Gayle
+info,player,West Indies,DS Smith
+info,player,West Indies,RR Sarwan
+info,player,West Indies,BC Lara
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DJ Bravo
+info,player,West Indies,RD Jacobs
+info,player,West Indies,OAC Banks
+info,player,West Indies,PT Collins
+info,player,West Indies,CD Collymore
+info,player,West Indies,JJC Lawson
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AF Giles,a4af4849
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,BC Lara,d5403021
+info,registry,people,CD Collymore,87b177e8
+info,registry,people,CH Gayle,db584dad
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DS Smith,85ad2217
+info,registry,people,GO Jones,2e929b99
+info,registry,people,GP Thorpe,53fcbbfb
+info,registry,people,JJC Lawson,1417ba2f
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JW Lloyds,112b8472
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,OAC Banks,8692a3f1
+info,registry,people,PT Collins,f1cb042f
+info,registry,people,RD Jacobs,c1f9b051
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RWT Key,bcb01d8c
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,SJA Taufel,4b43d5ac

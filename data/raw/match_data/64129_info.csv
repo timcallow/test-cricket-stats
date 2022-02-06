@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,male
+info,season,2004/05
+info,date,2005/03/18
+info,date,2005/03/19
+info,date,2005/03/20
+info,date,2005/03/21
+info,date,2005/03/22
+info,event,Australia tour of New Zealand
+info,match_number,2
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,AC Gilchrist
+info,umpire,DR Shepherd
+info,umpire,RE Koertzen
+info,tv_umpire,EA Watkin
+info,match_referee,CH Lloyd
+info,outcome,draw
+info,player,Australia,JL Langer
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,MJ Clarke
+info,player,Australia,SM Katich
+info,player,Australia,AC Gilchrist
+info,player,Australia,SK Warne
+info,player,Australia,JN Gillespie
+info,player,Australia,MS Kasprowicz
+info,player,Australia,GD McGrath
+info,player,New Zealand,CD Cumming
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,HJH Marshall
+info,player,New Zealand,L Vincent
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,JEC Franklin
+info,player,New Zealand,CD McMillan
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,IE O'Brien
+info,player,New Zealand,CS Martin
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CD Cumming,463cd7cb
+info,registry,people,CD McMillan,f5390243
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Martyn,69762509
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,EA Watkin,147afe9d
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,HJH Marshall,70542bef
+info,registry,people,IE O'Brien,78f34e15
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,JL Langer,94198ef4
+info,registry,people,JN Gillespie,74234d66
+info,registry,people,L Vincent,2764133a
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MS Kasprowicz,8d0ea930
+info,registry,people,NJ Astle,99639abf
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SK Warne,bb18be76
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SP Fleming,eea6b7f1

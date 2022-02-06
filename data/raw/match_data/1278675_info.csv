@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,New Zealand
+info,gender,male
+info,season,2021/22
+info,date,2021/12/03
+info,date,2021/12/04
+info,date,2021/12/05
+info,date,2021/12/06
+info,event,New Zealand tour of India
+info,match_number,2
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,MA Agarwal
+info,umpire,AK Chaudhary
+info,umpire,Nitin Menon
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,VK Sharma
+info,match_referee,J Srinath
+info,winner,India
+info,winner_runs,372
+info,player,India,MA Agarwal
+info,player,India,Shubman Gill
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,SS Iyer
+info,player,India,WP Saha
+info,player,India,R Ashwin
+info,player,India,AR Patel
+info,player,India,J Yadav
+info,player,India,UT Yadav
+info,player,India,Mohammed Siraj
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,WA Young
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,KA Jamieson
+info,player,New Zealand,TG Southee
+info,player,New Zealand,WER Somerville
+info,player,New Zealand,AY Patel
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AR Patel,2e171977
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,J Srinath,bad31fac
+info,registry,people,J Yadav,81049310
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WER Somerville,74a1c1e3
+info,registry,people,WP Saha,fe11caa6

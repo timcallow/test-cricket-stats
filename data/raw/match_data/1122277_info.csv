@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,India
+info,gender,male
+info,season,2017/18
+info,date,2018/01/13
+info,date,2018/01/14
+info,date,2018/01/15
+info,date,2018/01/16
+info,date,2018/01/17
+info,event,India tour of South Africa
+info,match_number,2
+info,venue,SuperSport Park
+info,city,Centurion
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,L Ngidi
+info,umpire,MA Gough
+info,umpire,PR Reiffel
+info,reserve_umpire,A Paleker
+info,tv_umpire,RA Kettleborough
+info,match_referee,BC Broad
+info,winner,South Africa
+info,winner_runs,135
+info,player,South Africa,AK Markram
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,F du Plessis
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,M Morkel
+info,player,South Africa,L Ngidi
+info,player,India,M Vijay
+info,player,India,KL Rahul
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,PA Patel
+info,player,India,RG Sharma
+info,player,India,HH Pandya
+info,player,India,R Ashwin
+info,player,India,Mohammed Shami
+info,player,India,I Sharma
+info,player,India,JJ Bumrah
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,D Elgar,33085ffb
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,HM Amla,e798611a
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VD Philander,cfe70281

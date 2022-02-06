@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,South Africa
+info,gender,male
+info,season,2015
+info,date,2015/07/21
+info,date,2015/07/22
+info,date,2015/07/23
+info,date,2015/07/24
+info,date,2015/07/25
+info,event,South Africa in Bangladesh Test Series
+info,match_number,1
+info,venue,Zahur Ahmed Chowdhury Stadium
+info,city,Chittagong
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,Mustafizur Rahman
+info,umpire,RA Kettleborough
+info,umpire,JS Wilson
+info,reserve_umpire,Sharfuddoula
+info,tv_umpire,PR Reiffel
+info,match_referee,BC Broad
+info,outcome,draw
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mohammad Shahid
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Jubair Hossain
+info,player,South Africa,D Elgar
+info,player,South Africa,S van Zyl
+info,player,South Africa,F du Plessis
+info,player,South Africa,HM Amla
+info,player,South Africa,T Bavuma
+info,player,South Africa,JP Duminy
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,SR Harmer
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Morkel
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HM Amla,e798611a
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,Jubair Hossain,902d916b
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Shahid,c285c86e
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,S van Zyl,f4dfcbb4
+info,registry,people,SR Harmer,23638956
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,VD Philander,cfe70281

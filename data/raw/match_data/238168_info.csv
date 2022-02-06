@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Sri Lanka
+info,gender,male
+info,season,2005/06
+info,date,2006/03/08
+info,date,2006/03/09
+info,date,2006/03/10
+info,date,2006/03/11
+info,event,Sri Lanka tour of Bangladesh
+info,match_number,2
+info,venue,Shaheed Chandu Stadium
+info,city,Bogra
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,WU Tharanga
+info,umpire,Asad Rauf
+info,umpire,K Hariharan
+info,tv_umpire,Mahbubur Rahman
+info,match_referee,CH Lloyd
+info,winner,Sri Lanka
+info,winner_wickets,10
+info,player,Bangladesh,Javed Omar
+info,player,Bangladesh,Nafees Iqbal
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Enamul Haque jnr
+info,player,Bangladesh,Syed Rasel
+info,player,Sri Lanka,MG Vandort
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,MF Maharoof
+info,player,Sri Lanka,HMCM Bandara
+info,player,Sri Lanka,CRD Fernando
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,SL Malinga
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,Enamul Haque jnr,0480aba6
+info,registry,people,HMCM Bandara,4fc516bd
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,Javed Omar,e15faa51
+info,registry,people,K Hariharan,2386ccff
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MF Maharoof,ab89348d
+info,registry,people,MG Vandort,49fa1236
+info,registry,people,Mahbubur Rahman,3cfbdc55
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nafees Iqbal,c5b87d8c
+info,registry,people,SL Malinga,a12e1d51
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Syed Rasel,b743f01b
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,WU Tharanga,7ed9fd56

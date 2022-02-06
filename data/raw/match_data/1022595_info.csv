@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,India
+info,gender,male
+info,season,2016
+info,date,2016/07/30
+info,date,2016/07/31
+info,date,2016/08/01
+info,date,2016/08/02
+info,date,2016/08/03
+info,event,India in West Indies Test Series
+info,match_number,2
+info,venue,"Sabina Park, Kingston"
+info,city,Jamaica
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,RL Chase
+info,umpire,Aleem Dar
+info,umpire,IJ Gould
+info,reserve_umpire,GO Brathwaite
+info,tv_umpire,N Duguid
+info,match_referee,RS Madugalle
+info,outcome,draw
+info,player,India,KL Rahul
+info,player,India,S Dhawan
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,R Ashwin
+info,player,India,WP Saha
+info,player,India,A Mishra
+info,player,India,Mohammed Shami
+info,player,India,UT Yadav
+info,player,India,I Sharma
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,R Chandrika
+info,player,West Indies,DM Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,J Blackwood
+info,player,West Indies,RL Chase
+info,player,West Indies,SO Dowrich
+info,player,West Indies,JO Holder
+info,player,West Indies,D Bishoo
+info,player,West Indies,ML Cummins
+info,player,West Indies,ST Gabriel
+info,registry,people,A Mishra,6b19d823
+info,registry,people,AM Rahane,29e95537
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,JO Holder,0f721006
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,ML Cummins,92aa28fe
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Duguid,64495506
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,R Chandrika,0ef64bba
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

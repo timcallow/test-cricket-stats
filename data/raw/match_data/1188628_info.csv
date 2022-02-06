@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,India
+info,gender,male
+info,season,2019
+info,date,2019/08/22
+info,date,2019/08/23
+info,date,2019/08/24
+info,date,2019/08/25
+info,event,India in West Indies Test Series
+info,match_number,1
+info,venue,"Sir Vivian Richards Stadium, Antigua"
+info,city,North Sound
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,AM Rahane
+info,umpire,RA Kettleborough
+info,umpire,RJ Tucker
+info,reserve_umpire,LS Reifer
+info,tv_umpire,PR Reiffel
+info,match_referee,DC Boon
+info,winner,India
+info,winner_runs,318
+info,player,India,KL Rahul
+info,player,India,MA Agarwal
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,GH Vihari
+info,player,India,RR Pant
+info,player,India,RA Jadeja
+info,player,India,I Sharma
+info,player,India,Mohammed Shami
+info,player,India,JJ Bumrah
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,JD Campbell
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,DM Bravo
+info,player,West Indies,RL Chase
+info,player,West Indies,SD Hope
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,JO Holder
+info,player,West Indies,KAJ Roach
+info,player,West Indies,ML Cummins
+info,player,West Indies,ST Gabriel
+info,registry,people,AM Rahane,29e95537
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,GH Vihari,94253925
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,JD Campbell,6fd0c8e1
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JO Holder,0f721006
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KMA Paul,75224f22
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,ML Cummins,92aa28fe
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,V Kohli,ba607b88

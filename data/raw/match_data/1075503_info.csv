@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Bangladesh
+info,gender,male
+info,season,2017/18
+info,date,2017/10/06
+info,date,2017/10/07
+info,date,2017/10/08
+info,event,Bangladesh tour of South Africa
+info,match_number,2
+info,venue,Mangaung Oval
+info,city,Bloemfontein
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,K Rabada
+info,umpire,BNJ Oxenford
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,CB Gaffaney
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,254
+info,player,South Africa,D Elgar
+info,player,South Africa,AK Markram
+info,player,South Africa,HM Amla
+info,player,South Africa,T Bavuma
+info,player,South Africa,F du Plessis
+info,player,South Africa,Q de Kock
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,WD Parnell
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,D Olivier
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Sabbir Rahman
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Rubel Hossain
+info,player,Bangladesh,Subashis Roy
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Elgar,33085ffb
+info,registry,people,D Olivier,a8e56914
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HM Amla,e798611a
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Subashis Roy,a3a078ba
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,WD Parnell,3a60e0b5

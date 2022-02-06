@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,England
+info,gender,male
+info,season,2003/04
+info,date,2004/04/10
+info,date,2004/04/11
+info,date,2004/04/12
+info,date,2004/04/13
+info,date,2004/04/14
+info,event,England tour of West Indies
+info,match_number,4
+info,venue,Antigua Recreation Ground
+info,city,St John's
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,BC Lara
+info,umpire,Aleem Dar
+info,umpire,DB Hair
+info,tv_umpire,BR Doctrove
+info,match_referee,MJ Procter
+info,outcome,draw
+info,player,West Indies,CH Gayle
+info,player,West Indies,D Ganga
+info,player,West Indies,BC Lara
+info,player,West Indies,RR Sarwan
+info,player,West Indies,RL Powell
+info,player,West Indies,RO Hinds
+info,player,West Indies,RD Jacobs
+info,player,West Indies,TL Best
+info,player,West Indies,PT Collins
+info,player,West Indies,CD Collymore
+info,player,West Indies,FH Edwards
+info,player,England,ME Trescothick
+info,player,England,MP Vaughan
+info,player,England,MA Butcher
+info,player,England,N Hussain
+info,player,England,GP Thorpe
+info,player,England,A Flintoff
+info,player,England,GO Jones
+info,player,England,GJ Batty
+info,player,England,MJ Hoggard
+info,player,England,SP Jones
+info,player,England,SJ Harmison
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BC Lara,d5403021
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CD Collymore,87b177e8
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ganga,d5f3b5e1
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GJ Batty,5ac8f17b
+info,registry,people,GO Jones,2e929b99
+info,registry,people,GP Thorpe,53fcbbfb
+info,registry,people,MA Butcher,8fb88ee3
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,MJ Procter,32e65048
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,N Hussain,f76ffa81
+info,registry,people,PT Collins,f1cb042f
+info,registry,people,RD Jacobs,c1f9b051
+info,registry,people,RL Powell,33a50ecf
+info,registry,people,RO Hinds,d5afc103
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,SP Jones,207c4398
+info,registry,people,TL Best,db767b89

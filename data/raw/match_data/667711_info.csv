@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,male
+info,season,2014
+info,date,2014/07/09
+info,date,2014/07/10
+info,date,2014/07/11
+info,date,2014/07/12
+info,date,2014/07/13
+info,event,Pataudi Trophy
+info,match_number,1
+info,venue,Trent Bridge
+info,city,Nottingham
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,JM Anderson
+info,umpire,HDPK Dharmasena
+info,umpire,BNJ Oxenford
+info,reserve_umpire,RJ Bailey
+info,tv_umpire,IJ Gould
+info,match_referee,DC Boon
+info,outcome,draw
+info,player,England,AN Cook
+info,player,England,SD Robson
+info,player,England,GS Ballance
+info,player,England,IR Bell
+info,player,England,JE Root
+info,player,England,MM Ali
+info,player,England,MJ Prior
+info,player,England,BA Stokes
+info,player,England,SCJ Broad
+info,player,England,LE Plunkett
+info,player,England,JM Anderson
+info,player,India,M Vijay
+info,player,India,S Dhawan
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,MS Dhoni
+info,player,India,RA Jadeja
+info,player,India,STR Binny
+info,player,India,B Kumar
+info,player,India,I Sharma
+info,player,India,Mohammed Shami
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AN Cook,f41598c1
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,GS Ballance,755a77c6
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,LE Plunkett,9a963804
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SD Robson,76cb1a7f
+info,registry,people,STR Binny,bd17b45f
+info,registry,people,V Kohli,ba607b88

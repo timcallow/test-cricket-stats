@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Afghanistan
+info,gender,male
+info,season,2019
+info,date,2019/09/05
+info,date,2019/09/06
+info,date,2019/09/07
+info,date,2019/09/08
+info,date,2019/09/09
+info,event,Afghanistan tour of Bangladesh
+info,venue,Zahur Ahmed Chowdhury Stadium
+info,city,Chattogram
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,player_of_match,Rashid Khan
+info,umpire,P Wilson
+info,umpire,NJ Llong
+info,reserve_umpire,Sharfuddoula
+info,tv_umpire,Nitin Menon
+info,match_referee,BC Broad
+info,winner,Afghanistan
+info,winner_runs,224
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Ihsanullah
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Asghar Stanikzai
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Afsar Zazai
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Qais Ahmad
+info,player,Afghanistan,Yamin Ahmadzai
+info,player,Afghanistan,Zahir Khan
+info,player,Bangladesh,Shadman Islam
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Mosaddek Hossain
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Nayeem Hasan
+info,registry,people,Afsar Zazai,50930025
+info,registry,people,Asghar Stanikzai,88679525
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Ihsanullah,5aeab54c
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Nayeem Hasan,1670dcfd
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,P Wilson,68304a36
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Shadman Islam,246d11a2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Yamin Ahmadzai,6e4588bc
+info,registry,people,Zahir Khan,786b7fe8

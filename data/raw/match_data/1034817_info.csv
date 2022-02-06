@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,England
+info,gender,male
+info,season,2016/17
+info,date,2016/12/16
+info,date,2016/12/17
+info,date,2016/12/18
+info,date,2016/12/19
+info,date,2016/12/20
+info,event,England in India Test Series
+info,match_number,5
+info,venue,"MA Chidambaram Stadium, Chepauk"
+info,city,Chennai
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,KK Nair
+info,umpire,M Erasmus
+info,umpire,SD Fry
+info,reserve_umpire,Nitin Menon
+info,tv_umpire,BNJ Oxenford
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_innings,1
+info,winner_runs,75
+info,player,England,AN Cook
+info,player,England,KK Jennings
+info,player,England,JE Root
+info,player,England,MM Ali
+info,player,England,JM Bairstow
+info,player,England,BA Stokes
+info,player,England,JC Buttler
+info,player,England,LA Dawson
+info,player,England,AU Rashid
+info,player,England,SCJ Broad
+info,player,England,JT Ball
+info,player,India,KL Rahul
+info,player,India,PA Patel
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,KK Nair
+info,player,India,M Vijay
+info,player,India,R Ashwin
+info,player,India,RA Jadeja
+info,player,India,UT Yadav
+info,player,India,A Mishra
+info,player,India,I Sharma
+info,registry,people,A Mishra,6b19d823
+info,registry,people,AN Cook,f41598c1
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JT Ball,3d0ed2f9
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,KK Nair,944533a5
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88

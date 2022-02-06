@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2008/09
+info,date,2009/03/19
+info,date,2009/03/20
+info,date,2009/03/21
+info,date,2009/03/22
+info,event,Australia in South Africa Test Series
+info,match_number,3
+info,venue,Newlands
+info,city,Cape Town
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,PL Harris
+info,umpire,Asad Rauf
+info,umpire,SA Bucknor
+info,reserve_umpire,M Erasmus
+info,tv_umpire,BF Bowden
+info,match_referee,JJ Crowe
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,20
+info,player,Australia,PJ Hughes
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,BJ Haddin
+info,player,Australia,AB McDonald
+info,player,Australia,MG Johnson
+info,player,Australia,PM Siddle
+info,player,Australia,BE McGain
+info,player,Australia,BW Hilfenhaus
+info,player,South Africa,I Khan
+info,player,South Africa,AG Prince
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,JP Duminy
+info,player,South Africa,MV Boucher
+info,player,South Africa,JA Morkel
+info,player,South Africa,PL Harris
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Ntini
+info,registry,people,AB McDonald,16043342
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BE McGain,6d62117a
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BW Hilfenhaus,f3171936
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,HM Amla,e798611a
+info,registry,people,I Khan,719c5146
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,PJ Hughes,004c9e85
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SA Engelbrecht,81a0e294
+info,registry,people,SM Katich,fdedb37c

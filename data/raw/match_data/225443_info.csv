@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,England
+info,gender,male
+info,season,2005/06
+info,date,2005/11/12
+info,date,2005/11/13
+info,date,2005/11/14
+info,date,2005/11/15
+info,date,2005/11/16
+info,event,England tour of Pakistan
+info,match_number,1
+info,venue,Multan Cricket Stadium
+info,city,Multan
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Salman Butt
+info,umpire,BF Bowden
+info,umpire,SJA Taufel
+info,tv_umpire,Asad Rauf
+info,match_referee,RS Mahanama
+info,winner,Pakistan
+info,winner_runs,22
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Hasan Raza
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Shoaib Akhtar
+info,player,Pakistan,Shabbir Ahmed
+info,player,Pakistan,Danish Kaneria
+info,player,England,ME Trescothick
+info,player,England,AJ Strauss
+info,player,England,IR Bell
+info,player,England,PD Collingwood
+info,player,England,MJ Hoggard
+info,player,England,KP Pietersen
+info,player,England,A Flintoff
+info,player,England,GO Jones
+info,player,England,AF Giles
+info,player,England,SD Udal
+info,player,England,SJ Harmison
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AF Giles,a4af4849
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,GO Jones,2e929b99
+info,registry,people,Hasan Raza,37f3de18
+info,registry,people,IR Bell,33155d1b
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SD Udal,17b641bf
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Shabbir Ahmed,3d189742
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Younis Khan,33cb3411

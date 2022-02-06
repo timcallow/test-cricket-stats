@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,New Zealand
+info,gender,male
+info,season,2019
+info,date,2019/08/22
+info,date,2019/08/23
+info,date,2019/08/24
+info,date,2019/08/25
+info,date,2019/08/26
+info,event,New Zealand in Sri Lanka Test Series
+info,match_number,2
+info,venue,P Sara Oval
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,TWM Latham
+info,umpire,MA Gough
+info,umpire,BNJ Oxenford
+info,reserve_umpire,RR Wimalasiri
+info,tv_umpire,RK Illingworth
+info,match_referee,AJ Pycroft
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,65
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,L Embuldeniya
+info,player,Sri Lanka,CBRLS Kumara
+info,player,New Zealand,JA Raval
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,TG Southee
+info,player,New Zealand,WER Somerville
+info,player,New Zealand,TA Boult
+info,player,New Zealand,AY Patel
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,L Embuldeniya,b54b66b3
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MDK Perera,5531248e
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WER Somerville,74a1c1e3

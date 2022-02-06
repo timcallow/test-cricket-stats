@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Zimbabwe
+info,gender,male
+info,season,2021
+info,date,2021/07/07
+info,date,2021/07/08
+info,date,2021/07/09
+info,date,2021/07/10
+info,date,2021/07/11
+info,event,Bangladesh tour of Zimbabwe
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Mahmudullah
+info,umpire,L Rusere
+info,umpire,M Erasmus
+info,reserve_umpire,F Mutizwa
+info,tv_umpire,I Chabi
+info,match_referee,AJ Pycroft
+info,winner,Bangladesh
+info,winner_runs,220
+info,player,Bangladesh,Saif Hassan
+info,player,Bangladesh,Shadman Islam
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Ebadat Hossain
+info,player,Zimbabwe,M Shumba
+info,player,Zimbabwe,T Kaitano
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,D Myers
+info,player,Zimbabwe,T Maruma
+info,player,Zimbabwe,R Kaia
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,VM Nyauchi
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,R Ngarava
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,D Myers,d96165b5
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,I Chabi,5e39110e
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Shumba,6766ca00
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,R Kaia,e3dd0d8e
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Shadman Islam,246d11a2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,T Kaitano,df7ed601
+info,registry,people,T Maruma,f55c526f
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,VM Nyauchi,1bd16445
+info,registry,people,Yasir Ali Chowdhury,5791b840

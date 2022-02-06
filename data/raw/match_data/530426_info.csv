@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Sri Lanka
+info,gender,male
+info,season,2011/12
+info,date,2011/11/03
+info,date,2011/11/04
+info,date,2011/11/05
+info,date,2011/11/06
+info,date,2011/11/07
+info,event,Pakistan v Sri Lanka Test Series
+info,match_number,3
+info,venue,Sharjah Cricket Stadium
+info,city,
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,KC Sangakkara
+info,umpire,SK Tarapore
+info,umpire,SJA Taufel
+info,reserve_umpire,Zameer Haider
+info,tv_umpire,Shozab Raza
+info,match_referee,DC Boon
+info,outcome,draw
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Adnan Akmal
+info,player,Pakistan,Abdur Rehman
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Saeed Ajmal
+info,player,Pakistan,Junaid Khan
+info,player,Sri Lanka,NT Paranavitana
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,JK Silva
+info,player,Sri Lanka,CKB Kulasekara
+info,player,Sri Lanka,S Randiv
+info,player,Sri Lanka,KTGD Prasad
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,UWMBCA Welegedara
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Abdur Rehman,d094e7d1
+info,registry,people,Adnan Akmal,05da443b
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,CKB Kulasekara,5c5a8c1f
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,JK Silva,52f7299a
+info,registry,people,Junaid Khan,086f5984
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KTGD Prasad,9b79b9de
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,NT Paranavitana,200f2761
+info,registry,people,S Randiv,f5f18a18
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SK Tarapore,62a824b4
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,UWMBCA Welegedara,dd37da14
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Zameer Haider,5537565f

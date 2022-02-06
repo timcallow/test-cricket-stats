@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,South Africa
+info,gender,male
+info,season,2020/21
+info,date,2020/12/26
+info,date,2020/12/27
+info,date,2020/12/28
+info,date,2020/12/29
+info,event,Sri Lanka tour of South Africa
+info,match_number,1
+info,venue,SuperSport Park
+info,city,Centurion
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,F du Plessis
+info,umpire,AT Holdstock
+info,umpire,M Erasmus
+info,reserve_umpire,BP Jele
+info,tv_umpire,A Paleker
+info,match_referee,AJ Pycroft
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,45
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,MVT Fernando
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,CBRLS Kumara
+info,player,South Africa,D Elgar
+info,player,South Africa,AK Markram
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,F du Plessis
+info,player,South Africa,Q de Kock
+info,player,South Africa,T Bavuma
+info,player,South Africa,PWA Mulder
+info,player,South Africa,KA Maharaj
+info,player,South Africa,A Nortje
+info,player,South Africa,L Sipamla
+info,player,South Africa,L Ngidi
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,F du Plessis,3355b542
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MVT Fernando,5eef2118
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,Q de Kock,372455c4
+info,registry,people,T Bavuma,9ffd1ac1

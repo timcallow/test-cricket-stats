@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,West Indies
+info,gender,male
+info,season,2012/13
+info,date,2012/11/21
+info,date,2012/11/22
+info,date,2012/11/23
+info,date,2012/11/24
+info,date,2012/11/25
+info,event,West Indies in Bangladesh Test Series
+info,match_number,2
+info,venue,Sheikh Abu Naser Stadium
+info,city,Khulna
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,MN Samuels
+info,umpire,RK Illingworth
+info,umpire,BNJ Oxenford
+info,reserve_umpire,Masudur Rahman
+info,tv_umpire,Enamul Haque
+info,match_referee,DC Boon
+info,winner,West Indies
+info,winner_wickets,10
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Nazimuddin
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Naeem Islam
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Nasir Hossain
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Sohag Gazi
+info,player,Bangladesh,Abul Hasan
+info,player,Bangladesh,Rubel Hossain
+info,player,West Indies,CH Gayle
+info,player,West Indies,KOA Powell
+info,player,West Indies,DM Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,D Ramdin
+info,player,West Indies,DJG Sammy
+info,player,West Indies,V Permaul
+info,player,West Indies,SP Narine
+info,player,West Indies,FH Edwards
+info,player,West Indies,TL Best
+info,registry,people,Abul Hasan,5c756df3
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,Elias Sunny,817c1746
+info,registry,people,Enamul Haque,2ae9be7f
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Naeem Islam,02e83ac5
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,Nazimuddin,4aef496b
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sohag Gazi,5a4c12ab
+info,registry,people,TL Best,db767b89
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,V Permaul,78dfe704

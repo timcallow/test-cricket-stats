@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2012/13
+info,date,2013/03/14
+info,date,2013/03/15
+info,date,2013/03/16
+info,date,2013/03/17
+info,date,2013/03/18
+info,event,Border-Gavaskar Trophy
+info,match_number,3
+info,venue,"Punjab Cricket Association Stadium, Mohali"
+info,city,Chandigarh
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,S Dhawan
+info,umpire,Aleem Dar
+info,umpire,RA Kettleborough
+info,reserve_umpire,RM Deshpande
+info,tv_umpire,S Asnani
+info,match_referee,RS Madugalle
+info,winner,India
+info,winner_wickets,6
+info,player,Australia,EJM Cowan
+info,player,Australia,DA Warner
+info,player,Australia,MJ Clarke
+info,player,Australia,PJ Hughes
+info,player,Australia,SPD Smith
+info,player,Australia,BJ Haddin
+info,player,Australia,MC Henriques
+info,player,Australia,PM Siddle
+info,player,Australia,MA Starc
+info,player,Australia,NM Lyon
+info,player,Australia,XJ Doherty
+info,player,India,M Vijay
+info,player,India,S Dhawan
+info,player,India,CA Pujara
+info,player,India,SR Tendulkar
+info,player,India,V Kohli
+info,player,India,MS Dhoni
+info,player,India,RA Jadeja
+info,player,India,R Ashwin
+info,player,India,B Kumar
+info,player,India,I Sharma
+info,player,India,PP Ojha
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,EJM Cowan,fee3c48a
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Hughes,004c9e85
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,PP Ojha,6c6591ab
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RM Deshpande,7d2a4250
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Asnani,b04524bc
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,V Kohli,ba607b88
+info,registry,people,XJ Doherty,502b2c81

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Sri Lanka
+info,gender,male
+info,season,2018/19
+info,date,2019/02/13
+info,date,2019/02/14
+info,date,2019/02/15
+info,date,2019/02/16
+info,event,Sri Lanka tour of South Africa
+info,match_number,1
+info,venue,Kingsmead
+info,city,Durban
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,MDKJ Perera
+info,umpire,RA Kettleborough
+info,umpire,Aleem Dar
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,IJ Gould
+info,match_referee,RB Richardson
+info,winner,Sri Lanka
+info,winner_wickets,1
+info,player,South Africa,AK Markram
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,T Bavuma
+info,player,South Africa,F du Plessis
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,DW Steyn
+info,player,South Africa,D Olivier
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,BOP Fernando
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,L Embuldeniya
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,MVT Fernando
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BOP Fernando,1d048deb
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,D Elgar,33085ffb
+info,registry,people,D Olivier,a8e56914
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,HM Amla,e798611a
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Embuldeniya,b54b66b3
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MVT Fernando,5eef2118
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,VD Philander,cfe70281
+info,registry,people,Zubayr Hamza,22feee04

@@ -1,0 +1,76 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,England
+info,gender,male
+info,season,2019/20
+info,date,2019/11/21
+info,date,2019/11/22
+info,date,2019/11/23
+info,date,2019/11/24
+info,date,2019/11/25
+info,event,England in New Zealand Test Series
+info,match_number,1
+info,venue,Bay Oval
+info,city,Mount Maunganui
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,BJ Watling
+info,umpire,BNJ Oxenford
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,CM Brown
+info,tv_umpire,P Wilson
+info,match_referee,J Srinath
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,65
+info,player,England,RJ Burns
+info,player,England,DP Sibley
+info,player,England,JL Denly
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,OJ Pope
+info,player,England,JC Buttler
+info,player,England,SM Curran
+info,player,England,JC Archer
+info,player,England,MJ Leach
+info,player,England,SCJ Broad
+info,player,New Zealand,JA Raval
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Leach,3987e390
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,N Wagner,78adc879
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,P Wilson,68304a36
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee

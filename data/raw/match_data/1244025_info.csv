@@ -1,0 +1,78 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,West Indies
+info,gender,male
+info,season,2020/21
+info,date,2021/02/03
+info,date,2021/02/04
+info,date,2021/02/05
+info,date,2021/02/06
+info,date,2021/02/07
+info,event,West Indies tour of Bangladesh
+info,match_number,1
+info,venue,Zahur Ahmed Chowdhury Stadium
+info,city,Chattogram
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,KR Mayers
+info,umpire,RK Illingworth
+info,umpire,Sharfuddoula
+info,reserve_umpire,Masudur Rahman
+info,tv_umpire,Gazi Sohel
+info,match_referee,Neeyamur Rashid
+info,winner,West Indies
+info,winner_wickets,3
+info,player,Bangladesh,Shadman Islam
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Nayeem Hasan
+info,player,Bangladesh,Mustafizur Rahman
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,JD Campbell
+info,player,West Indies,S Moseley
+info,player,West Indies,NE Bonner
+info,player,West Indies,KR Mayers
+info,player,West Indies,J Blackwood
+info,player,West Indies,J Da Silva
+info,player,West Indies,KAJ Roach
+info,player,West Indies,RRS Cornwall
+info,player,West Indies,JA Warrican
+info,player,West Indies,ST Gabriel
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,JA Warrican,cc23e91e
+info,registry,people,JD Campbell,6fd0c8e1
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KAR Hodge,49dc9cb4
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KR Mayers,73c18486
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,NE Bonner,59ddd811
+info,registry,people,Nayeem Hasan,1670dcfd
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RRS Cornwall,c4d9634c
+info,registry,people,S Moseley,c488b6ac
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Shadman Islam,246d11a2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Yasir Ali Chowdhury,5791b840

@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,New Zealand
+info,gender,male
+info,season,2007/08
+info,date,2007/11/08
+info,date,2007/11/09
+info,date,2007/11/10
+info,date,2007/11/11
+info,event,New Zealand tour of South Africa
+info,match_number,1
+info,venue,The Wanderers Stadium
+info,city,Johannesburg
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,DW Steyn
+info,umpire,MR Benson
+info,umpire,DJ Harper
+info,reserve_umpire,KH Hurter
+info,tv_umpire,M Erasmus
+info,match_referee,J Srinath
+info,winner,South Africa
+info,winner_runs,358
+info,player,South Africa,HH Gibbs
+info,player,South Africa,GC Smith
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,AB de Villiers
+info,player,South Africa,MV Boucher
+info,player,South Africa,PL Harris
+info,player,South Africa,A Nel
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Ntini
+info,player,New Zealand,CD Cumming
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,SB Styris
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,MHW Papps
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,IE O'Brien
+info,player,New Zealand,CS Martin
+info,player,New Zealand,SE Bond
+info,registry,people,A Nel,2503e881
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CD Cumming,463cd7cb
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HM Amla,e798611a
+info,registry,people,IE O'Brien,78f34e15
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,KH Hurter,bda8cca8
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MHW Papps,6c1beb66
+info,registry,people,MR Benson,790e14d3
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SE Bond,4f629497
+info,registry,people,SP Fleming,eea6b7f1

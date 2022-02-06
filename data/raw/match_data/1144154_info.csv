@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Pakistan
+info,gender,male
+info,season,2018/19
+info,date,2019/01/03
+info,date,2019/01/04
+info,date,2019/01/05
+info,date,2019/01/06
+info,event,Pakistan tour of South Africa
+info,match_number,2
+info,venue,Newlands
+info,city,Cape Town
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,F du Plessis
+info,umpire,JS Wilson
+info,umpire,BNJ Oxenford
+info,reserve_umpire,S George
+info,tv_umpire,S Ravi
+info,match_referee,DC Boon
+info,winner,South Africa
+info,winner_wickets,9
+info,player,Pakistan,Imam-ul-Haq
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Sarfraz Ahmed
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Yasir Shah
+info,player,Pakistan,Mohammad Abbas
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,South Africa,AK Markram
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,TB de Bruyn
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,K Rabada
+info,player,South Africa,DW Steyn
+info,player,South Africa,D Olivier
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,D Elgar,33085ffb
+info,registry,people,D Olivier,a8e56914
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,HM Amla,e798611a
+info,registry,people,Imam-ul-Haq,40c041ea
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Q de Kock,372455c4
+info,registry,people,S George,6d9e5a54
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shan Masood,6843a783
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,VD Philander,cfe70281
+info,registry,people,Yasir Shah,f2800ef3
+info,registry,people,Zubayr Hamza,22feee04

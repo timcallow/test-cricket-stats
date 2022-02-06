@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,male
+info,season,2010/11
+info,date,2010/12/03
+info,date,2010/12/04
+info,date,2010/12/05
+info,date,2010/12/06
+info,date,2010/12/07
+info,event,The Ashes
+info,match_number,2
+info,venue,Adelaide Oval
+info,city,
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,KP Pietersen
+info,umpire,M Erasmus
+info,umpire,AL Hill
+info,reserve_umpire,SD Fry
+info,tv_umpire,BR Doctrove
+info,match_referee,JJ Crowe
+info,winner,England
+info,winner_innings,1
+info,winner_runs,71
+info,player,Australia,SR Watson
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ North
+info,player,Australia,BJ Haddin
+info,player,Australia,RJ Harris
+info,player,Australia,XJ Doherty
+info,player,Australia,PM Siddle
+info,player,Australia,DE Bollinger
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,IR Bell
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,JM Anderson
+info,player,England,ST Finn
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AL Hill,4165ced0
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,DE Bollinger,45c2196c
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ North,99464591
+info,registry,people,MJ Prior,1200550f
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RJ Harris,12eddf28
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,XJ Doherty,502b2c81

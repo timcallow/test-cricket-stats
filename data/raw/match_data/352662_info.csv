@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,England
+info,gender,male
+info,season,2008/09
+info,date,2009/02/13
+info,date,2009/02/14
+info,date,2009/02/15
+info,date,2009/02/16
+info,date,2009/02/17
+info,event,The Wisden Trophy
+info,match_number,2
+info,venue,"Sir Vivian Richards Stadium, North Sound"
+info,city,Antigua
+info,toss_winner,West Indies
+info,toss_decision,field
+info,umpire,DJ Harper
+info,umpire,AL Hill
+info,reserve_umpire,NA Malcolm
+info,tv_umpire,RE Koertzen
+info,match_referee,AG Hurst
+info,outcome,draw
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,OA Shah
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,A Flintoff
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,RJ Sidebottom
+info,player,England,MS Panesar
+info,player,England,JM Anderson
+info,player,West Indies,CH Gayle
+info,player,West Indies,DS Smith
+info,player,West Indies,RR Sarwan
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,BP Nash
+info,player,West Indies,RO Hinds
+info,player,West Indies,D Ramdin
+info,player,West Indies,JE Taylor
+info,player,West Indies,SJ Benn
+info,player,West Indies,DBL Powell
+info,player,West Indies,FH Edwards
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AL Hill,4165ced0
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BP Nash,749a1b3a
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DBL Powell,83904270
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DS Smith,85ad2217
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,JE Taylor,4180d897
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MS Panesar,5a37ec26
+info,registry,people,NA Malcolm,9514072e
+info,registry,people,OA Shah,7bf96684
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RJ Sidebottom,9dca07d7
+info,registry,people,RO Hinds,d5afc103
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Benn,364ee2cf

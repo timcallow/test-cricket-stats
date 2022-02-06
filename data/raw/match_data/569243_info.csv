@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,England
+info,gender,male
+info,season,2012/13
+info,date,2013/03/06
+info,date,2013/03/07
+info,date,2013/03/08
+info,date,2013/03/09
+info,date,2013/03/10
+info,event,England in New Zealand Test Series
+info,match_number,1
+info,venue,University Oval
+info,city,Dunedin
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,umpire,Asad Rauf
+info,umpire,PR Reiffel
+info,reserve_umpire,CB Gaffaney
+info,tv_umpire,RJ Tucker
+info,match_referee,RS Mahanama
+info,outcome,draw
+info,player,England,AN Cook
+info,player,England,NRD Compton
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,JE Root
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,ST Finn
+info,player,England,JM Anderson
+info,player,England,MS Panesar
+info,player,New Zealand,PG Fulton
+info,player,New Zealand,HD Rutherford
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,DG Brownlie
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,TG Southee
+info,player,New Zealand,BP Martin
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BP Martin,a02a6cb1
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MS Panesar,5a37ec26
+info,registry,people,N Wagner,78adc879
+info,registry,people,NRD Compton,e5437a99
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e

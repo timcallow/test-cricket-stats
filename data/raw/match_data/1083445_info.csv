@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Bangladesh
+info,gender,male
+info,season,2016/17
+info,date,2017/03/15
+info,date,2017/03/16
+info,date,2017/03/17
+info,date,2017/03/18
+info,date,2017/03/19
+info,event,Bangladesh in Sri Lanka Test Series
+info,match_number,2
+info,venue,P Sara Oval
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,Tamim Iqbal
+info,umpire,Aleem Dar
+info,umpire,S Ravi
+info,reserve_umpire,RSA Palliyaguruge
+info,tv_umpire,M Erasmus
+info,match_referee,AJ Pycroft
+info,winner,Bangladesh
+info,winner_wickets,4
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Sabbir Rahman
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mosaddek Hossain
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Subashis Roy
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,DAS Gunaratne
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,PADLR Sandakan
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DAS Gunaratne,770494eb
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MDK Perera,5531248e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Subashis Roy,a3a078ba
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,WU Tharanga,7ed9fd56

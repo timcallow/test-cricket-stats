@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Bangladesh
+info,gender,male
+info,season,2021
+info,date,2021/04/21
+info,date,2021/04/22
+info,date,2021/04/23
+info,date,2021/04/24
+info,date,2021/04/25
+info,event,Sri Lanka v Bangladesh
+info,match_number,1
+info,venue,Pallekele International Cricket Stadium
+info,city,Pallekele
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,FDM Karunaratne
+info,umpire,HDPK Dharmasena
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,LE Hannibal
+info,tv_umpire,RR Wimalasiri
+info,match_referee,RS Madugalle
+info,outcome,draw
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,BOP Fernando
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,CBRLS Kumara
+info,player,Sri Lanka,MVT Fernando
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Saif Hassan
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Abu Jayed
+info,player,Bangladesh,Ebadat Hossain
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Abu Jayed,1bb0993e
+info,registry,people,BOP Fernando,1d048deb
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MVT Fernando,5eef2118
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Taskin Ahmed,ef18b66e

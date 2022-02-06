@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2015/16
+info,date,2015/12/03
+info,date,2015/12/04
+info,date,2015/12/05
+info,date,2015/12/06
+info,date,2015/12/07
+info,event,Freedom Trophy
+info,match_number,4
+info,venue,Feroz Shah Kotla
+info,city,Delhi
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,AM Rahane
+info,umpire,HDPK Dharmasena
+info,umpire,BNJ Oxenford
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,CK Nandan
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_runs,337
+info,player,India,M Vijay
+info,player,India,S Dhawan
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RG Sharma
+info,player,India,WP Saha
+info,player,India,RA Jadeja
+info,player,India,R Ashwin
+info,player,India,UT Yadav
+info,player,India,I Sharma
+info,player,South Africa,D Elgar
+info,player,South Africa,T Bavuma
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,F du Plessis
+info,player,South Africa,JP Duminy
+info,player,South Africa,DJ Vilas
+info,player,South Africa,KJ Abbott
+info,player,South Africa,DL Piedt
+info,player,South Africa,M Morkel
+info,player,South Africa,Imran Tahir
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CK Nandan,012de9c4
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HM Amla,e798611a
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Vijay,4b57e452
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,S Dhawan,0a476045
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

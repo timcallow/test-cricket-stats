@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Pakistan
+info,gender,male
+info,season,2004/05
+info,date,2004/12/16
+info,date,2004/12/17
+info,date,2004/12/18
+info,date,2004/12/19
+info,event,Pakistan tour of Australia
+info,match_number,1
+info,venue,W.A.C.A. Ground
+info,city,Perth
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,JL Langer
+info,umpire,BF Bowden
+info,umpire,RE Koertzen
+info,tv_umpire,SJ Davis
+info,match_referee,RS Madugalle
+info,winner,Australia
+info,winner_runs,491
+info,player,Australia,JL Langer
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,DS Lehmann
+info,player,Australia,MJ Clarke
+info,player,Australia,AC Gilchrist
+info,player,Australia,SK Warne
+info,player,Australia,JN Gillespie
+info,player,Australia,MS Kasprowicz
+info,player,Australia,GD McGrath
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Mohammad Khalil
+info,player,Pakistan,Shoaib Akhtar
+info,player,Pakistan,Danish Kaneria
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,DR Martyn,69762509
+info,registry,people,DS Lehmann,53fe6ee4
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,JL Langer,94198ef4
+info,registry,people,JN Gillespie,74234d66
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MS Kasprowicz,8d0ea930
+info,registry,people,Mohammad Khalil,a5c5a126
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SK Warne,bb18be76
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,Younis Khan,33cb3411

@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,male
+info,season,2005
+info,date,2005/04/21
+info,date,2005/04/22
+info,date,2005/04/23
+info,date,2005/04/24
+info,event,South Africa tour of West Indies
+info,match_number,3
+info,venue,Kensington Oval
+info,city,Bridgetown
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,A Nel
+info,umpire,BF Bowden
+info,umpire,SJA Taufel
+info,tv_umpire,BR Doctrove
+info,match_referee,JJ Crowe
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,86
+info,player,West Indies,CH Gayle
+info,player,West Indies,WW Hinds
+info,player,West Indies,RR Sarwan
+info,player,West Indies,BC Lara
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,RO Hinds
+info,player,West Indies,DJ Bravo
+info,player,West Indies,CO Browne
+info,player,West Indies,DBL Powell
+info,player,West Indies,FH Edwards
+info,player,West Indies,Reon King
+info,player,South Africa,GC Smith
+info,player,South Africa,AB de Villiers
+info,player,South Africa,HH Dippenaar
+info,player,South Africa,JH Kallis
+info,player,South Africa,HH Gibbs
+info,player,South Africa,AG Prince
+info,player,South Africa,MV Boucher
+info,player,South Africa,N Boje
+info,player,South Africa,M Zondeki
+info,player,South Africa,M Ntini
+info,player,South Africa,A Nel
+info,registry,people,A Nel,2503e881
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,BC Lara,d5403021
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CO Browne,a1d8d8ba
+info,registry,people,DBL Powell,83904270
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DR Smith,35205dfc
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,M Ntini,20a941bb
+info,registry,people,M Zondeki,9b75e4f1
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,N Boje,6a0537aa
+info,registry,people,RO Hinds,d5afc103
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,WW Hinds,60beb01b

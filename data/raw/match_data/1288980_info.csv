@@ -1,0 +1,73 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Bangladesh
+info,gender,male
+info,season,2021/22
+info,date,2022/01/09
+info,date,2022/01/10
+info,date,2022/01/11
+info,event,Bangladesh tour of New Zealand
+info,match_number,2
+info,venue,"Hagley Oval, Christchurch"
+info,city,Christchurch
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,TWM Latham
+info,umpire,CB Gaffaney
+info,umpire,WR Knights
+info,reserve_umpire,SB Haig
+info,tv_umpire,CM Brown
+info,match_referee,JJ Crowe
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,117
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,WA Young
+info,player,New Zealand,DP Conway
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,KA Jamieson
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,player,Bangladesh,Shadman Islam
+info,player,Bangladesh,Mohammad Naim
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Yasir Ali Chowdhury
+info,player,Bangladesh,Nurul Hasan
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Ebadat Hossain
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,N Wagner,78adc879
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,SB Haig,811655b3
+info,registry,people,Shadman Islam,246d11a2
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,Yasir Ali Chowdhury,5791b840

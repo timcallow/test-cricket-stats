@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Australia
+info,gender,male
+info,season,2011/12
+info,date,2012/04/15
+info,date,2012/04/16
+info,date,2012/04/17
+info,date,2012/04/18
+info,date,2012/04/19
+info,event,The Frank Worrell Trophy
+info,match_number,2
+info,venue,"Queen's Park Oval, Port of Spain"
+info,city,Trinidad
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,KAJ Roach
+info,umpire,M Erasmus
+info,umpire,IJ Gould
+info,reserve_umpire,JS Wilson
+info,tv_umpire,AL Hill
+info,match_referee,JJ Crowe
+info,outcome,draw
+info,player,Australia,DA Warner
+info,player,Australia,EJM Cowan
+info,player,Australia,SR Watson
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,MEK Hussey
+info,player,Australia,MS Wade
+info,player,Australia,JL Pattinson
+info,player,Australia,BW Hilfenhaus
+info,player,Australia,NM Lyon
+info,player,Australia,MA Beer
+info,player,West Indies,AB Barath
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,KOA Powell
+info,player,West Indies,DM Bravo
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,N Deonarine
+info,player,West Indies,CS Baugh
+info,player,West Indies,DJG Sammy
+info,player,West Indies,S Shillingford
+info,player,West Indies,KAJ Roach
+info,player,West Indies,FH Edwards
+info,registry,people,AB Barath,d3a3e82d
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BW Hilfenhaus,f3171936
+info,registry,people,CS Baugh,151e8077
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,EJM Cowan,fee3c48a
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JL Pattinson,f752db61
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MA Beer,f60dc2a5
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MS Wade,afa7e784
+info,registry,people,N Deonarine,caf1b14c
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Shillingford,d76b0d2d
+info,registry,people,SR Watson,4329fbb5

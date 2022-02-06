@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,West Indies
+info,gender,male
+info,season,2017/18
+info,date,2017/10/29
+info,date,2017/10/30
+info,date,2017/10/31
+info,date,2017/11/01
+info,date,2017/11/02
+info,event,West Indies tour of Zimbabwe
+info,match_number,2
+info,venue,Queens Sports Club
+info,city,Bulawayo
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,Sikandar Raza
+info,umpire,HDPK Dharmasena
+info,umpire,SD Fry
+info,reserve_umpire,TJ Matibiri
+info,tv_umpire,PR Reiffel
+info,match_referee,J Srinath
+info,outcome,draw
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,SF Mire
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,PJ Moor
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,MN Waller
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,CB Mpofu
+info,player,Zimbabwe,TS Chisoro
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,KOA Powell
+info,player,West Indies,D Bishoo
+info,player,West Indies,KA Hope
+info,player,West Indies,SD Hope
+info,player,West Indies,RL Chase
+info,player,West Indies,J Blackwood
+info,player,West Indies,SO Dowrich
+info,player,West Indies,JO Holder
+info,player,West Indies,KAJ Roach
+info,player,West Indies,ST Gabriel
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CB Mpofu,49691d7a
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Hope,c59d8f8a
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,MN Waller,ec4dada1
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SF Mire,3300d23c
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TJ Matibiri,4a3132b1
+info,registry,people,TS Chisoro,4b2d6789

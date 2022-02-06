@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,England
+info,gender,male
+info,season,2019/20
+info,date,2019/11/29
+info,date,2019/11/30
+info,date,2019/12/01
+info,date,2019/12/02
+info,date,2019/12/03
+info,event,England in New Zealand Test Series
+info,match_number,2
+info,venue,Seddon Park
+info,city,Hamilton
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,JE Root
+info,umpire,P Wilson
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,WR Knights
+info,tv_umpire,BNJ Oxenford
+info,match_referee,J Srinath
+info,outcome,draw
+info,player,New Zealand,JA Raval
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,TG Southee
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,N Wagner
+info,player,England,RJ Burns
+info,player,England,DP Sibley
+info,player,England,JL Denly
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,Z Crawley
+info,player,England,OJ Pope
+info,player,England,SM Curran
+info,player,England,CR Woakes
+info,player,England,JC Archer
+info,player,England,SCJ Broad
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JC Archer,5574750c
+info,registry,people,JE Root,a343262c
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,N Wagner,78adc879
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,P Wilson,68304a36
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,Z Crawley,922e1b19

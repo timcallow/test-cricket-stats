@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Sri Lanka
+info,gender,male
+info,season,2011
+info,date,2011/06/03
+info,date,2011/06/04
+info,date,2011/06/05
+info,date,2011/06/06
+info,date,2011/06/07
+info,event,Sri Lanka in England Test Series
+info,match_number,2
+info,venue,Lord's
+info,city,London
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,TM Dilshan
+info,umpire,BR Doctrove
+info,umpire,RJ Tucker
+info,reserve_umpire,RK Illingworth
+info,tv_umpire,Aleem Dar
+info,match_referee,J Srinath
+info,outcome,draw
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,EJG Morgan
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,CT Tremlett
+info,player,England,ST Finn
+info,player,Sri Lanka,NT Paranavitana
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,MF Maharoof
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,CRD Fernando
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,UWMBCA Welegedara
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,CT Tremlett,a72b14ff
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,MF Maharoof,ab89348d
+info,registry,people,MJ Prior,1200550f
+info,registry,people,NT Paranavitana,200f2761
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,UWMBCA Welegedara,dd37da14

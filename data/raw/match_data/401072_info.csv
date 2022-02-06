@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Bangladesh
+info,gender,male
+info,season,2009
+info,date,2009/07/17
+info,date,2009/07/18
+info,date,2009/07/19
+info,date,2009/07/20
+info,event,Bangladesh in West Indies Test Series
+info,match_number,2
+info,venue,"National Cricket Stadium, St George's"
+info,city,Grenada
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,Shakib Al Hasan
+info,umpire,EAR de Silva
+info,umpire,AL Hill
+info,reserve_umpire,CR Duncan
+info,tv_umpire,NA Malcolm
+info,match_referee,AJ Pycroft
+info,winner,Bangladesh
+info,winner_wickets,4
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Enamul Haque jnr
+info,player,Bangladesh,Junaid Siddique
+info,player,Bangladesh,Raqibul Hasan
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Rubel Hossain
+info,player,West Indies,DM Richards
+info,player,West Indies,OJ Phillips
+info,player,West Indies,TM Dowlin
+info,player,West Indies,RO Hinds
+info,player,West Indies,FL Reifer
+info,player,West Indies,DE Bernard
+info,player,West Indies,DJG Sammy
+info,player,West Indies,CAK Walton
+info,player,West Indies,RA Austin
+info,player,West Indies,TL Best
+info,player,West Indies,KAJ Roach
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AL Hill,4165ced0
+info,registry,people,CAK Walton,bbff906c
+info,registry,people,CR Duncan,d993c121
+info,registry,people,DE Bernard,e0557f7f
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Richards,9d0e7c58
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,Enamul Haque jnr,0480aba6
+info,registry,people,FL Reifer,17fbaab5
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Junaid Siddique,62e203d4
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NA Malcolm,9514072e
+info,registry,people,OJ Phillips,5ace5848
+info,registry,people,RA Austin,578bb280
+info,registry,people,RO Hinds,d5afc103
+info,registry,people,Raqibul Hasan,17efdeb8
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,TL Best,db767b89
+info,registry,people,TM Dowlin,24ecc358
+info,registry,people,Tamim Iqbal,3b041a12

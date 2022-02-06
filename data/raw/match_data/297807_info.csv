@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Pakistan
+info,gender,male
+info,season,2007/08
+info,date,2007/11/30
+info,date,2007/12/01
+info,date,2007/12/02
+info,date,2007/12/03
+info,date,2007/12/04
+info,event,Pakistan tour of India
+info,match_number,2
+info,venue,Eden Gardens
+info,city,Kolkata
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,W Jaffer
+info,umpire,RE Koertzen
+info,umpire,BR Doctrove
+info,tv_umpire,AM Saheba
+info,match_referee,RS Madugalle
+info,outcome,draw
+info,player,India,W Jaffer
+info,player,India,KD Karthik
+info,player,India,MS Dhoni
+info,player,India,SC Ganguly
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,VVS Laxman
+info,player,India,A Kumble
+info,player,India,Harbhajan Singh
+info,player,India,Z Khan
+info,player,India,MM Patel
+info,player,Pakistan,Yasir Hameed
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Shoaib Akhtar
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Sohail Tanvir
+info,player,Pakistan,Danish Kaneria
+info,registry,people,A Kumble,0c2730df
+info,registry,people,AM Saheba,883e3818
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,MM Patel,f0f628c7
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,Sohail Tanvir,64d43928
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,W Jaffer,619aa81f
+info,registry,people,Yasir Hameed,f144d99b
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Z Khan,91a4a398

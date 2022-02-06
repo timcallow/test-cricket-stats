@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Sri Lanka
+info,gender,male
+info,season,2014/15
+info,date,2014/12/26
+info,date,2014/12/27
+info,date,2014/12/28
+info,date,2014/12/29
+info,event,Sri Lanka in New Zealand Test Series
+info,match_number,1
+info,venue,Hagley Oval
+info,city,Christchurch
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,BB McCullum
+info,umpire,RK Illingworth
+info,umpire,BNJ Oxenford
+info,reserve_umpire,DJ Walker
+info,tv_umpire,SJ Davis
+info,match_referee,BC Broad
+info,winner,New Zealand
+info,winner_wickets,8
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,HD Rutherford
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,MD Craig
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,JK Silva
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,KTGD Prasad
+info,player,Sri Lanka,PHT Kaushal
+info,player,Sri Lanka,RMS Eranga
+info,player,Sri Lanka,RAS Lakmal
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JK Silva,52f7299a
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,KTGD Prasad,9b79b9de
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MD Craig,c8574282
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,N Wagner,78adc879
+info,registry,people,PHT Kaushal,ef6aea67
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RMS Eranga,8f7a598f
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee

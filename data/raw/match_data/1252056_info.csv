@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Zimbabwe
+info,gender,male
+info,season,2020/21
+info,date,2021/03/02
+info,date,2021/03/03
+info,event,Zimbabwe tour of United Arab Emirates
+info,match_number,1
+info,venue,Sheikh Zayed Stadium
+info,city,Abu Dhabi
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,player_of_match,SC Williams
+info,umpire,Ahmed Shah Pakteen
+info,umpire,Aleem Dar
+info,reserve_umpire,Shiju Sam
+info,tv_umpire,Ahmed Shah Durrani
+info,match_referee,RS Madugalle
+info,winner,Zimbabwe
+info,winner_wickets,10
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Abdul Malik
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Munir Ahmad
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Afsar Zazai
+info,player,Afghanistan,Asghar Stanikzai
+info,player,Afghanistan,Abdul Wasi
+info,player,Afghanistan,Amir Hamza
+info,player,Afghanistan,Yamin Ahmadzai
+info,player,Afghanistan,Zahir Khan
+info,player,Zimbabwe,PS Masvaure
+info,player,Zimbabwe,KT Kasuza
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,TK Musakanda
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,VM Nyauchi
+info,registry,people,Abdul Malik,b3218c80
+info,registry,people,Abdul Wasi,be7d715b
+info,registry,people,Afsar Zazai,50930025
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Amir Hamza,dca1ac2e
+info,registry,people,Asghar Stanikzai,88679525
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,KT Kasuza,8f93efd3
+info,registry,people,Munir Ahmad,ec02c853
+info,registry,people,PS Masvaure,c4d740b3
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TK Musakanda,9f9b903e
+info,registry,people,VM Nyauchi,1bd16445
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,Yamin Ahmadzai,6e4588bc
+info,registry,people,Zahir Khan,786b7fe8

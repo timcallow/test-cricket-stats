@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,South Africa
+info,gender,male
+info,season,2018
+info,date,2018/07/12
+info,date,2018/07/13
+info,date,2018/07/14
+info,event,South Africa tour of Sri Lanka
+info,match_number,1
+info,venue,Galle International Stadium
+info,city,
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,FDM Karunaratne
+info,umpire,RJ Tucker
+info,umpire,PR Reiffel
+info,reserve_umpire,REJ Martinesz
+info,tv_umpire,NJ Llong
+info,match_referee,RB Richardson
+info,winner,Sri Lanka
+info,winner_runs,278
+info,player,Sri Lanka,MD Gunathilaka
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,ARS Silva
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,PADLR Sandakan
+info,player,South Africa,AK Markram
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,T Bavuma
+info,player,South Africa,F du Plessis
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,DW Steyn
+info,player,South Africa,T Shamsi
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AK Markram,6a26221c
+info,registry,people,ARS Silva,198798b2
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HM Amla,e798611a
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,MD Gunathilaka,509a7ca1
+info,registry,people,MDK Perera,5531248e
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,VD Philander,cfe70281

@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,West Indies
+info,gender,male
+info,season,2021
+info,date,2021/08/20
+info,date,2021/08/21
+info,date,2021/08/22
+info,date,2021/08/23
+info,date,2021/08/24
+info,event,Pakistan tour of West Indies
+info,match_number,2
+info,venue,"Sabina Park, Kingston, Jamaica"
+info,city,Kingston
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,Shaheen Shah Afridi
+info,umpire,GO Brathwaite
+info,umpire,JS Wilson
+info,reserve_umpire,LS Reifer
+info,tv_umpire,N Duguid
+info,match_referee,RB Richardson
+info,winner,Pakistan
+info,winner_runs,109
+info,players,Pakistan,Abid Ali
+info,players,Pakistan,Imran Butt (2)
+info,players,Pakistan,Azhar Ali
+info,players,Pakistan,Babar Azam
+info,players,Pakistan,Fawad Alam
+info,players,Pakistan,Mohammad Rizwan
+info,players,Pakistan,Faheem Ashraf
+info,players,Pakistan,Nauman Ali
+info,players,Pakistan,Hasan Ali
+info,players,Pakistan,Shaheen Shah Afridi
+info,players,Pakistan,Mohammad Abbas
+info,players,West Indies,KC Brathwaite
+info,players,West Indies,KOA Powell
+info,players,West Indies,NE Bonner
+info,players,West Indies,RL Chase
+info,players,West Indies,AS Joseph
+info,players,West Indies,J Blackwood
+info,players,West Indies,KR Mayers
+info,players,West Indies,JO Holder
+info,players,West Indies,J Da Silva
+info,players,West Indies,KAJ Roach
+info,players,West Indies,JNT Seales
+info,registry,people,AS Joseph,b0946605
+info,registry,people,Abid Ali,5d836a72
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fawad Alam,61f05b05
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Imran Butt,72683b68
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,JNT Seales,ded9ff1e
+info,registry,people,JO Holder,0f721006
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,KR Mayers,73c18486
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,N Duguid,64495506
+info,registry,people,NE Bonner,59ddd811
+info,registry,people,Nauman Ali,54c58a5e
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,Shaheen Shah Afridi,45a7e761

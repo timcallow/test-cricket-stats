@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,South Africa
+info,gender,male
+info,season,2004/05
+info,date,2005/03/11
+info,date,2005/03/12
+info,date,2005/03/13
+info,event,Zimbabwe tour of South Africa
+info,match_number,2
+info,venue,SuperSport Park
+info,city,Centurion
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,M Zondeki
+info,umpire,BR Doctrove
+info,umpire,DJ Harper
+info,tv_umpire,IL Howell
+info,match_referee,AG Hurst
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,62
+info,player,Zimbabwe,S Matsikenyeri
+info,player,Zimbabwe,BG Rogers
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,E Chigumbura
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,CB Mpofu
+info,player,South Africa,AB de Villiers
+info,player,South Africa,GC Smith
+info,player,South Africa,JA Rudolph
+info,player,South Africa,HH Gibbs
+info,player,South Africa,AG Prince
+info,player,South Africa,MV Boucher
+info,player,South Africa,JH Kallis
+info,player,South Africa,N Boje
+info,player,South Africa,M Zondeki
+info,player,South Africa,A Nel
+info,player,South Africa,CK Langeveldt
+info,registry,people,A Nel,2503e881
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AG Prince,035cb925
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,BG Rogers,f17971df
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CB Mpofu,49691d7a
+info,registry,people,CK Langeveldt,d1c94b25
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,E Chigumbura,d2babdd5
+info,registry,people,GC Smith,72861603
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HH Streak,37f501d7
+info,registry,people,IL Howell,c1cd91c3
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,M Zondeki,9b75e4f1
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,N Boje,6a0537aa
+info,registry,people,S Matsikenyeri,e7ba1233
+info,registry,people,T Taibu,75de770f

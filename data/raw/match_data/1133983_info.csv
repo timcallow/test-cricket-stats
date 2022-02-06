@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Afghanistan
+info,gender,male
+info,season,2018
+info,date,2018/06/14
+info,date,2018/06/15
+info,event,Afghanistan tour of India
+info,venue,M.Chinnaswamy Stadium
+info,city,Bengaluru
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,S Dhawan
+info,umpire,CB Gaffaney
+info,umpire,PR Reiffel
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,RJ Tucker
+info,match_referee,AJ Pycroft
+info,winner,India
+info,winner_innings,1
+info,winner_runs,262
+info,player,India,M Vijay
+info,player,India,S Dhawan
+info,player,India,KL Rahul
+info,player,India,CA Pujara
+info,player,India,AM Rahane
+info,player,India,KD Karthik
+info,player,India,HH Pandya
+info,player,India,R Ashwin
+info,player,India,RA Jadeja
+info,player,India,I Sharma
+info,player,India,UT Yadav
+info,player,Afghanistan,Mohammad Shahzad
+info,player,Afghanistan,Javed Ahmadi
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Asghar Stanikzai
+info,player,Afghanistan,Afsar Zazai
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Yamin Ahmadzai
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Afghanistan,Wafadar Momand
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AM Rahane,29e95537
+info,registry,people,Afsar Zazai,50930025
+info,registry,people,Asghar Stanikzai,88679525
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,Javed Ahmadi,0087a35d
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Vijay,4b57e452
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mohammad Shahzad,d6dcb0c9
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Dhawan,0a476045
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,Wafadar Momand,6b68d7b3
+info,registry,people,Yamin Ahmadzai,6e4588bc

@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2015/16
+info,date,2015/11/25
+info,date,2015/11/26
+info,date,2015/11/27
+info,event,Freedom Trophy
+info,match_number,3
+info,venue,"Vidarbha Cricket Association Stadium, Jamtha"
+info,city,Nagpur
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,R Ashwin
+info,umpire,IJ Gould
+info,umpire,BNJ Oxenford
+info,reserve_umpire,C Shamshuddin
+info,tv_umpire,AK Chaudhary
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_runs,124
+info,player,India,M Vijay
+info,player,India,S Dhawan
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RG Sharma
+info,player,India,WP Saha
+info,player,India,RA Jadeja
+info,player,India,R Ashwin
+info,player,India,A Mishra
+info,player,India,I Sharma
+info,player,South Africa,D Elgar
+info,player,South Africa,S van Zyl
+info,player,South Africa,Imran Tahir
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,F du Plessis
+info,player,South Africa,JP Duminy
+info,player,South Africa,DJ Vilas
+info,player,South Africa,SR Harmer
+info,player,South Africa,K Rabada
+info,player,South Africa,M Morkel
+info,registry,people,A Mishra,6b19d823
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C Shamshuddin,0f9d921b
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HM Amla,e798611a
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Vijay,4b57e452
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,S Dhawan,0a476045
+info,registry,people,S van Zyl,f4dfcbb4
+info,registry,people,SR Harmer,23638956
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,India
+info,gender,male
+info,season,2019/20
+info,date,2020/02/29
+info,date,2020/03/01
+info,date,2020/03/02
+info,event,India in New Zealand Test Series
+info,match_number,2
+info,venue,Hagley Oval
+info,city,Christchurch
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,KA Jamieson
+info,umpire,RA Kettleborough
+info,umpire,MA Gough
+info,reserve_umpire,SB Haig
+info,tv_umpire,Aleem Dar
+info,match_referee,RS Madugalle
+info,winner,New Zealand
+info,winner_wickets,7
+info,player,India,PP Shaw
+info,player,India,MA Agarwal
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,GH Vihari
+info,player,India,RR Pant
+info,player,India,RA Jadeja
+info,player,India,UT Yadav
+info,player,India,Mohammed Shami
+info,player,India,JJ Bumrah
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,TG Southee
+info,player,New Zealand,KA Jamieson
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,registry,people,AM Rahane,29e95537
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ Watling,928670cc
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,GH Vihari,94253925
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Wagner,78adc879
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RR Pant,919a3be2
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SB Haig,811655b3
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88

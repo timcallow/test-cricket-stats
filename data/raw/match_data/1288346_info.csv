@@ -1,0 +1,75 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,West Indies
+info,gender,male
+info,season,2021/22
+info,date,2021/11/29
+info,date,2021/11/30
+info,date,2021/12/01
+info,date,2021/12/02
+info,date,2021/12/03
+info,event,West Indies tour of Sri Lanka
+info,match_number,2
+info,venue,Galle International Stadium
+info,city,Galle
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,DM de Silva
+info,umpire,HDPK Dharmasena
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,RMPJ Rambukwella
+info,tv_umpire,LE Hannibal
+info,match_referee,RS Madugalle
+info,winner,Sri Lanka
+info,winner_runs,164
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BOP Fernando
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,RTM Mendis
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,L Embuldeniya
+info,player,Sri Lanka,P Jayawickrama
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,J Blackwood
+info,player,West Indies,NE Bonner
+info,player,West Indies,SD Hope
+info,player,West Indies,RL Chase
+info,player,West Indies,KR Mayers
+info,player,West Indies,JO Holder
+info,player,West Indies,J Da Silva
+info,player,West Indies,KAJ Roach
+info,player,West Indies,V Permaul
+info,player,West Indies,JA Warrican
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,BOP Fernando,1d048deb
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,JA Warrican,cc23e91e
+info,registry,people,JO Holder,0f721006
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KR Mayers,73c18486
+info,registry,people,L Embuldeniya,b54b66b3
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,NE Bonner,59ddd811
+info,registry,people,P Jayawickrama,b7d1eadd
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,RTM Mendis,1be67d37
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,V Permaul,78dfe704

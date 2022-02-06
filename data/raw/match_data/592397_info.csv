@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,male
+info,season,2013/14
+info,date,2013/11/21
+info,date,2013/11/22
+info,date,2013/11/23
+info,date,2013/11/24
+info,event,The Ashes
+info,match_number,1
+info,venue,"Brisbane Cricket Ground, Woolloongabba"
+info,city,Brisbane
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,MG Johnson
+info,umpire,Aleem Dar
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,P Wilson
+info,tv_umpire,M Erasmus
+info,match_referee,JJ Crowe
+info,winner,Australia
+info,winner_runs,381
+info,player,Australia,CJL Rogers
+info,player,Australia,DA Warner
+info,player,Australia,SR Watson
+info,player,Australia,MJ Clarke
+info,player,Australia,SPD Smith
+info,player,Australia,GJ Bailey
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,PM Siddle
+info,player,Australia,RJ Harris
+info,player,Australia,NM Lyon
+info,player,England,AN Cook
+info,player,England,MA Carberry
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,JE Root
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,CT Tremlett
+info,player,England,JM Anderson
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,CJL Rogers,d8360178
+info,registry,people,CJM Sabburg,9fc73711
+info,registry,people,CT Tremlett,a72b14ff
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GJ Bailey,5056011d
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MA Carberry,8305580c
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Prior,1200550f
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,P Wilson,68304a36
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RJ Harris,12eddf28
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Watson,4329fbb5

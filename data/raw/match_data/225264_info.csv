@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Sri Lanka
+info,gender,male
+info,season,2006
+info,date,2006/05/11
+info,date,2006/05/12
+info,date,2006/05/13
+info,date,2006/05/14
+info,date,2006/05/15
+info,event,Sri Lanka tour of England
+info,match_number,1
+info,venue,Lord's
+info,city,London
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,DPMD Jayawardene
+info,umpire,Aleem Dar
+info,umpire,RE Koertzen
+info,tv_umpire,NJ Llong
+info,match_referee,AG Hurst
+info,outcome,draw
+info,player,England,ME Trescothick
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,KP Pietersen
+info,player,England,MJ Hoggard
+info,player,England,PD Collingwood
+info,player,England,A Flintoff
+info,player,England,GO Jones
+info,player,England,LE Plunkett
+info,player,England,MS Panesar
+info,player,England,SI Mahmood
+info,player,Sri Lanka,J Mubarak
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,MF Maharoof
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,CK Kapugedera
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,M Muralitharan
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,CK Kapugedera,cfad138c
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,GO Jones,2e929b99
+info,registry,people,J Mubarak,a9520ac2
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,LE Plunkett,9a963804
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MF Maharoof,ab89348d
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,MS Panesar,5a37ec26
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,SI Mahmood,e97aefe2
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,WPUJC Vaas,bcce309e
+info,registry,people,WU Tharanga,7ed9fd56

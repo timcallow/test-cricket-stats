@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,male
+info,season,2014
+info,date,2014/07/27
+info,date,2014/07/28
+info,date,2014/07/29
+info,date,2014/07/30
+info,date,2014/07/31
+info,event,Pataudi Trophy
+info,match_number,3
+info,venue,The Rose Bowl
+info,city,Southampton
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,JM Anderson
+info,umpire,M Erasmus
+info,umpire,RJ Tucker
+info,reserve_umpire,RT Robinson
+info,tv_umpire,RJ Bailey
+info,match_referee,DC Boon
+info,winner,England
+info,winner_runs,266
+info,player,England,AN Cook
+info,player,England,SD Robson
+info,player,England,GS Ballance
+info,player,England,IR Bell
+info,player,England,JE Root
+info,player,England,MM Ali
+info,player,England,JC Buttler
+info,player,England,CR Woakes
+info,player,England,CJ Jordan
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,India,M Vijay
+info,player,India,S Dhawan
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RG Sharma
+info,player,India,MS Dhoni
+info,player,India,RA Jadeja
+info,player,India,B Kumar
+info,player,India,Mohammed Shami
+info,player,India,Pankaj Singh
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AN Cook,f41598c1
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,GS Ballance,755a77c6
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Pankaj Singh,e32d22f6
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RT Robinson,b143c87d
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SD Robson,76cb1a7f
+info,registry,people,SP Terry,7f87204d
+info,registry,people,V Kohli,ba607b88

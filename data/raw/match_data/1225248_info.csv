@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,male
+info,season,2020
+info,date,2020/07/16
+info,date,2020/07/17
+info,date,2020/07/18
+info,date,2020/07/19
+info,date,2020/07/20
+info,event,West Indies tour of England
+info,match_number,2
+info,venue,Old Trafford
+info,city,Manchester
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,BA Stokes
+info,umpire,MA Gough
+info,umpire,RK Illingworth
+info,reserve_umpire,AG Wharf
+info,tv_umpire,RA Kettleborough
+info,match_referee,BC Broad
+info,winner,England
+info,winner_runs,113
+info,player,England,BA Stokes
+info,player,England,JC Buttler
+info,player,England,Z Crawley
+info,player,England,JE Root
+info,player,England,OJ Pope
+info,player,England,RJ Burns
+info,player,England,DP Sibley
+info,player,England,SM Curran
+info,player,England,DM Bess
+info,player,England,CR Woakes
+info,player,England,SCJ Broad
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,JD Campbell
+info,player,West Indies,SD Hope
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,RL Chase
+info,player,West Indies,J Blackwood
+info,player,West Indies,SO Dowrich
+info,player,West Indies,JO Holder
+info,player,West Indies,KAJ Roach
+info,player,West Indies,AS Joseph
+info,player,West Indies,ST Gabriel
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DM Bess,ad46c747
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JD Campbell,6fd0c8e1
+info,registry,people,JE Root,a343262c
+info,registry,people,JO Holder,0f721006
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,MA Gough,76752ac8
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,Z Crawley,922e1b19

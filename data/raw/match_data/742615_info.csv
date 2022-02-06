@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Pakistan
+info,gender,male
+info,season,2014/15
+info,date,2014/11/26
+info,date,2014/11/27
+info,date,2014/11/28
+info,date,2014/11/29
+info,date,2014/11/30
+info,event,Pakistan v New Zealand Test Series
+info,match_number,3
+info,venue,Sharjah Cricket Stadium
+info,city,
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,MD Craig
+info,umpire,PR Reiffel
+info,umpire,RJ Tucker
+info,reserve_umpire,Shozab Raza
+info,tv_umpire,REJ Martinesz
+info,match_referee,AJ Pycroft
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,80
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,CJ Anderson
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,MD Craig
+info,player,New Zealand,TG Southee
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,TA Boult
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Sarfraz Ahmed
+info,player,Pakistan,Yasir Shah
+info,player,Pakistan,Mohammad Talha
+info,player,Pakistan,Rahat Ali
+info,player,Pakistan,Zulfiqar Babar
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MD Craig,c8574282
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Talha,0ec9e2c4
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Rahat Ali,a63775d6
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,Yasir Shah,f2800ef3
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Zulfiqar Babar,3a0f6df2

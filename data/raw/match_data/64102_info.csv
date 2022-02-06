@@ -1,0 +1,70 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2004/05
+info,date,2004/11/03
+info,date,2004/11/04
+info,date,2004/11/05
+info,event,Australia tour of India
+info,match_number,4
+info,venue,Wankhede Stadium
+info,city,Mumbai
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,M Kartik
+info,umpire,Aleem Dar
+info,umpire,RE Koertzen
+info,tv_umpire,K Hariharan
+info,match_referee,RS Madugalle
+info,winner,India
+info,winner_runs,13
+info,player,India,G Gambhir
+info,player,India,V Sehwag
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,VVS Laxman
+info,player,India,M Kaif
+info,player,India,KD Karthik
+info,player,India,A Kumble
+info,player,India,Harbhajan Singh
+info,player,India,M Kartik
+info,player,India,Z Khan
+info,player,Australia,JL Langer
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,SM Katich
+info,player,Australia,MJ Clarke
+info,player,Australia,AC Gilchrist
+info,player,Australia,JN Gillespie
+info,player,Australia,NM Hauritz
+info,player,Australia,MS Kasprowicz
+info,player,Australia,GD McGrath
+info,registry,people,A Kumble,0c2730df
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,DR Martyn,69762509
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,JL Langer,94198ef4
+info,registry,people,JN Gillespie,74234d66
+info,registry,people,K Hariharan,2386ccff
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,M Kaif,d84378a4
+info,registry,people,M Kartik,abfeb126
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MS Kasprowicz,8d0ea930
+info,registry,people,NM Hauritz,8ea6e670
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Z Khan,91a4a398

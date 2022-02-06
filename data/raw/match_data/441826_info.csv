@@ -1,0 +1,76 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2009/10
+info,date,2010/02/14
+info,date,2010/02/15
+info,date,2010/02/16
+info,date,2010/02/17
+info,date,2010/02/18
+info,event,South Africa in India Test Series
+info,match_number,2
+info,venue,Eden Gardens
+info,city,Kolkata
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,HM Amla
+info,umpire,SJ Davis
+info,umpire,IJ Gould
+info,reserve_umpire,S Rao
+info,tv_umpire,AM Saheba
+info,match_referee,AJ Pycroft
+info,winner,India
+info,winner_innings,1
+info,winner_runs,57
+info,player,India,G Gambhir
+info,player,India,V Sehwag
+info,player,India,M Vijay
+info,player,India,SR Tendulkar
+info,player,India,VVS Laxman
+info,player,India,S Badrinath
+info,player,India,A Mishra
+info,player,India,MS Dhoni
+info,player,India,Harbhajan Singh
+info,player,India,Z Khan
+info,player,India,I Sharma
+info,player,South Africa,GC Smith
+info,player,South Africa,AN Petersen
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,AG Prince
+info,player,South Africa,JP Duminy
+info,player,South Africa,DW Steyn
+info,player,South Africa,PL Harris
+info,player,South Africa,WD Parnell
+info,player,South Africa,M Morkel
+info,registry,people,A Mishra,6b19d823
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AM Saheba,883e3818
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,S Badrinath,3576e47e
+info,registry,people,S Rao,8f9e95fd
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,Z Khan,91a4a398

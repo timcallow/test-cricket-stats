@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,male
+info,season,2019/20
+info,date,2020/01/24
+info,date,2020/01/25
+info,date,2020/01/26
+info,date,2020/01/27
+info,event,Basil D'Oliveira Trophy
+info,match_number,4
+info,venue,The Wanderers Stadium
+info,city,Johannesburg
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,MA Wood
+info,umpire,RJ Tucker
+info,umpire,JS Wilson
+info,reserve_umpire,A Paleker
+info,tv_umpire,BNJ Oxenford
+info,match_referee,AJ Pycroft
+info,winner,England
+info,winner_runs,191
+info,player,England,Z Crawley
+info,player,England,DP Sibley
+info,player,England,JL Denly
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,OJ Pope
+info,player,England,JC Buttler
+info,player,England,SM Curran
+info,player,England,CR Woakes
+info,player,England,MA Wood
+info,player,England,SCJ Broad
+info,player,South Africa,D Elgar
+info,player,South Africa,PJ Malan
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,F du Plessis
+info,player,South Africa,Q de Kock
+info,player,South Africa,T Bavuma
+info,player,South Africa,A Nortje
+info,player,South Africa,VD Philander
+info,player,South Africa,D Pretorius
+info,player,South Africa,BE Hendricks
+info,player,South Africa,D Paterson
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,D Elgar,33085ffb
+info,registry,people,D Paterson,462d7c62
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SM Curran,e94915e6
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,VD Philander,cfe70281
+info,registry,people,Z Crawley,922e1b19

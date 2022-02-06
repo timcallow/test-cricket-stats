@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2019
+info,date,2019/08/22
+info,date,2019/08/23
+info,date,2019/08/24
+info,date,2019/08/25
+info,event,The Ashes
+info,match_number,3
+info,venue,Headingley
+info,city,Leeds
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,BA Stokes
+info,umpire,CB Gaffaney
+info,umpire,JS Wilson
+info,reserve_umpire,RT Robinson
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,J Srinath
+info,winner,England
+info,winner_wickets,1
+info,player,Australia,DA Warner
+info,player,Australia,MS Harris
+info,player,Australia,UT Khawaja
+info,player,Australia,M Labuschagne
+info,player,Australia,TM Head
+info,player,Australia,MS Wade
+info,player,Australia,TD Paine
+info,player,Australia,JL Pattinson
+info,player,Australia,PJ Cummins
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,player,England,RJ Burns
+info,player,England,JJ Roy
+info,player,England,JE Root
+info,player,England,JL Denly
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,JC Buttler
+info,player,England,CR Woakes
+info,player,England,JC Archer
+info,player,England,SCJ Broad
+info,player,England,MJ Leach
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JL Pattinson,f752db61
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MJ Leach,3987e390
+info,registry,people,MS Harris,9e85455c
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RT Robinson,b143c87d
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,TD Paine,5748e866
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Khawaja,331ea488

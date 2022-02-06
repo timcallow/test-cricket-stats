@@ -1,0 +1,70 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Pakistan
+info,gender,male
+info,season,2011
+info,date,2011/09/01
+info,date,2011/09/02
+info,date,2011/09/03
+info,date,2011/09/04
+info,date,2011/09/05
+info,venue,Queens Sports Club
+info,city,Bulawayo
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Mohammad Hafeez
+info,umpire,IJ Gould
+info,umpire,RJ Tucker
+info,tv_umpire,TJ Matibiri
+info,match_referee,DC Boon
+info,winner,Pakistan
+info,winner_wickets,7
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Umar Akmal
+info,player,Pakistan,Adnan Akmal
+info,player,Pakistan,Saeed Ajmal
+info,player,Pakistan,Sohail Khan
+info,player,Pakistan,Junaid Khan
+info,player,Pakistan,Aizaz Cheema
+info,player,Zimbabwe,TMK Mawoyo
+info,player,Zimbabwe,V Sibanda
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,GA Lamb
+info,player,Zimbabwe,RW Price
+info,player,Zimbabwe,BV Vitori
+info,player,Zimbabwe,KM Jarvis
+info,player,Zimbabwe,CB Mpofu
+info,registry,people,Adnan Akmal,05da443b
+info,registry,people,Aizaz Cheema,5441db8c
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,BV Vitori,37137c8b
+info,registry,people,CB Mpofu,49691d7a
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,GA Lamb,86421172
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,Junaid Khan,086f5984
+info,registry,people,KM Jarvis,59792462
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RW Price,67af6f81
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Sohail Khan,5af743d0
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Matibiri,4a3132b1
+info,registry,people,TMK Mawoyo,3fb197cd
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,Umar Akmal,fd2bf2a0
+info,registry,people,V Sibanda,0fdabe05
+info,registry,people,Younis Khan,33cb3411

@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,West Indies
+info,gender,male
+info,season,2020/21
+info,date,2020/12/11
+info,date,2020/12/12
+info,date,2020/12/13
+info,date,2020/12/14
+info,event,West Indies tour of New Zealand
+info,match_number,2
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,HM Nicholls
+info,umpire,CM Brown
+info,umpire,CB Gaffaney
+info,reserve_umpire,SB Haig
+info,tv_umpire,WR Knights
+info,match_referee,JJ Crowe
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,12
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,WA Young
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,KA Jamieson
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,JD Campbell
+info,player,West Indies,DM Bravo
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,RL Chase
+info,player,West Indies,J Blackwood
+info,player,West Indies,JO Holder
+info,player,West Indies,J Da Silva
+info,player,West Indies,AS Joseph
+info,player,West Indies,CK Holder
+info,player,West Indies,ST Gabriel
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CK Holder,f7c3d426
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,JD Campbell,6fd0c8e1
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,N Wagner,78adc879
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SB Haig,811655b3
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WR Knights,63cbf8d8

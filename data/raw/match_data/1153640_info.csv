@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Zimbabwe
+info,gender,male
+info,season,2018/19
+info,date,2018/11/11
+info,date,2018/11/12
+info,date,2018/11/13
+info,date,2018/11/14
+info,date,2018/11/15
+info,event,Zimbabwe tour of Bangladesh
+info,match_number,2
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Mushfiqur Rahim
+info,umpire,RA Kettleborough
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,Masudur Rahman
+info,tv_umpire,RJ Tucker
+info,match_referee,RS Madugalle
+info,winner,Bangladesh
+info,winner_runs,218
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mohammad Mithun
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Ariful Haque
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Khaled Ahmed
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,BB Chari
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,PJ Moor
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,B Mavuta
+info,player,Zimbabwe,KM Jarvis
+info,player,Zimbabwe,TL Chatara
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,B Mavuta,dadb9703
+info,registry,people,BB Chari,41fc1ece
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,KM Jarvis,59792462
+info,registry,people,Khaled Ahmed,5dbdecf1
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,Taijul Islam,9d1d34bd

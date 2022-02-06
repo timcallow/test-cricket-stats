@@ -1,0 +1,77 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Sri Lanka
+info,gender,male
+info,season,2019/20
+info,date,2020/01/19
+info,date,2020/01/20
+info,date,2020/01/21
+info,date,2020/01/22
+info,date,2020/01/23
+info,event,Sri Lanka tour of Zimbabwe
+info,match_number,1
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,AD Mathews
+info,umpire,M Erasmus
+info,umpire,Nitin Menon
+info,reserve_umpire,C Phiri
+info,tv_umpire,L Rusere
+info,match_referee,J Srinath
+info,winner,Sri Lanka
+info,winner_wickets,10
+info,player,Zimbabwe,PS Masvaure
+info,player,Zimbabwe,KT Kasuza
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,KM Jarvis
+info,player,Zimbabwe,A Ndlovu
+info,player,Zimbabwe,VM Nyauchi
+info,player,Zimbabwe,BS Mudzinganyama
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BOP Fernando
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,L Embuldeniya
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,CBRLS Kumara
+info,registry,people,A Ndlovu,3abe1ef6
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BOP Fernando,1d048deb
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,BS Mudzinganyama,15e2985c
+info,registry,people,C Phiri,ade73404
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KM Jarvis,59792462
+info,registry,people,KT Kasuza,8f93efd3
+info,registry,people,L Embuldeniya,b54b66b3
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,PS Masvaure,c4d740b3
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,VM Nyauchi,1bd16445

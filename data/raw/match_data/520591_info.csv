@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Zimbabwe
+info,gender,male
+info,season,2011/12
+info,date,2012/01/26
+info,date,2012/01/27
+info,date,2012/01/28
+info,venue,McLean Park
+info,city,Napier
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,CS Martin
+info,umpire,Enamul Haque
+info,umpire,RJ Tucker
+info,reserve_umpire,BG Frost
+info,tv_umpire,NJ Llong
+info,match_referee,DC Boon
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,301
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,DG Brownlie
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,TG Southee
+info,player,New Zealand,TA Boult
+info,player,New Zealand,CS Martin
+info,player,Zimbabwe,TMK Mawoyo
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,F Mutizwa
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,MN Waller
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,SW Masakadza
+info,player,Zimbabwe,KM Jarvis
+info,player,Zimbabwe,BV Vitori
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BG Frost,fd8ffc13
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,BV Vitori,37137c8b
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,Enamul Haque,2ae9be7f
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,KM Jarvis,59792462
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MN Waller,ec4dada1
+info,registry,people,NJ Llong,573fb985
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SW Masakadza,2182013e
+info,registry,people,T Taibu,75de770f
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TMK Mawoyo,3fb197cd

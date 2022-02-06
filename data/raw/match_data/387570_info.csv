@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,male
+info,season,2009/10
+info,date,2009/12/16
+info,date,2009/12/17
+info,date,2009/12/18
+info,date,2009/12/19
+info,date,2009/12/20
+info,event,Basil D'Oliveira Trophy
+info,match_number,1
+info,venue,SuperSport Park
+info,city,Centurion
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,GP Swann
+info,umpire,Aleem Dar
+info,umpire,SJ Davis
+info,reserve_umpire,BG Jerling
+info,tv_umpire,AM Saheba
+info,match_referee,RS Mahanama
+info,outcome,draw
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,IR Bell
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,JM Anderson
+info,player,England,G Onions
+info,player,South Africa,GC Smith
+info,player,South Africa,AG Prince
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,JP Duminy
+info,player,South Africa,MV Boucher
+info,player,South Africa,M Morkel
+info,player,South Africa,PL Harris
+info,player,South Africa,F de Wet
+info,player,South Africa,M Ntini
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AM Saheba,883e3818
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BG Jerling,26457e41
+info,registry,people,F de Wet,220e25a4
+info,registry,people,G Onions,c1f6c27e
+info,registry,people,GC Smith,72861603
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,HM Amla,e798611a
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Davis,bc71b0b2

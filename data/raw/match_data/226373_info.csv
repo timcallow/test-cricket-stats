@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2005/06
+info,date,2006/01/02
+info,date,2006/01/03
+info,date,2006/01/04
+info,date,2006/01/05
+info,date,2006/01/06
+info,event,South Africa tour of Australia
+info,match_number,3
+info,venue,Sydney Cricket Ground
+info,city,
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,RT Ponting
+info,umpire,BF Bowden
+info,umpire,Aleem Dar
+info,tv_umpire,RL Parry
+info,match_referee,BC Broad
+info,winner,Australia
+info,winner_wickets,8
+info,player,South Africa,GC Smith
+info,player,South Africa,AB de Villiers
+info,player,South Africa,HH Gibbs
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,JA Rudolph
+info,player,South Africa,MV Boucher
+info,player,South Africa,SM Pollock
+info,player,South Africa,J Botha
+info,player,South Africa,A Nel
+info,player,South Africa,CK Langeveldt
+info,player,Australia,JL Langer
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,BJ Hodge
+info,player,Australia,MEK Hussey
+info,player,Australia,A Symonds
+info,player,Australia,AC Gilchrist
+info,player,Australia,SK Warne
+info,player,Australia,B Lee
+info,player,Australia,SCG MacGill
+info,player,Australia,GD McGrath
+info,registry,people,A Nel,2503e881
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,AG Prince,035cb925
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Hodge,b57f8a9a
+info,registry,people,CK Langeveldt,d1c94b25
+info,registry,people,GC Smith,72861603
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,J Botha,7c503806
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JL Langer,94198ef4
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,RL Parry,86d151dc
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SCG MacGill,60dac349
+info,registry,people,SK Warne,bb18be76
+info,registry,people,SM Pollock,88fccd6c

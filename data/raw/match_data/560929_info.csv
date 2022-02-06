@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,New Zealand
+info,gender,male
+info,season,2012
+info,date,2012/07/25
+info,date,2012/07/26
+info,date,2012/07/27
+info,date,2012/07/28
+info,date,2012/07/29
+info,event,New Zealand in West Indies Test Series
+info,match_number,1
+info,venue,"Sir Vivian Richards Stadium, North Sound"
+info,city,Antigua
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,SP Narine
+info,umpire,RA Kettleborough
+info,umpire,PR Reiffel
+info,reserve_umpire,JS Wilson
+info,tv_umpire,M Erasmus
+info,match_referee,RS Madugalle
+info,winner,West Indies
+info,winner_wickets,9
+info,player,New Zealand,DR Flynn
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,N Wagner
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,DG Brownlie
+info,player,New Zealand,CFK van Wyk
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,CS Martin
+info,player,West Indies,CH Gayle
+info,player,West Indies,KOA Powell
+info,player,West Indies,AB Fudadin
+info,player,West Indies,MN Samuels
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,N Deonarine
+info,player,West Indies,D Ramdin
+info,player,West Indies,DJG Sammy
+info,player,West Indies,SP Narine
+info,player,West Indies,KAJ Roach
+info,player,West Indies,R Rampaul
+info,registry,people,AB Fudadin,875909c0
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CFK van Wyk,24fd039c
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,N Deonarine,caf1b14c
+info,registry,people,N Wagner,78adc879
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SP Narine,9d430b40

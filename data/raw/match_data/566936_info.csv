@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2013
+info,date,2013/08/21
+info,date,2013/08/22
+info,date,2013/08/23
+info,date,2013/08/24
+info,date,2013/08/25
+info,event,The Ashes
+info,match_number,5
+info,venue,Kennington Oval
+info,city,London
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,SR Watson
+info,umpire,Aleem Dar
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,RA Kettleborough
+info,tv_umpire,AL Hill
+info,match_referee,RS Mahanama
+info,outcome,draw
+info,player,Australia,CJL Rogers
+info,player,Australia,DA Warner
+info,player,Australia,SR Watson
+info,player,Australia,MJ Clarke
+info,player,Australia,SPD Smith
+info,player,Australia,PM Siddle
+info,player,Australia,BJ Haddin
+info,player,Australia,JP Faulkner
+info,player,Australia,MA Starc
+info,player,Australia,RJ Harris
+info,player,Australia,NM Lyon
+info,player,England,AN Cook
+info,player,England,JE Root
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,CR Woakes
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,JM Anderson
+info,player,England,SC Kerrigan
+info,registry,people,AL Hill,4165ced0
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,CJL Rogers,d8360178
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JP Faulkner,808f425a
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Prior,1200550f
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Harris,12eddf28
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SC Kerrigan,b20f423b
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Watson,4329fbb5

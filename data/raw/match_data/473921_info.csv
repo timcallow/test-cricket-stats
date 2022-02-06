@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Pakistan
+info,gender,male
+info,season,2010/11
+info,date,2011/01/07
+info,date,2011/01/08
+info,date,2011/01/09
+info,event,Pakistan in New Zealand Test Series
+info,match_number,1
+info,venue,Seddon Park
+info,city,Hamilton
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Abdur Rehman
+info,umpire,DJ Harper
+info,umpire,RJ Tucker
+info,reserve_umpire,PB Spall
+info,tv_umpire,GAV Baxter
+info,match_referee,RS Mahanama
+info,winner,Pakistan
+info,winner_wickets,10
+info,player,New Zealand,TG McIntosh
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,JD Ryder
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,RA Young
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,TG Southee
+info,player,New Zealand,BJ Arnel
+info,player,New Zealand,CS Martin
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Adnan Akmal
+info,player,Pakistan,Abdur Rehman
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Tanvir Ahmed (1)
+info,player,Pakistan,Wahab Riaz
+info,registry,people,Abdur Rehman,d094e7d1
+info,registry,people,Adnan Akmal,05da443b
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Arnel,a5ac694f
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,PB Spall,3d244657
+info,registry,people,RA Young,f4535e46
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Mahanama,57910393
+info,registry,people,TG McIntosh,73ccd561
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,Tanvir Ahmed (1),93f104b4
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,Umar Akmal,fd2bf2a0
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Wahab Riaz,b3118300
+info,registry,people,Younis Khan,33cb3411

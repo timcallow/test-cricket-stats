@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Bangladesh
+info,gender,male
+info,season,2009/10
+info,date,2010/02/15
+info,date,2010/02/16
+info,date,2010/02/17
+info,date,2010/02/18
+info,date,2010/02/19
+info,venue,Seddon Park
+info,city,Hamilton
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,MJ Guptill
+info,umpire,RE Koertzen
+info,umpire,RJ Tucker
+info,reserve_umpire,AL Hill
+info,tv_umpire,SJA Taufel
+info,match_referee,AG Hurst
+info,winner,New Zealand
+info,winner_runs,121
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Junaid Siddique
+info,player,Bangladesh,Aftab Ahmed
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Shafiul Islam
+info,player,Bangladesh,Rubel Hossain
+info,player,New Zealand,TG McIntosh
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,PJ Ingram
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DR Tuffey
+info,player,New Zealand,JS Patel
+info,player,New Zealand,TG Southee
+info,player,New Zealand,CS Martin
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AL Hill,4165ced0
+info,registry,people,Aftab Ahmed,53bc7b84
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Tuffey,43936951
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JS Patel,f5821615
+info,registry,people,Junaid Siddique,62e203d4
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,PJ Ingram,5bd3bb5d
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Shafiul Islam,1a8eebbe
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,TG McIntosh,73ccd561
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,Tamim Iqbal,3b041a12

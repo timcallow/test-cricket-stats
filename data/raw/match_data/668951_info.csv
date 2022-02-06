@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,New Zealand
+info,gender,male
+info,season,2013/14
+info,date,2013/10/21
+info,date,2013/10/22
+info,date,2013/10/23
+info,date,2013/10/24
+info,date,2013/10/25
+info,event,New Zealand in Bangladesh Test Series
+info,match_number,2
+info,venue,Shere Bangla National Stadium
+info,city,Mirpur
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Mominul Haque
+info,umpire,RK Illingworth
+info,umpire,BNJ Oxenford
+info,reserve_umpire,Anisur Rahman
+info,tv_umpire,Sharfuddoula
+info,match_referee,J Srinath
+info,outcome,draw
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Anamul Haque
+info,player,Bangladesh,Marshall Ayub
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Nasir Hossain
+info,player,Bangladesh,Sohag Gazi
+info,player,Bangladesh,Abdur Razzak
+info,player,Bangladesh,Rubel Hossain
+info,player,Bangladesh,Al-Amin Hossain
+info,player,New Zealand,PG Fulton
+info,player,New Zealand,HD Rutherford
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,CJ Anderson
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,N Wagner
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,TA Boult
+info,registry,people,Abdur Razzak,888e32bf
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,Anisur Rahman,affbf093
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,Marshall Ayub,e72d8f6a
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,N Wagner,78adc879
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Sohag Gazi,5a4c12ab
+info,registry,people,TA Boult,a818c1be
+info,registry,people,Tamim Iqbal,3b041a12

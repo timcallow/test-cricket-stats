@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,male
+info,season,2021
+info,date,2021/08/04
+info,date,2021/08/05
+info,date,2021/08/06
+info,date,2021/08/07
+info,date,2021/08/08
+info,event,India tour of England
+info,match_number,1
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,JE Root
+info,umpire,MA Gough
+info,umpire,RA Kettleborough
+info,reserve_umpire,DJ Millns
+info,tv_umpire,RK Illingworth
+info,match_referee,BC Broad
+info,outcome,draw
+info,players,England,RJ Burns
+info,players,England,DP Sibley
+info,players,England,Z Crawley
+info,players,England,JE Root
+info,players,England,JM Bairstow
+info,players,England,DW Lawrence
+info,players,England,JC Buttler
+info,players,England,SM Curran
+info,players,England,OE Robinson
+info,players,England,SCJ Broad
+info,players,England,JM Anderson
+info,players,India,RG Sharma
+info,players,India,KL Rahul
+info,players,India,CA Pujara
+info,players,India,V Kohli
+info,players,India,AM Rahane
+info,players,India,RR Pant
+info,players,India,RA Jadeja
+info,players,India,SN Thakur
+info,players,India,Mohammed Shami
+info,players,India,JJ Bumrah
+info,players,India,Mohammed Siraj
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Z Crawley,922e1b19

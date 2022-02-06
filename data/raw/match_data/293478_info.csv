@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Sri Lanka
+info,gender,male
+info,season,2007
+info,date,2007/06/25
+info,date,2007/06/26
+info,date,2007/06/27
+info,date,2007/06/28
+info,event,Bangladesh tour of Sri Lanka
+info,match_number,1
+info,venue,Sinhalese Sports Club Ground
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,M Muralitharan
+info,umpire,Asad Rauf
+info,umpire,SL Shastri
+info,reserve_umpire,REJ Martinesz
+info,tv_umpire,TH Wijewardene
+info,match_referee,JJ Crowe
+info,winner,Sri Lanka
+info,winner_innings,1
+info,winner_runs,234
+info,player,Bangladesh,Javed Omar
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Rajin Saleh
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Mashrafe Mortaza
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Abdur Razzak
+info,player,Sri Lanka,MG Vandort
+info,player,Sri Lanka,SM Warnapura
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,LPC Silva
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,SL Malinga
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,CRD Fernando
+info,registry,people,Abdur Razzak,888e32bf
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,Javed Omar,e15faa51
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,LPC Silva,1be70c88
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MG Vandort,49fa1236
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,Rajin Saleh,acc321aa
+info,registry,people,SL Malinga,a12e1d51
+info,registry,people,SL Shastri,53ef012d
+info,registry,people,SM Warnapura,add57f1f
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,TH Wijewardene,6a6be119
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,WPUJC Vaas,bcce309e

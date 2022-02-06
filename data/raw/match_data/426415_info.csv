@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Pakistan
+info,gender,male
+info,season,2010
+info,date,2010/08/18
+info,date,2010/08/19
+info,date,2010/08/20
+info,date,2010/08/21
+info,event,Pakistan in England Test Series
+info,match_number,3
+info,venue,Kennington Oval
+info,city,London
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,Mohammad Amir
+info,umpire,SJ Davis
+info,umpire,AL Hill
+info,reserve_umpire,PJ Hartley
+info,tv_umpire,BF Bowden
+info,match_referee,RS Madugalle
+info,winner,Pakistan
+info,winner_wickets,4
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,PD Collingwood
+info,player,England,EJG Morgan
+info,player,England,MJ Prior
+info,player,England,GP Swann
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,England,ST Finn
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Yasir Hameed
+info,player,Pakistan,Wahab Riaz
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Umar Akmal
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Saeed Ajmal
+info,player,Pakistan,Mohammad Asif
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AL Hill,4165ced0
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,MJ Prior,1200550f
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Umar Akmal,fd2bf2a0
+info,registry,people,Wahab Riaz,b3118300
+info,registry,people,Yasir Hameed,f144d99b

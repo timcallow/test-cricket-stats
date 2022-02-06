@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Bangladesh
+info,gender,male
+info,season,2018/19
+info,date,2018/11/03
+info,date,2018/11/04
+info,date,2018/11/05
+info,date,2018/11/06
+info,event,Zimbabwe tour of Bangladesh
+info,match_number,1
+info,venue,Sylhet International Cricket Stadium
+info,city,
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,SC Williams
+info,umpire,RA Kettleborough
+info,umpire,RJ Tucker
+info,reserve_umpire,Masudur Rahman
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,RS Madugalle
+info,winner,Zimbabwe
+info,winner_runs,151
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,BB Chari
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,PJ Moor
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,B Mavuta
+info,player,Zimbabwe,KM Jarvis
+info,player,Zimbabwe,TL Chatara
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Ariful Haque
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Nazmul Islam
+info,player,Bangladesh,Abu Jayed
+info,registry,people,Abu Jayed,1bb0993e
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,B Mavuta,dadb9703
+info,registry,people,BB Chari,41fc1ece
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,KM Jarvis,59792462
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nazmul Islam,6575e3bc
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,WP Masakadza,4bc0a378

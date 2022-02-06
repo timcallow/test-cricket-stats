@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,ICC World XI
+info,gender,male
+info,season,2005/06
+info,date,2005/10/14
+info,date,2005/10/15
+info,date,2005/10/16
+info,date,2005/10/17
+info,event,ICC World XI tour of Australia
+info,venue,Sydney Cricket Ground
+info,city,Sydney
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,ML Hayden
+info,umpire,RE Koertzen
+info,umpire,SJA Taufel
+info,tv_umpire,DB Hair
+info,match_referee,RS Madugalle
+info,winner,Australia
+info,winner_runs,210
+info,player,Australia,JL Langer
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,MJ Clarke
+info,player,Australia,SM Katich
+info,player,Australia,AC Gilchrist
+info,player,Australia,SR Watson
+info,player,Australia,SK Warne
+info,player,Australia,B Lee
+info,player,Australia,GD McGrath
+info,player,Australia,SCG MacGill
+info,player,ICC World XI,GC Smith
+info,player,ICC World XI,V Sehwag
+info,player,ICC World XI,R Dravid
+info,player,ICC World XI,BC Lara
+info,player,ICC World XI,JH Kallis
+info,player,ICC World XI,Inzamam-ul-Haq
+info,player,ICC World XI,A Flintoff
+info,player,ICC World XI,MV Boucher
+info,player,ICC World XI,DL Vettori
+info,player,ICC World XI,SJ Harmison
+info,player,ICC World XI,M Muralitharan
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BC Lara,d5403021
+info,registry,people,BJ Hodge,b57f8a9a
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,GC Smith,72861603
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JL Langer,94198ef4
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SCG MacGill,60dac349
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SK Warne,bb18be76
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,V Sehwag,8ba8195d

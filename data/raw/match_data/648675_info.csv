@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2013/14
+info,date,2014/02/20
+info,date,2014/02/21
+info,date,2014/02/22
+info,date,2014/02/23
+info,event,Australia in South Africa Test Series
+info,match_number,2
+info,venue,St George's Park
+info,city,Port Elizabeth
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,JP Duminy
+info,umpire,HDPK Dharmasena
+info,umpire,RK Illingworth
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,Aleem Dar
+info,match_referee,RS Mahanama
+info,winner,South Africa
+info,winner_runs,231
+info,player,Australia,CJL Rogers
+info,player,Australia,DA Warner
+info,player,Australia,AJ Doolan
+info,player,Australia,SE Marsh
+info,player,Australia,MJ Clarke
+info,player,Australia,NM Lyon
+info,player,Australia,SPD Smith
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,RJ Harris
+info,player,Australia,PM Siddle
+info,player,South Africa,GC Smith
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,F du Plessis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,Q de Kock
+info,player,South Africa,JP Duminy
+info,player,South Africa,VD Philander
+info,player,South Africa,WD Parnell
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Morkel
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AJ Doolan,36eafb02
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,CJL Rogers,d8360178
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Smith,72861603
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HM Amla,e798611a
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJ Harris,12eddf28
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,VD Philander,cfe70281
+info,registry,people,WD Parnell,3a60e0b5

@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,England
+info,gender,male
+info,season,2012/13
+info,date,2012/12/13
+info,date,2012/12/14
+info,date,2012/12/15
+info,date,2012/12/16
+info,date,2012/12/17
+info,event,England in India Test Series
+info,match_number,4
+info,venue,"Vidarbha Cricket Association Stadium, Jamtha"
+info,city,Nagpur
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,JM Anderson
+info,umpire,HDPK Dharmasena
+info,umpire,RJ Tucker
+info,reserve_umpire,CK Nandan
+info,tv_umpire,S Ravi
+info,match_referee,JJ Crowe
+info,outcome,draw
+info,player,England,AN Cook
+info,player,England,NRD Compton
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,JE Root
+info,player,England,MJ Prior
+info,player,England,TT Bresnan
+info,player,England,GP Swann
+info,player,England,JM Anderson
+info,player,England,MS Panesar
+info,player,India,G Gambhir
+info,player,India,V Sehwag
+info,player,India,CA Pujara
+info,player,India,SR Tendulkar
+info,player,India,V Kohli
+info,player,India,MS Dhoni
+info,player,India,RA Jadeja
+info,player,India,R Ashwin
+info,player,India,PP Chawla
+info,player,India,PP Ojha
+info,player,India,I Sharma
+info,registry,people,AN Cook,f41598c1
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CK Nandan,012de9c4
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,MS Panesar,5a37ec26
+info,registry,people,NRD Compton,e5437a99
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,PP Ojha,6c6591ab
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,TT Bresnan,58043739
+info,registry,people,V Kohli,ba607b88
+info,registry,people,V Sehwag,8ba8195d

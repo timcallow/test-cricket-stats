@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,South Africa
+info,gender,male
+info,season,2008
+info,date,2008/07/18
+info,date,2008/07/19
+info,date,2008/07/20
+info,date,2008/07/21
+info,event,Basil D'Oliveira Trophy
+info,match_number,2
+info,venue,Headingley
+info,city,Leeds
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,AG Prince
+info,umpire,BF Bowden
+info,umpire,DJ Harper
+info,reserve_umpire,NA Mallender
+info,tv_umpire,RA Kettleborough
+info,match_referee,JJ Crowe
+info,winner,South Africa
+info,winner_wickets,10
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,MP Vaughan
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,TR Ambrose
+info,player,England,A Flintoff
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,England,MS Panesar
+info,player,England,DJ Pattinson
+info,player,South Africa,ND McKenzie
+info,player,South Africa,GC Smith
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,AB de Villiers
+info,player,South Africa,MV Boucher
+info,player,South Africa,M Morkel
+info,player,South Africa,PL Harris
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Ntini
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Prince,035cb925
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DJ Pattinson,3fe2db87
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,MS Panesar,5a37ec26
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,TR Ambrose,a15aaa7f

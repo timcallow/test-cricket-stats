@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2012
+info,date,2012/06/30
+info,date,2012/07/01
+info,date,2012/07/02
+info,date,2012/07/03
+info,date,2012/07/04
+info,event,Pakistan in Sri Lanka Test Series
+info,match_number,2
+info,venue,Sinhalese Sports Club Ground
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,Junaid Khan
+info,umpire,IJ Gould
+info,umpire,SJA Taufel
+info,reserve_umpire,TH Wijewardene
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,DC Boon
+info,outcome,draw
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Adnan Akmal
+info,player,Pakistan,Abdur Rehman
+info,player,Pakistan,Saeed Ajmal
+info,player,Pakistan,Aizaz Cheema
+info,player,Pakistan,Junaid Khan
+info,player,Sri Lanka,NT Paranavitana
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,S Randiv
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,N Pradeep
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Abdur Rehman,d094e7d1
+info,registry,people,Adnan Akmal,05da443b
+info,registry,people,Aizaz Cheema,5441db8c
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,Junaid Khan,086f5984
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,NT Paranavitana,200f2761
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Randiv,f5f18a18
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,TH Wijewardene,6a6be119
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,Younis Khan,33cb3411

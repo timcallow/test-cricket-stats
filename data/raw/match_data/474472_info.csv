@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,male
+info,season,2011
+info,date,2011/07/21
+info,date,2011/07/22
+info,date,2011/07/23
+info,date,2011/07/24
+info,date,2011/07/25
+info,event,Pataudi Trophy
+info,match_number,1
+info,venue,Lord's
+info,city,London
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,KP Pietersen
+info,umpire,Asad Rauf
+info,umpire,BF Bowden
+info,reserve_umpire,RJ Bailey
+info,tv_umpire,M Erasmus
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_runs,196
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,EJG Morgan
+info,player,England,MJ Prior
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,CT Tremlett
+info,player,England,JM Anderson
+info,player,India,A Mukund
+info,player,India,G Gambhir
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,VVS Laxman
+info,player,India,SK Raina
+info,player,India,MS Dhoni
+info,player,India,Harbhajan Singh
+info,player,India,P Kumar
+info,player,India,Z Khan
+info,player,India,I Sharma
+info,registry,people,A Mukund,6165bca6
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CT Tremlett,a72b14ff
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,P Kumar,e938e1bc
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Z Khan,91a4a398

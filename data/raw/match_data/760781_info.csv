@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Zimbabwe
+info,gender,male
+info,season,2014/15
+info,date,2014/10/25
+info,date,2014/10/26
+info,date,2014/10/27
+info,event,Zimbabwe in Bangladesh Test Series
+info,match_number,1
+info,venue,Shere Bangla National Stadium
+info,city,Mirpur
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,Taijul Islam
+info,umpire,HDPK Dharmasena
+info,umpire,S Ravi
+info,reserve_umpire,Anisur Rahman
+info,tv_umpire,BF Bowden
+info,match_referee,BC Broad
+info,winner,Bangladesh
+info,winner_wickets,3
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Shamsur Rahman
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shuvagata Hom
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Jubair Hossain
+info,player,Bangladesh,Al-Amin Hossain
+info,player,Zimbabwe,V Sibanda
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,H Masakadza
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,E Chigumbura
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,J Nyumbu
+info,player,Zimbabwe,T Panyangara
+info,player,Zimbabwe,TL Chatara
+info,player,Zimbabwe,T Kamungozi
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Anisur Rahman,affbf093
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,E Chigumbura,d2babdd5
+info,registry,people,H Masakadza,31fbf891
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Nyumbu,024a173d
+info,registry,people,Jubair Hossain,902d916b
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Marshall Ayub,e72d8f6a
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamsur Rahman,02789d88
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Kamungozi,1fe81cc9
+info,registry,people,T Panyangara,3b417422
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,V Sibanda,0fdabe05

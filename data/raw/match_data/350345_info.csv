@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Bangladesh
+info,gender,male
+info,season,2008/09
+info,date,2008/11/19
+info,date,2008/11/20
+info,date,2008/11/21
+info,date,2008/11/22
+info,event,Bangladesh in South Africa Test Series
+info,match_number,1
+info,venue,OUTsurance Oval
+info,city,Bloemfontein
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,GC Smith
+info,umpire,SJ Davis
+info,umpire,IJ Gould
+info,reserve_umpire,BG Jerling
+info,tv_umpire,M Erasmus
+info,match_referee,AG Hurst
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,129
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Junaid Siddique
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Mehrab Hossain jnr
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Naeem Islam
+info,player,Bangladesh,Mashrafe Mortaza
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Mahbubul Alam
+info,player,South Africa,GC Smith
+info,player,South Africa,ND McKenzie
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,AB de Villiers
+info,player,South Africa,MV Boucher
+info,player,South Africa,M Morkel
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Ntini
+info,player,South Africa,PL Harris
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AG Prince,035cb925
+info,registry,people,BG Jerling,26457e41
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,Junaid Siddique,62e203d4
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,Mahbubul Alam,5284c884
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mehrab Hossain jnr,86cd782f
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,Naeem Islam,02e83ac5
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Tamim Iqbal,3b041a12

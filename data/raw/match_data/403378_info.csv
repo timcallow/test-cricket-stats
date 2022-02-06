@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,New Zealand
+info,gender,male
+info,season,2009
+info,date,2009/08/18
+info,date,2009/08/19
+info,date,2009/08/20
+info,date,2009/08/21
+info,date,2009/08/22
+info,event,New Zealand in Sri Lanka Test Series
+info,match_number,1
+info,venue,Galle International Stadium
+info,city,
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,TM Dilshan
+info,umpire,DJ Harper
+info,umpire,NJ Llong
+info,reserve_umpire,AG Dissanayake
+info,tv_umpire,EAR de Silva
+info,match_referee,AJ Pycroft
+info,winner,Sri Lanka
+info,winner_runs,202
+info,player,New Zealand,TG McIntosh
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,DR Flynn
+info,player,New Zealand,JS Patel
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,JD Ryder
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,IE O'Brien
+info,player,New Zealand,CS Martin
+info,player,Sri Lanka,NT Paranavitana
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,T Thushara
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,BAW Mendis
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AG Dissanayake,cf209c55
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,BAW Mendis,ea0cdc12
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,IE O'Brien,78f34e15
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,JS Patel,f5821615
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NT Paranavitana,200f2761
+info,registry,people,SM Warnapura,add57f1f
+info,registry,people,T Thushara,b2ae53f5
+info,registry,people,TG McIntosh,73ccd561
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75

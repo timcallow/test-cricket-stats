@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,male
+info,season,2008/09
+info,date,2008/11/28
+info,date,2008/11/29
+info,date,2008/11/30
+info,date,2008/12/01
+info,event,Trans-Tasman Trophy
+info,match_number,2
+info,venue,Adelaide Oval
+info,city,
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,BJ Haddin
+info,umpire,BR Doctrove
+info,umpire,RE Koertzen
+info,reserve_umpire,AR Collins
+info,tv_umpire,BNJ Oxenford
+info,match_referee,BC Broad
+info,winner,Australia
+info,winner_innings,1
+info,winner_runs,62
+info,player,Australia,ML Hayden
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,A Symonds
+info,player,Australia,BJ Haddin
+info,player,Australia,B Lee
+info,player,Australia,MG Johnson
+info,player,Australia,NM Hauritz
+info,player,Australia,SR Clark
+info,player,New Zealand,AJ Redmond
+info,player,New Zealand,JM How
+info,player,New Zealand,JD Ryder
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,PG Fulton
+info,player,New Zealand,DR Flynn
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,TG Southee
+info,player,New Zealand,IE O'Brien
+info,player,New Zealand,CS Martin
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AJ Redmond,48f177f5
+info,registry,people,AR Collins,11515742
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,IE O'Brien,78f34e15
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,JM How,fd8f11e9
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,NM Hauritz,8ea6e670
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Clark,a3bfec5d
+info,registry,people,TG Southee,13c35c9e

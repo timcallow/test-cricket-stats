@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Bangladesh
+info,gender,male
+info,season,2019/20
+info,date,2019/11/14
+info,date,2019/11/15
+info,date,2019/11/16
+info,event,Bangladesh in India Test Series
+info,match_number,1
+info,venue,Holkar Cricket Stadium
+info,city,Indore
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,MA Agarwal
+info,umpire,RJ Tucker
+info,umpire,M Erasmus
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,Nitin Menon
+info,match_referee,RS Madugalle
+info,winner,India
+info,winner_innings,1
+info,winner_runs,130
+info,player,Bangladesh,Shadman Islam
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mohammad Mithun
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Abu Jayed
+info,player,Bangladesh,Ebadat Hossain
+info,player,India,MA Agarwal
+info,player,India,RG Sharma
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RA Jadeja
+info,player,India,WP Saha
+info,player,India,UT Yadav
+info,player,India,R Ashwin
+info,player,India,I Sharma
+info,player,India,Mohammed Shami
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AM Rahane,29e95537
+info,registry,people,Abu Jayed,1bb0993e
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Shadman Islam,246d11a2
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

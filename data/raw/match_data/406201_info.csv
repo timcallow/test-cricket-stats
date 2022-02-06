@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Pakistan
+info,gender,male
+info,season,2009/10
+info,date,2010/01/14
+info,date,2010/01/15
+info,date,2010/01/16
+info,date,2010/01/17
+info,date,2010/01/18
+info,event,Pakistan in Australia Test Series
+info,match_number,3
+info,venue,Bellerive Oval
+info,city,Hobart
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,RT Ponting
+info,umpire,EAR de Silva
+info,umpire,RE Koertzen
+info,reserve_umpire,RJ Tucker
+info,tv_umpire,BR Doctrove
+info,match_referee,RS Madugalle
+info,winner,Australia
+info,winner_runs,231
+info,player,Australia,SR Watson
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,MJ North
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,NM Hauritz
+info,player,Australia,PM Siddle
+info,player,Australia,DE Bollinger
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Khurram Manzoor
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Umar Akmal
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Sarfraz Ahmed
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Danish Kaneria
+info,player,Pakistan,Mohammad Asif
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,DE Bollinger,45c2196c
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Khurram Manzoor,82c78845
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ North,99464591
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,NM Hauritz,8ea6e670
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Umar Akmal,fd2bf2a0
+info,registry,people,Umar Gul,16dfcc19

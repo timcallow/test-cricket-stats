@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2019/20
+info,date,2019/10/02
+info,date,2019/10/03
+info,date,2019/10/04
+info,date,2019/10/05
+info,date,2019/10/06
+info,event,South Africa in India Test Series
+info,match_number,1
+info,venue,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+info,city,Visakhapatnam
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,RG Sharma
+info,umpire,RK Illingworth
+info,umpire,CB Gaffaney
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,NJ Llong
+info,match_referee,RB Richardson
+info,winner,India
+info,winner_runs,203
+info,player,India,MA Agarwal
+info,player,India,RG Sharma
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RA Jadeja
+info,player,India,GH Vihari
+info,player,India,WP Saha
+info,player,India,R Ashwin
+info,player,India,I Sharma
+info,player,India,Mohammed Shami
+info,player,South Africa,D Elgar
+info,player,South Africa,AK Markram
+info,player,South Africa,TB de Bruyn
+info,player,South Africa,DL Piedt
+info,player,South Africa,T Bavuma
+info,player,South Africa,F du Plessis
+info,player,South Africa,Q de Kock
+info,player,South Africa,S Muthusamy
+info,player,South Africa,VD Philander
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Rahane,29e95537
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GH Vihari,94253925
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Illingworth,20672246
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VD Philander,cfe70281
+info,registry,people,WP Saha,fe11caa6

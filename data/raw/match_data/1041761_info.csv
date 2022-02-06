@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Bangladesh
+info,gender,male
+info,season,2016/17
+info,date,2017/02/09
+info,date,2017/02/10
+info,date,2017/02/11
+info,date,2017/02/12
+info,date,2017/02/13
+info,venue,"Rajiv Gandhi International Stadium, Uppal"
+info,city,Hyderabad
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,V Kohli
+info,umpire,M Erasmus
+info,umpire,JS Wilson
+info,reserve_umpire,Nitin Menon
+info,tv_umpire,CB Gaffaney
+info,match_referee,AJ Pycroft
+info,winner,India
+info,winner_runs,208
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Sabbir Rahman
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Kamrul Islam Rabbi
+info,player,India,KL Rahul
+info,player,India,M Vijay
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,WP Saha
+info,player,India,R Ashwin
+info,player,India,RA Jadeja
+info,player,India,B Kumar
+info,player,India,UT Yadav
+info,player,India,I Sharma
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AM Rahane,29e95537
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kamrul Islam Rabbi,f7e9a562
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Vijay,4b57e452
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

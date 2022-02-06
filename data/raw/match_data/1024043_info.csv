@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,New Zealand
+info,gender,male
+info,season,2016
+info,date,2016/08/06
+info,date,2016/08/07
+info,date,2016/08/08
+info,date,2016/08/09
+info,date,2016/08/10
+info,event,New Zealand in Zimbabwe Test Series
+info,match_number,2
+info,venue,Queens Sports Club
+info,city,Bulawayo
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,KS Williamson
+info,umpire,MA Gough
+info,umpire,PR Reiffel
+info,reserve_umpire,L Rusere
+info,tv_umpire,TJ Matibiri
+info,match_referee,DC Boon
+info,winner,New Zealand
+info,winner_runs,254
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TA Boult
+info,player,Zimbabwe,TMK Mawoyo
+info,player,Zimbabwe,CJ Chibhabha
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,PS Masvaure
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,PJ Moor
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,J Nyumbu
+info,player,Zimbabwe,MT Chinouya
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CJ Chibhabha,f32dbc84
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,J Nyumbu,024a173d
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MT Chinouya,aed55673
+info,registry,people,N Wagner,78adc879
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,PS Masvaure,c4d740b3
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TJ Matibiri,4a3132b1
+info,registry,people,TMK Mawoyo,3fb197cd
+info,registry,people,TWM Latham,e824e6ee

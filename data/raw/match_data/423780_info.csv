@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Pakistan
+info,gender,male
+info,season,2009/10
+info,date,2009/12/11
+info,date,2009/12/12
+info,date,2009/12/13
+info,date,2009/12/14
+info,date,2009/12/15
+info,event,Pakistan in New Zealand Test Series
+info,match_number,3
+info,venue,McLean Park
+info,city,Napier
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,DL Vettori
+info,umpire,BR Doctrove
+info,umpire,RE Koertzen
+info,reserve_umpire,AL Hill
+info,tv_umpire,SJA Taufel
+info,match_referee,AG Hurst
+info,outcome,draw
+info,player,New Zealand,TG McIntosh
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,DR Flynn
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DR Tuffey
+info,player,New Zealand,TG Southee
+info,player,New Zealand,IE O'Brien
+info,player,New Zealand,CS Martin
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Umar Akmal
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Mohammad Asif
+info,player,Pakistan,Danish Kaneria
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,DR Tuffey,43936951
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,IE O'Brien,78f34e15
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,TG McIntosh,73ccd561
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,Umar Akmal,fd2bf2a0
+info,registry,people,Umar Gul,16dfcc19

@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,male
+info,season,2006/07
+info,date,2006/11/23
+info,date,2006/11/24
+info,date,2006/11/25
+info,date,2006/11/26
+info,date,2006/11/27
+info,event,England tour of Australia
+info,match_number,1
+info,venue,"Brisbane Cricket Ground, Woolloongabba"
+info,city,Brisbane
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,RT Ponting
+info,umpire,BF Bowden
+info,umpire,SA Bucknor
+info,reserve_umpire,BNJ Oxenford
+info,tv_umpire,PD Parker
+info,match_referee,JJ Crowe
+info,winner,Australia
+info,winner_runs,277
+info,player,Australia,JL Langer
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,AC Gilchrist
+info,player,Australia,SK Warne
+info,player,Australia,B Lee
+info,player,Australia,SR Clark
+info,player,Australia,GD McGrath
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IR Bell
+info,player,England,PD Collingwood
+info,player,England,KP Pietersen
+info,player,England,A Flintoff
+info,player,England,GO Jones
+info,player,England,AF Giles
+info,player,England,MJ Hoggard
+info,player,England,SJ Harmison
+info,player,England,JM Anderson
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,AF Giles,a4af4849
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,DR Martyn,69762509
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,GO Jones,2e929b99
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JL Langer,94198ef4
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,PD Parker,439aa572
+info,registry,people,RA Broad,e46ec144
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,SK Warne,bb18be76
+info,registry,people,SR Clark,a3bfec5d

@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Bangladesh
+info,gender,male
+info,season,2010
+info,date,2010/05/27
+info,date,2010/05/28
+info,date,2010/05/29
+info,date,2010/05/30
+info,date,2010/05/31
+info,event,Bangladesh in England Test Series
+info,match_number,1
+info,venue,Lord's
+info,city,London
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,ST Finn
+info,umpire,BF Bowden
+info,umpire,EAR de Silva
+info,reserve_umpire,JW Lloyds
+info,tv_umpire,RK Illingworth
+info,match_referee,AG Hurst
+info,winner,England
+info,winner_wickets,8
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Junaid Siddique
+info,player,Bangladesh,Jahurul Islam
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Rubel Hossain
+info,player,Bangladesh,Robiul Islam
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,EJG Morgan
+info,player,England,MJ Prior
+info,player,England,TT Bresnan
+info,player,England,GP Swann
+info,player,England,JM Anderson
+info,player,England,ST Finn
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JW Lloyds,112b8472
+info,registry,people,Jahurul Islam,6752c57b
+info,registry,people,Junaid Siddique,62e203d4
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,MJ Prior,1200550f
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Robiul Islam,d876610c
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamsur Rahman,02789d88
+info,registry,people,TT Bresnan,58043739
+info,registry,people,Tamim Iqbal,3b041a12

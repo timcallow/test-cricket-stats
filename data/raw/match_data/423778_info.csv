@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Pakistan
+info,gender,male
+info,season,2009/10
+info,date,2009/11/24
+info,date,2009/11/25
+info,date,2009/11/26
+info,date,2009/11/27
+info,date,2009/11/28
+info,event,Pakistan in New Zealand Test Series
+info,match_number,1
+info,venue,University Oval
+info,city,Dunedin
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,SE Bond
+info,umpire,BR Doctrove
+info,umpire,SJA Taufel
+info,reserve_umpire,CB Gaffaney
+info,tv_umpire,RE Koertzen
+info,match_referee,AG Hurst
+info,winner,New Zealand
+info,winner_runs,32
+info,player,New Zealand,TG McIntosh
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,DR Flynn
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,PG Fulton
+info,player,New Zealand,GD Elliott
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,SE Bond
+info,player,New Zealand,IE O'Brien
+info,player,New Zealand,CS Martin
+info,player,Pakistan,Khurram Manzoor
+info,player,Pakistan,Imran Farhat
+info,player,Pakistan,Fawad Alam
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Umar Akmal
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Mohammad Asif
+info,player,Pakistan,Saeed Ajmal
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,Fawad Alam,61f05b05
+info,registry,people,GD Elliott,c03449e0
+info,registry,people,IE O'Brien,78f34e15
+info,registry,people,Imran Farhat,480ed517
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,Khurram Manzoor,82c78845
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,SE Bond,4f629497
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,TG McIntosh,73ccd561
+info,registry,people,Umar Akmal,fd2bf2a0
+info,registry,people,Umar Gul,16dfcc19

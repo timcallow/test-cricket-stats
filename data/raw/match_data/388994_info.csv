@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Sri Lanka
+info,gender,male
+info,season,2008/09
+info,date,2009/03/01
+info,date,2009/03/02
+info,date,2009/03/03
+info,date,2009/03/04
+info,date,2009/03/05
+info,event,Sri Lanka in Pakistan Test Series
+info,match_number,2
+info,venue,Gaddafi Stadium
+info,city,Lahore
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,umpire,SJ Davis
+info,umpire,SJA Taufel
+info,reserve_umpire,Ahsan Raza
+info,tv_umpire,Nadeem Ghauri
+info,match_referee,BC Broad
+info,outcome,draw
+info,player,Pakistan,Khurram Manzoor
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Yasir Arafat
+info,player,Pakistan,Mohammad Talha
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Danish Kaneria
+info,player,Sri Lanka,SM Warnapura
+info,player,Sri Lanka,NT Paranavitana
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,T Thushara
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,BAW Mendis
+info,player,Sri Lanka,CRD Fernando
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,BAW Mendis,ea0cdc12
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,Khurram Manzoor,82c78845
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Talha,0ec9e2c4
+info,registry,people,NT Paranavitana,200f2761
+info,registry,people,Nadeem Ghauri,8387d138
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SM Warnapura,add57f1f
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,T Thushara,b2ae53f5
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Yasir Arafat,3cf5ae43
+info,registry,people,Younis Khan,33cb3411

@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,West Indies
+info,gender,male
+info,season,2010/11
+info,date,2010/11/23
+info,date,2010/11/24
+info,date,2010/11/25
+info,date,2010/11/26
+info,date,2010/11/27
+info,event,West Indies in Sri Lanka Test Series
+info,match_number,2
+info,venue,R Premadasa Stadium
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,KC Sangakkara
+info,umpire,Asad Rauf
+info,umpire,RA Kettleborough
+info,reserve_umpire,HDPK Dharmasena
+info,tv_umpire,SJ Davis
+info,match_referee,AG Hurst
+info,outcome,draw
+info,player,Sri Lanka,NT Paranavitana
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TT Samaraweera
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,HMRKB Herath
+info,player,Sri Lanka,BAW Mendis
+info,player,Sri Lanka,RAS Lakmal
+info,player,West Indies,CH Gayle
+info,player,West Indies,AB Barath
+info,player,West Indies,DM Bravo
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,BP Nash
+info,player,West Indies,DJ Bravo
+info,player,West Indies,CS Baugh
+info,player,West Indies,DJG Sammy
+info,player,West Indies,SJ Benn
+info,player,West Indies,S Shillingford
+info,player,West Indies,KAJ Roach
+info,registry,people,AB Barath,d3a3e82d
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BAW Mendis,ea0cdc12
+info,registry,people,BP Nash,749a1b3a
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CS Baugh,151e8077
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HMRKB Herath,d2fcce2f
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,NT Paranavitana,200f2761
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Shillingford,d76b0d2d
+info,registry,people,SJ Benn,364ee2cf
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,TT Samaraweera,2008fc75

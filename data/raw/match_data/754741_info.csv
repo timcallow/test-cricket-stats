@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,male
+info,season,2014/15
+info,date,2014/12/26
+info,date,2014/12/27
+info,date,2014/12/28
+info,date,2014/12/29
+info,date,2014/12/30
+info,event,Border-Gavaskar Trophy
+info,match_number,3
+info,venue,Melbourne Cricket Ground
+info,city,
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,RJ Harris
+info,umpire,HDPK Dharmasena
+info,umpire,RA Kettleborough
+info,reserve_umpire,GC Joshua
+info,tv_umpire,JD Ward
+info,match_referee,RS Mahanama
+info,outcome,draw
+info,player,Australia,CJL Rogers
+info,player,Australia,DA Warner
+info,player,Australia,SR Watson
+info,player,Australia,SPD Smith
+info,player,Australia,SE Marsh
+info,player,Australia,JA Burns
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,RJ Harris
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,player,India,M Vijay
+info,player,India,S Dhawan
+info,player,India,CA Pujara
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,KL Rahul
+info,player,India,MS Dhoni
+info,player,India,R Ashwin
+info,player,India,Mohammed Shami
+info,player,India,UT Yadav
+info,player,India,I Sharma
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CJL Rogers,d8360178
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GC Joshua,4c47ebf2
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JD Ward,511299c1
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Harris,12eddf28
+info,registry,people,RS Mahanama,57910393
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88

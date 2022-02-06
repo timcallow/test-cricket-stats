@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,India
+info,gender,male
+info,season,2004/05
+info,date,2004/11/28
+info,date,2004/11/29
+info,date,2004/11/30
+info,date,2004/12/01
+info,date,2004/12/02
+info,event,South Africa tour of India
+info,match_number,2
+info,venue,Eden Gardens
+info,city,Kolkata
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,Harbhajan Singh
+info,umpire,DJ Harper
+info,umpire,SJA Taufel
+info,tv_umpire,I Shivram
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_wickets,8
+info,player,South Africa,GC Smith
+info,player,South Africa,AJ Hall
+info,player,South Africa,JA Rudolph
+info,player,South Africa,JH Kallis
+info,player,South Africa,HM Amla
+info,player,South Africa,HH Dippenaar
+info,player,South Africa,Z de Bruyn
+info,player,South Africa,SM Pollock
+info,player,South Africa,JL Ontong
+info,player,South Africa,TL Tsolekile
+info,player,South Africa,M Ntini
+info,player,India,V Sehwag
+info,player,India,G Gambhir
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,SC Ganguly
+info,player,India,VVS Laxman
+info,player,India,KD Karthik
+info,player,India,IK Pathan
+info,player,India,A Kumble
+info,player,India,Harbhajan Singh
+info,player,India,Z Khan
+info,registry,people,A Kumble,0c2730df
+info,registry,people,AJ Hall,6b0c3a20
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HM Amla,e798611a
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,I Shivram,85143097
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JL Ontong,55f33b32
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,M Ntini,20a941bb
+info,registry,people,R Dravid,0184dc35
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,TL Tsolekile,3b94297b
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Z Khan,91a4a398
+info,registry,people,Z de Bruyn,c85bcfad

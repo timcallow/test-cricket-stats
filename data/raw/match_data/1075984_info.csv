@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2017/18
+info,date,2018/03/22
+info,date,2018/03/23
+info,date,2018/03/24
+info,date,2018/03/25
+info,event,Australia tour of South Africa
+info,match_number,3
+info,venue,Newlands
+info,city,Cape Town
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,M Morkel
+info,umpire,RK Illingworth
+info,umpire,NJ Llong
+info,reserve_umpire,A Paleker
+info,tv_umpire,IJ Gould
+info,match_referee,AJ Pycroft
+info,winner,South Africa
+info,winner_runs,322
+info,player,South Africa,AK Markram
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,K Rabada
+info,player,South Africa,KA Maharaj
+info,player,South Africa,M Morkel
+info,player,Australia,CT Bancroft
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,SPD Smith
+info,player,Australia,SE Marsh
+info,player,Australia,MR Marsh
+info,player,Australia,TD Paine
+info,player,Australia,PJ Cummins
+info,player,Australia,MA Starc
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HM Amla,e798611a
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TD Paine,5748e866
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,VD Philander,cfe70281

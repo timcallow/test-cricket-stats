@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,England
+info,gender,male
+info,season,2017
+info,date,2017/09/07
+info,date,2017/09/08
+info,date,2017/09/09
+info,event,West Indies tour of England
+info,match_number,3
+info,venue,Lord's
+info,city,London
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,BA Stokes
+info,umpire,CB Gaffaney
+info,umpire,M Erasmus
+info,reserve_umpire,RT Robinson
+info,tv_umpire,S Ravi
+info,match_referee,DC Boon
+info,winner,England
+info,winner_wickets,9
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,KOA Powell
+info,player,West Indies,KA Hope
+info,player,West Indies,SD Hope
+info,player,West Indies,RL Chase
+info,player,West Indies,J Blackwood
+info,player,West Indies,SO Dowrich
+info,player,West Indies,JO Holder
+info,player,West Indies,D Bishoo
+info,player,West Indies,KAJ Roach
+info,player,West Indies,ST Gabriel
+info,player,England,AN Cook
+info,player,England,MD Stoneman
+info,player,England,T Westley
+info,player,England,JE Root
+info,player,England,DJ Malan
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,TS Roland-Jones
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Hope,c59d8f8a
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MM Ali,bb351c23
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RT Robinson,b143c87d
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,T Westley,25a42048
+info,registry,people,TS Roland-Jones,6c6aca89

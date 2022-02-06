@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Bangladesh
+info,gender,male
+info,season,2010
+info,date,2010/06/04
+info,date,2010/06/05
+info,date,2010/06/06
+info,event,Bangladesh in England Test Series
+info,match_number,2
+info,venue,Old Trafford
+info,city,Manchester
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,IR Bell
+info,umpire,BF Bowden
+info,umpire,EAR de Silva
+info,reserve_umpire,NA Mallender
+info,tv_umpire,RA Kettleborough
+info,match_referee,AG Hurst
+info,winner,England
+info,winner_innings,1
+info,winner_runs,80
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Junaid Siddique
+info,player,Bangladesh,Jahurul Islam
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Shafiul Islam
+info,player,Bangladesh,Abdur Razzak
+info,player,Bangladesh,Shahadat Hossain
+info,player,England,AJ Strauss
+info,player,England,AN Cook
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,EJG Morgan
+info,player,England,MJ Prior
+info,player,England,GP Swann
+info,player,England,A Shahzad
+info,player,England,JM Anderson
+info,player,England,ST Finn
+info,registry,people,A Shahzad,a73321d3
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Abdur Razzak,888e32bf
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,Jahurul Islam,6752c57b
+info,registry,people,Junaid Siddique,62e203d4
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,KR Brown,818c9e0d
+info,registry,people,MJ Prior,1200550f
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,Shafiul Islam,1a8eebbe
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Tamim Iqbal,3b041a12

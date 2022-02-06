@@ -1,0 +1,74 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,South Africa
+info,gender,male
+info,season,2011/12
+info,date,2012/03/23
+info,date,2012/03/24
+info,date,2012/03/25
+info,date,2012/03/26
+info,date,2012/03/27
+info,event,South Africa in New Zealand Test Series
+info,match_number,3
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,M Morkel
+info,umpire,Aleem Dar
+info,umpire,RA Kettleborough
+info,reserve_umpire,AL Hill
+info,tv_umpire,BR Doctrove
+info,match_referee,RS Madugalle
+info,outcome,draw
+info,player,New Zealand,DR Flynn
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,DG Brownlie
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,CFK van Wyk
+info,player,New Zealand,DAJ Bracewell
+info,player,New Zealand,MR Gillespie
+info,player,New Zealand,CS Martin
+info,player,South Africa,GC Smith
+info,player,South Africa,AN Petersen
+info,player,South Africa,HM Amla
+info,player,South Africa,JP Duminy
+info,player,South Africa,AB de Villiers
+info,player,South Africa,JA Rudolph
+info,player,South Africa,MV Boucher
+info,player,South Africa,DW Steyn
+info,player,South Africa,VD Philander
+info,player,South Africa,M Morkel
+info,player,South Africa,M de Lange
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AL Hill,4165ced0
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CFK van Wyk,24fd039c
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HM Amla,e798611a
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MR Gillespie,7d7ab238
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,VD Philander,cfe70281

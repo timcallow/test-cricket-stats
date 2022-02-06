@@ -1,0 +1,71 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,India
+info,gender,male
+info,season,2015
+info,date,2015/06/10
+info,date,2015/06/11
+info,date,2015/06/12
+info,date,2015/06/13
+info,date,2015/06/14
+info,venue,Khan Shaheb Osman Ali Stadium
+info,city,Fatullah
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,S Dhawan
+info,umpire,HDPK Dharmasena
+info,umpire,NJ Llong
+info,reserve_umpire,Enamul Haque
+info,tv_umpire,Sharfuddoula
+info,match_referee,AJ Pycroft
+info,outcome,draw
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Shuvagata Hom
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Mohammad Shahid
+info,player,Bangladesh,Jubair Hossain
+info,player,India,M Vijay
+info,player,India,S Dhawan
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,WP Saha
+info,player,India,R Ashwin
+info,player,India,Harbhajan Singh
+info,player,India,UT Yadav
+info,player,India,I Sharma
+info,player,India,VR Aaron
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AM Rahane,29e95537
+info,registry,people,Enamul Haque,2ae9be7f
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Jubair Hossain,902d916b
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Vijay,4b57e452
+info,registry,people,Mohammad Shahid,c285c86e
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NJ Llong,573fb985
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RG Sharma,740742ef
+info,registry,people,S Dhawan,0a476045
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VR Aaron,0a3d54b9
+info,registry,people,WP Saha,fe11caa6

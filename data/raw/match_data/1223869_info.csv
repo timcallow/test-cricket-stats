@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2020/21
+info,date,2020/12/17
+info,date,2020/12/18
+info,date,2020/12/19
+info,event,India tour of Australia
+info,match_number,1
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,TD Paine
+info,umpire,BNJ Oxenford
+info,umpire,PR Reiffel
+info,reserve_umpire,GA Abood
+info,tv_umpire,RJ Tucker
+info,match_referee,DC Boon
+info,winner,Australia
+info,winner_wickets,8
+info,player,India,PP Shaw
+info,player,India,MA Agarwal
+info,player,India,CA Pujara
+info,player,India,JJ Bumrah
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,GH Vihari
+info,player,India,WP Saha
+info,player,India,R Ashwin
+info,player,India,UT Yadav
+info,player,India,Mohammed Shami
+info,player,Australia,MS Wade
+info,player,Australia,JA Burns
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,TM Head
+info,player,Australia,C Green
+info,player,Australia,TD Paine
+info,player,Australia,PJ Cummins
+info,player,Australia,MA Starc
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,registry,people,AM Rahane,29e95537
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,GA Abood,a4af5528
+info,registry,people,GH Vihari,94253925
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TD Paine,5748e866
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WP Saha,fe11caa6

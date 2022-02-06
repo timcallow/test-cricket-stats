@@ -1,0 +1,72 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,West Indies
+info,gender,male
+info,season,2018/19
+info,date,2018/11/22
+info,date,2018/11/23
+info,date,2018/11/24
+info,event,West Indies tour of Bangladesh
+info,match_number,1
+info,venue,Zahur Ahmed Chowdhury Stadium
+info,city,Chattogram
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Mominul Haque
+info,umpire,Aleem Dar
+info,umpire,RK Illingworth
+info,reserve_umpire,Masudur Rahman
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,DC Boon
+info,winner,Bangladesh
+info,winner_runs,64
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mohammad Mithun
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Nayeem Hasan
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,KOA Powell
+info,player,West Indies,SD Hope
+info,player,West Indies,SW Ambris
+info,player,West Indies,RL Chase
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,SO Dowrich
+info,player,West Indies,D Bishoo
+info,player,West Indies,KAJ Roach
+info,player,West Indies,JA Warrican
+info,player,West Indies,ST Gabriel
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JA Warrican,cc23e91e
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nayeem Hasan,1670dcfd
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,SW Ambris,c7f6dd3b
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taijul Islam,9d1d34bd

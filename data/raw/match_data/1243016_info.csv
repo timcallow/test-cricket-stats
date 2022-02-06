@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,England
+info,gender,male
+info,season,2020/21
+info,date,2021/01/22
+info,date,2021/01/23
+info,date,2021/01/24
+info,date,2021/01/25
+info,event,England tour of Sri Lanka
+info,match_number,2
+info,venue,Galle International Stadium
+info,city,Galle
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,JE Root
+info,umpire,HDPK Dharmasena
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,RR Wimalasiri
+info,tv_umpire,LE Hannibal
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_wickets,6
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,BOP Fernando
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,RTM Mendis
+info,player,Sri Lanka,MDK Perera
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,L Embuldeniya
+info,player,Sri Lanka,AM Fernando
+info,player,England,Z Crawley
+info,player,England,DP Sibley
+info,player,England,JM Bairstow
+info,player,England,JE Root
+info,player,England,DW Lawrence
+info,player,England,JC Buttler
+info,player,England,SM Curran
+info,player,England,DM Bess
+info,player,England,MA Wood
+info,player,England,MJ Leach
+info,player,England,JM Anderson
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AM Fernando,de3d549a
+info,registry,people,BOP Fernando,1d048deb
+info,registry,people,DM Bess,ad46c747
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,L Embuldeniya,b54b66b3
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MDK Perera,5531248e
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MJ Leach,3987e390
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,RTM Mendis,1be67d37
+info,registry,people,SM Curran,e94915e6
+info,registry,people,Z Crawley,922e1b19

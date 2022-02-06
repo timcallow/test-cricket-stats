@@ -1,0 +1,73 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,England
+info,gender,male
+info,season,2021
+info,date,2021/06/02
+info,date,2021/06/03
+info,date,2021/06/04
+info,date,2021/06/05
+info,date,2021/06/06
+info,event,New Zealand tour of England
+info,match_number,1
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,DP Conway
+info,umpire,MA Gough
+info,umpire,RA Kettleborough
+info,reserve_umpire,M Burns
+info,tv_umpire,RK Illingworth
+info,match_referee,BC Broad
+info,outcome,draw
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,DP Conway
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,KA Jamieson
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,England,RJ Burns
+info,player,England,DP Sibley
+info,player,England,Z Crawley
+info,player,England,JE Root
+info,player,England,OJ Pope
+info,player,England,DW Lawrence
+info,player,England,James Bracey
+info,player,England,OE Robinson
+info,player,England,MA Wood
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BJ Watling,928670cc
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,DP Conway,df5a6881
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,N Wagner,78adc879
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,Z Crawley,922e1b19

@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,South Africa
+info,gender,male
+info,season,2016/17
+info,date,2016/11/12
+info,date,2016/11/13
+info,date,2016/11/14
+info,date,2016/11/15
+info,event,South Africa in Australia Test Series
+info,match_number,2
+info,venue,Bellerive Oval
+info,city,Hobart
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,KJ Abbott
+info,umpire,Aleem Dar
+info,umpire,RA Kettleborough
+info,reserve_umpire,MD Martell
+info,tv_umpire,NJ Llong
+info,match_referee,AJ Pycroft
+info,winner,South Africa
+info,winner_innings,1
+info,winner_runs,80
+info,player,Australia,DA Warner
+info,player,Australia,JA Burns
+info,player,Australia,UT Khawaja
+info,player,Australia,SPD Smith
+info,player,Australia,AC Voges
+info,player,Australia,CJ Ferguson
+info,player,Australia,PM Nevill
+info,player,Australia,JM Mennie
+info,player,Australia,MA Starc
+info,player,Australia,JR Hazlewood
+info,player,Australia,NM Lyon
+info,player,South Africa,SC Cook
+info,player,South Africa,D Elgar
+info,player,South Africa,HM Amla
+info,player,South Africa,JP Duminy
+info,player,South Africa,F du Plessis
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,VD Philander
+info,player,South Africa,KA Maharaj
+info,player,South Africa,KJ Abbott
+info,player,South Africa,K Rabada
+info,registry,people,AC Voges,864c199e
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,CJ Ferguson,9b4935c8
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HM Amla,e798611a
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JM Mennie,f048bb41
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MD Martell,487c072e
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PM Nevill,a22fb7b5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,SC Cook,13bee186
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,VD Philander,cfe70281

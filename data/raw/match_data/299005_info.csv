@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Pakistan
+info,gender,male
+info,season,2007/08
+info,date,2007/10/08
+info,date,2007/10/09
+info,date,2007/10/10
+info,date,2007/10/11
+info,date,2007/10/12
+info,event,South Africa tour of Pakistan
+info,match_number,2
+info,venue,Gaddafi Stadium
+info,city,Lahore
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,JH Kallis
+info,umpire,MR Benson
+info,umpire,SJA Taufel
+info,reserve_umpire,Iftikhar Malik
+info,tv_umpire,Nadeem Ghauri
+info,match_referee,AG Hurst
+info,outcome,draw
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,HM Amla
+info,player,South Africa,JH Kallis
+info,player,South Africa,AG Prince
+info,player,South Africa,AB de Villiers
+info,player,South Africa,MV Boucher
+info,player,South Africa,PL Harris
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Ntini
+info,player,South Africa,A Nel
+info,player,Pakistan,Salman Butt
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Mohammad Yousuf
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Mohammad Asif
+info,player,Pakistan,Danish Kaneria
+info,player,Pakistan,Abdur Rehman
+info,registry,people,A Nel,2503e881
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,AG Prince,035cb925
+info,registry,people,Abdur Rehman,d094e7d1
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HM Amla,e798611a
+info,registry,people,Iftikhar Malik,f6447140
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MR Benson,790e14d3
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Asif,e03b66ec
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,Nadeem Ghauri,8387d138
+info,registry,people,PL Harris,fd093ca9
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,Salman Butt,4d6d6280
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Yasir Hameed,f144d99b
+info,registry,people,Younis Khan,33cb3411

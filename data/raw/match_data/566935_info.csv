@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2013
+info,date,2013/08/09
+info,date,2013/08/10
+info,date,2013/08/11
+info,date,2013/08/12
+info,event,The Ashes
+info,match_number,4
+info,venue,Riverside Ground
+info,city,Chester-le-Street
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,SCJ Broad
+info,umpire,Aleem Dar
+info,umpire,AL Hill
+info,reserve_umpire,MA Gough
+info,tv_umpire,M Erasmus
+info,match_referee,RS Mahanama
+info,winner,England
+info,winner_runs,74
+info,player,Australia,CJL Rogers
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,MJ Clarke
+info,player,Australia,SPD Smith
+info,player,Australia,SR Watson
+info,player,Australia,BJ Haddin
+info,player,Australia,PM Siddle
+info,player,Australia,RJ Harris
+info,player,Australia,NM Lyon
+info,player,Australia,JM Bird
+info,player,England,AN Cook
+info,player,England,JE Root
+info,player,England,IJL Trott
+info,player,England,KP Pietersen
+info,player,England,IR Bell
+info,player,England,JM Bairstow
+info,player,England,MJ Prior
+info,player,England,TT Bresnan
+info,player,England,SCJ Broad
+info,player,England,GP Swann
+info,player,England,JM Anderson
+info,registry,people,AL Hill,4165ced0
+info,registry,people,AN Cook,f41598c1
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,CJL Rogers,d8360178
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GP Swann,221ad9d9
+info,registry,people,IJL Trott,ac7fa28f
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ Prior,1200550f
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RJ Harris,12eddf28
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,TT Bresnan,58043739
+info,registry,people,UT Khawaja,331ea488

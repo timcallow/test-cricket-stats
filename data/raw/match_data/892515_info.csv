@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,West Indies
+info,gender,male
+info,season,2015/16
+info,date,2015/12/10
+info,date,2015/12/11
+info,date,2015/12/12
+info,event,The Frank Worrell Trophy
+info,match_number,1
+info,venue,Bellerive Oval
+info,city,Hobart
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,AC Voges
+info,umpire,M Erasmus
+info,umpire,IJ Gould
+info,reserve_umpire,P Wilson
+info,tv_umpire,CB Gaffaney
+info,match_referee,BC Broad
+info,winner,Australia
+info,winner_innings,1
+info,winner_runs,212
+info,player,Australia,JA Burns
+info,player,Australia,DA Warner
+info,player,Australia,SPD Smith
+info,player,Australia,AC Voges
+info,player,Australia,SE Marsh
+info,player,Australia,MR Marsh
+info,player,Australia,PM Nevill
+info,player,Australia,PM Siddle
+info,player,Australia,JL Pattinson
+info,player,Australia,JR Hazlewood
+info,player,Australia,NM Lyon
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,R Chandrika
+info,player,West Indies,DM Bravo
+info,player,West Indies,MN Samuels
+info,player,West Indies,J Blackwood
+info,player,West Indies,D Ramdin
+info,player,West Indies,JO Holder
+info,player,West Indies,KAJ Roach
+info,player,West Indies,JE Taylor
+info,player,West Indies,JA Warrican
+info,player,West Indies,ST Gabriel
+info,registry,people,AC Voges,864c199e
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JA Warrican,cc23e91e
+info,registry,people,JE Taylor,4180d897
+info,registry,people,JL Pattinson,f752db61
+info,registry,people,JO Holder,0f721006
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,P Wilson,68304a36
+info,registry,people,PM Nevill,a22fb7b5
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,R Chandrika,0ef64bba
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,ST Gabriel,d9609443

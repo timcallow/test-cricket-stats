@@ -1,0 +1,75 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,West Indies
+info,gender,male
+info,season,2005/06
+info,date,2006/03/09
+info,date,2006/03/10
+info,date,2006/03/11
+info,date,2006/03/12
+info,date,2006/03/13
+info,event,West Indies tour of New Zealand
+info,match_number,1
+info,venue,Eden Park
+info,city,Auckland
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,SE Bond
+info,umpire,RE Koertzen
+info,umpire,DJ Harper
+info,tv_umpire,GAV Baxter
+info,match_referee,MJ Procter
+info,winner,New Zealand
+info,winner_runs,27
+info,player,New Zealand,HJH Marshall
+info,player,New Zealand,JM How
+info,player,New Zealand,PG Fulton
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,SB Styris
+info,player,New Zealand,JEC Franklin
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,SE Bond
+info,player,New Zealand,CS Martin
+info,player,West Indies,CH Gayle
+info,player,West Indies,D Ganga
+info,player,West Indies,RR Sarwan
+info,player,West Indies,BC Lara
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DJ Bravo
+info,player,West Indies,DR Smith
+info,player,West Indies,D Ramdin
+info,player,West Indies,IDR Bradshaw
+info,player,West Indies,JE Taylor
+info,player,West Indies,FH Edwards
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BC Lara,d5403021
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,Carl Cachopa,7112662b
+info,registry,people,D Ganga,d5f3b5e1
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Smith,35205dfc
+info,registry,people,DS Smith,85ad2217
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HJH Marshall,70542bef
+info,registry,people,IDR Bradshaw,a7489342
+info,registry,people,JE Taylor,4180d897
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,JM How,fd8f11e9
+info,registry,people,MJ Procter,32e65048
+info,registry,people,NJ Astle,99639abf
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Morton,2f8a9682
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SE Bond,4f629497
+info,registry,people,SP Fleming,eea6b7f1

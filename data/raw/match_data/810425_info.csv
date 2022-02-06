@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Australia
+info,gender,male
+info,season,2015
+info,date,2015/06/11
+info,date,2015/06/12
+info,date,2015/06/13
+info,date,2015/06/14
+info,event,The Frank Worrell Trophy
+info,match_number,2
+info,venue,"Sabina Park, Kingston"
+info,city,Jamaica
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,SPD Smith
+info,umpire,IJ Gould
+info,umpire,RA Kettleborough
+info,reserve_umpire,PJ Nero
+info,tv_umpire,Aleem Dar
+info,match_referee,RS Mahanama
+info,winner,Australia
+info,winner_runs,277
+info,player,Australia,DA Warner
+info,player,Australia,SE Marsh
+info,player,Australia,SPD Smith
+info,player,Australia,MJ Clarke
+info,player,Australia,AC Voges
+info,player,Australia,SR Watson
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,MA Starc
+info,player,Australia,JR Hazlewood
+info,player,Australia,NM Lyon
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,R Chandrika
+info,player,West Indies,DM Bravo
+info,player,West Indies,SO Dowrich
+info,player,West Indies,SD Hope
+info,player,West Indies,J Blackwood
+info,player,West Indies,D Ramdin
+info,player,West Indies,JO Holder
+info,player,West Indies,V Permaul
+info,player,West Indies,KAJ Roach
+info,player,West Indies,JE Taylor
+info,registry,people,AC Voges,864c199e
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,JE Taylor,4180d897
+info,registry,people,JO Holder,0f721006
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Nero,925d2e93
+info,registry,people,R Chandrika,0ef64bba
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SO Dowrich,dc2f959a
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,V Permaul,78dfe704

@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,Pakistan
+info,gender,male
+info,season,2015/16
+info,date,2015/10/13
+info,date,2015/10/14
+info,date,2015/10/15
+info,date,2015/10/16
+info,date,2015/10/17
+info,event,Pakistan v England Test Series
+info,match_number,1
+info,venue,Sheikh Zayed Stadium
+info,city,Abu Dhabi
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,AN Cook
+info,umpire,BNJ Oxenford
+info,umpire,PR Reiffel
+info,reserve_umpire,Shozab Raza
+info,tv_umpire,S Ravi
+info,match_referee,AJ Pycroft
+info,outcome,draw
+info,player,England,AN Cook
+info,player,England,MM Ali
+info,player,England,IR Bell
+info,player,England,MA Wood
+info,player,England,JE Root
+info,player,England,JM Bairstow
+info,player,England,BA Stokes
+info,player,England,JC Buttler
+info,player,England,AU Rashid
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Sarfraz Ahmed
+info,player,Pakistan,Wahab Riaz
+info,player,Pakistan,Zulfiqar Babar
+info,player,Pakistan,Rahat Ali
+info,player,Pakistan,Imran Khan (2)
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AN Cook,f41598c1
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,IR Bell,33155d1b
+info,registry,people,Imran Khan (2),2b0f2af3
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Rahat Ali,a63775d6
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,Wahab Riaz,b3118300
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Zulfiqar Babar,3a0f6df2

@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,male
+info,season,2017/18
+info,date,2018/03/30
+info,date,2018/03/31
+info,date,2018/04/01
+info,date,2018/04/02
+info,date,2018/04/03
+info,event,England tour of Australia and New Zealand
+info,match_number,2
+info,venue,Hagley Oval
+info,city,Christchurch
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,TG Southee
+info,umpire,BNJ Oxenford
+info,umpire,M Erasmus
+info,reserve_umpire,SB Haig
+info,tv_umpire,PR Reiffel
+info,match_referee,RB Richardson
+info,outcome,draw
+info,player,England,AN Cook
+info,player,England,MD Stoneman
+info,player,England,JM Vince
+info,player,England,JE Root
+info,player,England,DJ Malan
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,SCJ Broad
+info,player,England,MA Wood
+info,player,England,MJ Leach
+info,player,England,JM Anderson
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,JA Raval
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,LRPL Taylor
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,BJ Watling
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,N Wagner
+info,player,New Zealand,TG Southee
+info,player,New Zealand,TA Boult
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MJ Leach,3987e390
+info,registry,people,N Wagner,78adc879
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,SB Haig,811655b3
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee

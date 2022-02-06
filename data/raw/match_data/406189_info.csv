@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Australia
+info,team,West Indies
+info,gender,male
+info,season,2009/10
+info,date,2009/11/26
+info,date,2009/11/27
+info,date,2009/11/28
+info,event,The Frank Worrell Trophy
+info,match_number,1
+info,venue,"Brisbane Cricket Ground, Woolloongabba"
+info,city,Brisbane
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,BW Hilfenhaus
+info,umpire,Asad Rauf
+info,umpire,IJ Gould
+info,reserve_umpire,PR Reiffel
+info,tv_umpire,MR Benson
+info,match_referee,BC Broad
+info,winner,Australia
+info,winner_innings,1
+info,winner_runs,65
+info,player,Australia,SR Watson
+info,player,Australia,SM Katich
+info,player,Australia,RT Ponting
+info,player,Australia,MEK Hussey
+info,player,Australia,MJ Clarke
+info,player,Australia,MJ North
+info,player,Australia,BJ Haddin
+info,player,Australia,MG Johnson
+info,player,Australia,NM Hauritz
+info,player,Australia,PM Siddle
+info,player,Australia,BW Hilfenhaus
+info,player,West Indies,CH Gayle
+info,player,West Indies,AB Barath
+info,player,West Indies,TM Dowlin
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DJ Bravo
+info,player,West Indies,BP Nash
+info,player,West Indies,D Ramdin
+info,player,West Indies,SJ Benn
+info,player,West Indies,JE Taylor
+info,player,West Indies,KAJ Roach
+info,player,West Indies,R Rampaul
+info,registry,people,AB Barath,d3a3e82d
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,BP Nash,749a1b3a
+info,registry,people,BW Hilfenhaus,f3171936
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JE Taylor,4180d897
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MG Johnson,f5180fe6
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,MJ North,99464591
+info,registry,people,MR Benson,790e14d3
+info,registry,people,NM Hauritz,8ea6e670
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SJ Benn,364ee2cf
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,TM Dowlin,24ecc358

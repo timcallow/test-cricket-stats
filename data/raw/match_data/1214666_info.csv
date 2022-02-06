@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Zimbabwe
+info,gender,male
+info,season,2019/20
+info,date,2020/02/22
+info,date,2020/02/23
+info,date,2020/02/24
+info,date,2020/02/25
+info,event,Zimbabwe tour of Bangladesh
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,Mushfiqur Rahim
+info,umpire,JS Wilson
+info,umpire,PR Reiffel
+info,reserve_umpire,Sharfuddoula
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,JJ Crowe
+info,winner,Bangladesh
+info,winner_innings,1
+info,winner_runs,106
+info,player,Zimbabwe,PS Masvaure
+info,player,Zimbabwe,KT Kasuza
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,T Maruma
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,A Ndlovu
+info,player,Zimbabwe,CK Tshuma
+info,player,Zimbabwe,VM Nyauchi
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Saif Hassan
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mohammad Mithun
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Nayeem Hasan
+info,player,Bangladesh,Ebadat Hossain
+info,player,Bangladesh,Abu Jayed
+info,registry,people,A Ndlovu,3abe1ef6
+info,registry,people,Abu Jayed,1bb0993e
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,CK Tshuma,f6571355
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KT Kasuza,8f93efd3
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nayeem Hasan,1670dcfd
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,PS Masvaure,c4d740b3
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Maruma,f55c526f
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,VM Nyauchi,1bd16445

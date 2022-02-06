@@ -1,0 +1,73 @@
+version,2.1.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Bangladesh
+info,gender,male
+info,season,2007/08
+info,date,2008/01/12
+info,date,2008/01/13
+info,date,2008/01/14
+info,event,Bangladesh in New Zealand Test Series
+info,match_number,2
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,DL Vettori
+info,umpire,NJ Llong
+info,umpire,PD Parker
+info,reserve_umpire,EJ Gray
+info,tv_umpire,GAV Baxter
+info,match_referee,BC Broad
+info,winner,New Zealand
+info,winner_innings,1
+info,winner_runs,137
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Junaid Siddique
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Shahriar Nafees
+info,player,Bangladesh,Aftab Ahmed
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Sajedul Islam
+info,player,Bangladesh,Mashrafe Mortaza
+info,player,New Zealand,CD Cumming
+info,player,New Zealand,MD Bell
+info,player,New Zealand,PG Fulton
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,MS Sinclair
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,KD Mills
+info,player,New Zealand,IE O'Brien
+info,player,New Zealand,CS Martin
+info,registry,people,Aftab Ahmed,53bc7b84
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CD Cumming,463cd7cb
+info,registry,people,CS Martin,05e0fab5
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,EJ Gray,a3551031
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,IE O'Brien,78f34e15
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,Junaid Siddique,62e203d4
+info,registry,people,KD Mills,7fb32e5b
+info,registry,people,MD Bell,4921afa2
+info,registry,people,MS Sinclair,1b668884
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PD Parker,439aa572
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,Sajedul Islam,0443414a
+info,registry,people,Shahadat Hossain,090f9211
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Tamim Iqbal,3b041a12
