@@ -135,34 +135,37 @@ def get_rankings_data(year, month, datadir="../../data/raw/"):
     return df
 
 
-def get_match_data(filename, datadir='../../data/raw/match_data/'):
+def get_match_data(filename, datadir="../../data/raw/match_data/"):
 
-    with open(datadir+filename, 'r') as f:
+    with open(datadir + filename, "r") as f:
         lines = f.readlines()
 
-    team_count=0
-    teams=['a','b']
+    team_count = 0
+    teams = ["a", "b"]
     for line in lines:
 
-        if "info,team" in line:
+        if "info,team," in line:
             team = line.split(",")[2]
-            teams[team_count]=team
-            team_count+=1
-        
+            teams[team_count] = team
+            team_count += 1
+
         if "info,date" in line:
             dateraw = line.split(",")[2]
             print(dateraw)
-        
-        if "info,winner" in line:
+
+        if "info,winner," in line:
             result = line.split(",")[2]
-        elif "info,outcome" in line:
+        elif "info,outcome," in line:
             result = line.split(",")[2]
 
-        if "info,toss_winner" in line:
+        if "info,toss_winner," in line:
             toss_winner = line.split(",")[2]
 
     print(teams)
+    print(result)
+    print(toss_winner)
     return
+
 
 # tests
 test_teams = [
@@ -185,6 +188,6 @@ month = "MAY"
 start_year = 2003
 end_year = 2013
 
-#download_rankings_data(start_year, end_year)
-#dfs_to_csv(start_year, end_year)
+# download_rankings_data(start_year, end_year)
+# dfs_to_csv(start_year, end_year)
 get_match_data("995455_info.csv")
