@@ -33,6 +33,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import os
+from datetime import datetime
 
 
 def download_rankings_data(year_start, year_end, outdir="../../data/raw/"):
@@ -123,6 +124,7 @@ def get_rankings_data(year, month, datadir="../../data/raw/"):
 
     month_list = len(team_list) * [month]
     year_list = len(team_list) * [year]
+
     output_dict = {
         "year": year_list,
         "month": month_list,
@@ -135,7 +137,11 @@ def get_rankings_data(year, month, datadir="../../data/raw/"):
     return df
 
 
-def get_match_data(filename, datadir="../../data/raw/match_data/"):
+def get_match_data(
+    filename,
+    datadir="../../data/raw/match_data/",
+    venue_file="../../data/processed/venue_info.csv",
+):
 
     with open(datadir + filename, "r") as f:
         lines = f.readlines()
@@ -146,25 +152,87 @@ def get_match_data(filename, datadir="../../data/raw/match_data/"):
 
         if "info,team," in line:
             team = line.split(",")[2]
-            teams[team_count] = team
+            teams[team_count] = team[:-1]
             team_count += 1
 
         if "info,date" in line:
-            dateraw = line.split(",")[2]
-            print(dateraw)
+            dateraw = line.split(",")[2][:-1]
 
         if "info,winner," in line:
-            result = line.split(",")[2]
+            result = line.split(",")[2].strip()
         elif "info,outcome," in line:
-            result = line.split(",")[2]
+            result = line.split(",")[2].strip()
 
         if "info,toss_winner," in line:
-            toss_winner = line.split(",")[2]
+            toss_winner = line.split(",")[2].strip()
 
-    print(teams)
-    print(result)
-    print(toss_winner)
-    return
+        if "info,venue," in line:
+            venue = line.split(",")[2][:-1]
+            df_venues = pd.read_csv(venue_file)
+            home_team = df_venues.loc[venue].country
+
+    teams.remove(home_team)
+    away_team = teams[0]
+
+    if result == home_team:
+        result = "home"
+    elif result == away_team:
+        result = "away"
+    if toss_winner == home_team:
+        toss_winner = "home"
+    elif toss_winner == away_team:
+        toss_winner = "away"
+
+    return [dateraw, home_team, away_team, result, toss_winner]
+
+
+def merge_match_ranking_data(
+    filename, rank_data_dir="../../data/processed/rankings_data.csv"
+):
+
+    match_data = get_match_data(filename)
+
+    dateraw = match_data[0]
+    home_team = match_data[1]
+    away_team = match_data[2]
+
+    date = datetime.strptime(dateraw, "%Y/%m/%d")
+
+    month = date.strftime("%B").upper()
+    year = date.year
+
+    df_rankings = pd.read_csv(rank_data_dir)
+    home_info = df_rankings.loc[
+        (df_rankings["month"] == month)
+        & (df_rankings["year"] == year)
+        & (df_rankings["team"] == home_team)
+    ]
+
+    away_info = df_rankings.loc[
+        (df_rankings["month"] == month)
+        & (df_rankings["year"] == year)
+        & (df_rankings["team"] == away_team)
+    ]
+
+    home_rank = int(home_info.ranking)
+    home_rating = float(home_info.rating)
+    away_rank = int(away_info.ranking)
+    away_rating = float(away_info.rating)
+
+    data_dict = {
+        "date": dateraw,
+        "home_team": home_team,
+        "away_team": away_team,
+        "result": match_data[3],
+        "toss": match_data[4],
+        "home_rank": home_rank,
+        "home_rating": home_rating,
+        "away_rank": away_rank,
+        "away_rating": away_rating,
+    }
+    df_out = pd.DataFrame(data=data_dict, index=[0])
+
+    return df_out
 
 
 # tests
@@ -190,4 +258,4 @@ end_year = 2013
 
 # download_rankings_data(start_year, end_year)
 # dfs_to_csv(start_year, end_year)
-get_match_data("995455_info.csv")
+print(merge_match_ranking_data("258459_info.csv"))
