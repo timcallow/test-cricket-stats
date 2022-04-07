@@ -33,7 +33,9 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import os
+import glob
 from datetime import datetime
+from datetime import date as dtdate
 
 
 def download_rankings_data(year_start, year_end, outdir="../../data/raw/"):
@@ -139,11 +141,10 @@ def get_rankings_data(year, month, datadir="../../data/raw/"):
 
 def get_match_data(
     filename,
-    datadir="../../data/raw/match_data/",
     venue_file="../../data/processed/venue_info.csv",
 ):
 
-    with open(datadir + filename, "r") as f:
+    with open(filename, "r") as f:
         lines = f.readlines()
 
     team_count = 0
@@ -152,11 +153,11 @@ def get_match_data(
 
         if "info,team," in line:
             team = line.split(",")[2]
-            teams[team_count] = team[:-1]
+            teams[team_count] = team.strip()
             team_count += 1
 
         if "info,date" in line:
-            dateraw = line.split(",")[2][:-1]
+            dateraw = line.split(",")[2].strip()
 
         if "info,winner," in line:
             result = line.split(",")[2].strip()
@@ -167,7 +168,8 @@ def get_match_data(
             toss_winner = line.split(",")[2].strip()
 
         if "info,venue," in line:
-            venue = line.split(",")[2][:-1]
+            venue = "".join(line.split(",")[2:])
+            venue = venue.strip()
             df_venues = pd.read_csv(venue_file)
             home_team = df_venues.loc[venue].country
 
@@ -187,7 +189,7 @@ def get_match_data(
 
 
 def merge_match_ranking_data(
-    filename, rank_data_dir="../../data/processed/rankings_data.csv"
+    filename, date_min, date_max, rank_data_dir="../../data/processed/rankings_data.csv"
 ):
 
     match_data = get_match_data(filename)
@@ -198,26 +200,40 @@ def merge_match_ranking_data(
 
     date = datetime.strptime(dateraw, "%Y/%m/%d")
 
-    month = date.strftime("%B").upper()
+    if date.date() < date_min or date.date() > date_max:
+        return pd.DataFrame()
+
+    month_num = date.month
+    month_str = date.strftime("%B").upper()
     year = date.year
 
     df_rankings = pd.read_csv(rank_data_dir)
-    home_info = df_rankings.loc[
-        (df_rankings["month"] == month)
-        & (df_rankings["year"] == year)
-        & (df_rankings["team"] == home_team)
-    ]
 
-    away_info = df_rankings.loc[
-        (df_rankings["month"] == month)
-        & (df_rankings["year"] == year)
-        & (df_rankings["team"] == away_team)
-    ]
+    while month_num > 0:
+        print(month_num)
+        month_str = date.strftime("%B").upper()
+        try:
+            home_info = df_rankings.loc[
+                (df_rankings["month"] == month_str)
+                & (df_rankings["year"] == year)
+                & (df_rankings["team"] == home_team)
+            ]
 
-    home_rank = int(home_info.ranking)
-    home_rating = float(home_info.rating)
-    away_rank = int(away_info.ranking)
-    away_rating = float(away_info.rating)
+            away_info = df_rankings.loc[
+                (df_rankings["month"] == month_str)
+                & (df_rankings["year"] == year)
+                & (df_rankings["team"] == away_team)
+            ]
+
+            home_rank = int(home_info.ranking)
+            home_rating = float(home_info.rating)
+            away_rank = int(away_info.ranking)
+            away_rating = float(away_info.rating)
+        except TypeError:
+            month_num -= 1
+            date = date.replace(month=month_num)
+            continue
+        break
 
     data_dict = {
         "date": dateraw,
@@ -233,6 +249,30 @@ def merge_match_ranking_data(
     df_out = pd.DataFrame(data=data_dict, index=[0])
 
     return df_out
+
+
+def agg_data_to_csv(
+    datadir="../../data/raw/match_data/",
+    outdir="../../data/processed/",
+    outfile="aggregate_data.csv",
+):
+
+    date_min = dtdate(2004, 3, 1)
+    date_max = dtdate(2013, 3, 31)
+    data_agg = pd.DataFrame()
+
+    # list of all info files
+    info_files = glob.glob(datadir + "*_info.csv")
+
+    for info_file in info_files:
+        print(info_file)
+
+        match_rank_data = merge_match_ranking_data(info_file, date_min, date_max)
+        data_agg = data_agg.append(match_rank_data, ignore_index=True)
+
+    data_agg.to_csv(outdir + outfile)
+
+    return
 
 
 # tests
@@ -258,4 +298,5 @@ end_year = 2013
 
 # download_rankings_data(start_year, end_year)
 # dfs_to_csv(start_year, end_year)
-print(merge_match_ranking_data("258459_info.csv"))
+# print(merge_match_ranking_data("258459_info.csv"))
+print(agg_data_to_csv())
