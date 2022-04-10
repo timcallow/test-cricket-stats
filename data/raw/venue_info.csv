@@ -1,4 +1,4 @@
-venue, country
+venue,country
 Western Australia Cricket Association Ground,Australia
 Bellerive Oval,Australia
 "Bellerive Oval, Hobart",Australia
@@ -9,7 +9,6 @@ Brisbane Cricket Ground,Australia
 Melbourne Cricket Ground,Australia
 Sydney Cricket Ground,Australia
 W.A.C.A. Ground,Australia
-Western Australia Cricket Association Ground,Australia
 Perth Stadium,Australia
 Manuka Oval,Australia
 Basin Reserve,New Zealand
@@ -43,7 +42,7 @@ Antigua Recreation Ground, West Indies
 "Arnos Vale Ground, Kingstown",West Indies
 "Beausejour Stadium, Gros Islet",West Indies
 Queens Sports Club,Zimbabwe
-Harare Sports Club,Zimabwe
+Harare Sports Club,Zimbabwe
 Zahur Ahmed Chowdhury Stadium,Bangladesh
 Bangabandhu National Stadium,Bangladesh
 MA Aziz Stadium,Bangladesh
@@ -76,8 +75,6 @@ Brabourne Stadium,India
 JSCA International Stadium Complex,India
 Himachal Pradesh Cricket Association Stadium,India
 "Punjab Cricket Association Stadium, Mohali",India
-"Vidarbha Cricket Association Stadium, Jamtha",India
-Arun Jaitley Stadium,India
 Feroz Shah Kotla,India
 Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India
 "Vidarbha Cricket Association Stadium, Jamtha",India
@@ -88,7 +85,6 @@ Sharjah Cricket Stadium,Pakistan
 Gaddafin Stadium,Pakistan
 Dubai International Cricket Stadium,Pakistan
 Sheikh Zayed Stadium,Pakistan
-Sharjah Cricket Stadium,Pakistan
 Rawalpindi Cricket Stadium,Pakistan
 National Stadium,Pakistan
 Multan Cricket Stadium,Pakistan
@@ -106,7 +102,7 @@ Edgbaston,England
 Headlingley,England
 "Headlingley, Leeds",England
 The Rose Bowl,England
-"The Rose Bowl,Southampton",England
+"The Rose Bowl, Southampton",England
 Sophia Gardens,England
 Senwes Park,South Africa
 Mangaung Oval,South Africa
