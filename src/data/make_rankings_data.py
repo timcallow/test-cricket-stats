@@ -7,49 +7,28 @@ import glob
 from datetime import datetime
 from datetime import date as dtdate
 import numpy as np
+import urllib
 
 
-def download_series_data():
+def series_data_to_csv(raw_path, interim_path, proc_path):
 
-    baseurl = "http://www.howstat.com/cricket/Statistics/Series/SeriesList.asp?"
-    # yranges = [
-    #     "2000010120091231&Range=2000%20to%202009",
-    #     "2010010120191231&Range=2010%20to%202019",
-    #     "2020010120291231&Range=2010%20to%202019",
-    # ]
-    yranges = ["2000010120091231&Range=2000%20to%202009"]
-    # yrange_labs = ["2000_10", "2010_19", "2020_29"]
-    yrange_labs = ["2010_19"]
-
-    for i, yrange in enumerate(yranges):
-
-        url = baseurl + yrange
-        data_page = requests.get(url)
-        soup = BeautifulSoup(data_page.content, "html.parser")
-        soup.prettify()
-
-        fname = "".join(["series_data_", yrange_labs[i], ".html"])
-
-        with open(fname, "w") as f:
-            f.write(str(soup))
-
-    return
-
-
-def series_data_to_csv():
-
-    # yrange_labs = ["2000_10", "2010_19", "2020_29"]
-    yrange_labs = ["2010_19"]
+    year_ranges = ["2000_09", "2010_19", "2020_29"]
 
     df = pd.DataFrame()
 
-    for yrange in yrange_labs:
+    for yrange in year_ranges:
 
-        fname = "".join(["series_data_", yrange, ".html"])
-        print(fname)
+        fname = "".join([raw_path, "series_data_", yrange, ".html"])
 
         with open(fname, "r") as f:
             soup = BeautifulSoup(f.read(), "html.parser")
+
+        # save a prettified version of the html file in interim data dir
+        fname = "".join([interim_path, "series_data_", yrange, ".html"])
+        soup.prettify()
+
+        with open(fname, "w") as f:
+            f.write(str(soup))
 
         for x in soup.find_all("a"):
             classname = x.get("class")
@@ -93,7 +72,8 @@ def series_data_to_csv():
                 df_tmp = pd.DataFrame(data=output_dict, index=[0])
                 df = pd.concat([df, df_tmp], ignore_index=True)
 
-    df.to_csv("../../data/interim/series_data.csv")
+    # save the dataframe
+    df.to_csv(proc_path + "series_data.csv")
 
     return
 
@@ -106,8 +86,8 @@ def init_ratings_data():
     test_teams = rankings_init.team.to_list()
 
     # get the number of matches played since May 2010
-    main_df = pd.read_csv("../../data/processed/aggregate_data.csv")
-    main_df.date = pd.to_datetime(main_df.date)
+    main_df = pd.read_csv("../../data/processed/series_data.csv")
+    main_df.date = pd.to_datetime(main_df.date, format="%d/%m/%Y")
 
     date_start = pd.to_datetime("2010/05/01")
     date_end = pd.to_datetime("2013/03/01")
@@ -120,27 +100,28 @@ def init_ratings_data():
             N_row = main_df.loc[main_df.date == date]
             home_team = N_row.home_team.values[0]
             away_team = N_row.away_team.values[0]
+            num_games = N_row.num_matches.values[0]
 
-            N_team_matches[home_team] += 1
-            N_team_matches[away_team] += 1
+            if num_games > 1:
+                N_team_matches[home_team] += num_games + 1
+                N_team_matches[away_team] += num_games + 1
 
     df_main = pd.DataFrame()
     for team in N_team_matches:
 
-        rating = rankings_init.rating[rankings_init.team == team]
-        ranking = rankings_init.ranking[rankings_init.team == team]
+        rating = rankings_init.rating[rankings_init.team == team].values[0]
+        ranking = rankings_init.ranking[rankings_init.team == team].values[0]
 
-        df_tmp = pd.DataFrame(
-            data={
-                "date": date_end,
-                "team": team,
-                "ranking": ranking,
-                "rating": rating,
-                "tot_pts": rating * N_team_matches[team],
-            }
-        )
+        data = {
+            "date": date_end,
+            "team": team,
+            "ranking": ranking,
+            "rating": rating,
+            "tot_pts": rating * N_team_matches[team],
+        }
 
-        df_main = df_main.append(df_tmp, ignore_index=True)
+        df_tmp = pd.DataFrame(data, index=[0])
+        df_main = pd.concat([df_main, df_tmp], ignore_index=True)
 
     return df_main
 
@@ -243,10 +224,50 @@ def aggregate_rankings_data():
 
 
 if __name__ == "__main__":
-    download_series_data()
-    data = series_data_to_csv()
+    # data = series_data_to_csv(
+    #    "../../data/raw/series_data/", "../../data/interim/", "../../data/processed/"
+    # )
 
-    # print(init_ratings_data())
+    print(init_ratings_data())
     # get_end_series_date("06/03/2013", 3)
 
     # aggregate_rankings_data()
+
+
+# def download_series_data(raw_data_path):
+
+#     baseurl = "http://www.howstat.com/cricket/Statistics/Series/SeriesList.asp?"
+#     # yranges = [
+#     #     "2000010120091231&Range=2000%20to%202009",
+#     #     "2010010120191231&Range=2010%20to%202019",
+#     #     "2020010120291231&Range=2010%20to%202019",
+#     # ]
+#     yranges = ["2000010120091231&Range=2000%20to%202009"]
+#     # yrange_labs = ["2000_10", "2010_19", "2020_29"]
+#     yrange_labs = ["2010_19"]
+#     user_agent = (
+#         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML"
+#         + ", like Gecko) Chrome/99.0.4844.84 Safari/537.36"
+#     )
+#     accept_language = "en-US,en;q=0.9,es;q=0.8"
+#     headers = {"user_agent": user_agent, "accept_language": accept_language}
+
+#     for i, yrange in enumerate(yranges):
+
+#         url = baseurl + yrange
+#         data_page = requests.get(url, headers=headers)
+
+#         # getting html
+#         # req = urllib.request.Request(url, headers=headers)
+#         # data_page = urllib.request.urlopen(req).read()
+#         # print(data_page)
+#         with open("test.html", "r") as f:
+#             soup = BeautifulSoup(f, "html.parser")
+#         soup.prettify()
+
+#         fname = "".join(["series_data_", yrange_labs[i], ".html"])
+
+#         with open(fname, "w") as f:
+#             f.write(str(soup))
+
+#     return
