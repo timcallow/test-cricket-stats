@@ -7,7 +7,6 @@ The project is currently in the very early stages of development. Processed data
 
 Installation
 ------------
-## Installation
 First, clone the atoMEC repository and ``cd`` into the main directory.
 
 * Recommended : using [pipenv](https://pypi.org/project/pipenv/)
