@@ -25,6 +25,13 @@ Project Organization
 
 <p><small>The structure of this project is based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a></small></p>
 
+Basic usage
+-----------
+
+To make the dataset, run `make data` from the home directory.
+
+That's it so far! Feel free to have a look at the exploratory notebooks for some ideas of what can be done with the data, but so far nothing else is implemented.
+
 
 Contributing
 ------------
