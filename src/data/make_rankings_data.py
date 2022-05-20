@@ -1,13 +1,7 @@
-import sys
 import os
-import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import glob
 from datetime import datetime
-from datetime import date as dtdate
-import numpy as np
-import urllib
 
 
 def series_data_to_csv(raw_path, interim_path, proc_path):
