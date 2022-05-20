@@ -80,7 +80,7 @@ class ProcessData:
 
                 try:
                     YM_data = self.get_rankings_data(month, year)
-                    data_agg = data_agg.append(YM_data, ignore_index=True)
+                    data_agg = pd.concat([data_agg, YM_data], ignore_index=True)
                 except AttributeError:
                     pass
 
@@ -268,7 +268,7 @@ class ProcessData:
                 match_rank_data = self.merge_match_ranking_data(
                     info_file, date_min, date_max
                 )
-                data_agg = data_agg.append(match_rank_data, ignore_index=True)
+                data_agg = pd.concat([match_rank_data, data_agg], ignore_index=True)
             except ValueError:
                 pass
 
