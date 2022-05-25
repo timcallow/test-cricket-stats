@@ -39,3 +39,13 @@ Contributions are highly welcome. Please adhere to the following simple guidelin
 * Contributors should develop on branches based off of `main` and merge requests should be to `main`
 * Please choose a descriptive branch name
 * Python code should be formatted using [black](https://pypi.org/project/black/) style
+
+Data sources
+------------
+
+Data is sourced from the following sources:
+* [ICC historical rankings](https://web.archive.org/web/20130120040151/http://www.icc-cricket.com/match_zone/historical_ranking.php) - rankings data up to March 2013
+* [Cricsheet](https://cricsheet.org/matches/) - match data from 2004 - present
+* [howstat](http://www.howstat.com/cricket/home.asp) - series data
+
+We are grateful for these data sources!
