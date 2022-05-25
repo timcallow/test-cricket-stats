@@ -1,3 +1,9 @@
+"""
+WIP: This file is intended to compute the rankings data for the missing
+years (2013 - present), based on initial data about rankings and total
+number of matches played.
+"""
+
 import os
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -5,40 +11,68 @@ from datetime import datetime
 
 
 def series_data_to_csv(raw_path, interim_path, proc_path):
+    """
+    Convert series data in html formats to single csv file.
 
+    Parameters
+    ----------
+    raw_path : str
+        raw data path
+    interim_path : str
+        interim data path
+    proc_path : str
+        processed data path
+
+    Returns
+    -------
+    None
+    """
+
+    # each html file references a different decade
     year_ranges = ["2000_09", "2010_19", "2020_29"]
 
     df = pd.DataFrame()
 
+    # loop over the html files
     for yrange in year_ranges:
 
+        # read html file
         fname = "".join([raw_path, "series_data_", yrange, ".html"])
-
         with open(fname, "r") as f:
             soup = BeautifulSoup(f.read(), "html.parser")
 
         # save a prettified version of the html file in interim data dir
         fname = "".join([interim_path, "series_data_", yrange, ".html"])
         soup.prettify()
-
         with open(fname, "w") as f:
             f.write(str(soup))
 
+        # find the rows of the table with series information
         for x in soup.find_all("a"):
             classname = x.get("class")
 
             if classname == ["LinkTable"]:
+
+                # names of teams from text
                 teams = x.text.strip()
+
+                # date from text
                 date = x.find_next("td")
                 date_text = date.text.strip()
+
+                # match number from text
                 N_matches = date.find_next("td")
                 N_matches_text = int(N_matches.text.strip())
+
+                # match result from text
                 result = N_matches.find_next("td").text.strip()
 
+                # split the teams
                 team_list = teams.split("v.")
                 team_A = " ".join(team_list[0].split()[1:])
                 team_B = team_list[1].lstrip()
 
+                # get the number of points for each team from the series result
                 if "Drawn" in result:
                     [team_A_pts, team_B_pts] = list(
                         map(int, result.lstrip("Drawn").split("-"))
@@ -54,6 +88,7 @@ def series_data_to_csv(raw_path, interim_path, proc_path):
                 else:
                     pass
 
+                # make dictionary and convert to dataframe
                 output_dict = {
                     "date": date_text,
                     "home_team": team_A,
@@ -66,29 +101,53 @@ def series_data_to_csv(raw_path, interim_path, proc_path):
                 df_tmp = pd.DataFrame(data=output_dict, index=[0])
                 df = pd.concat([df, df_tmp], ignore_index=True)
 
-    # save the dataframe
+    # save the dataframe as csv
     df.to_csv(proc_path + "series_data.csv")
 
     return
 
 
-def init_ratings_data():
+def init_ratings_data(proc_path):
+    """
+    Compute the number of ratings points at the last known rankings data (03/2013).
 
-    rank_df = pd.read_csv("../../data/processed/rankings_data.csv")
+    Parameters
+    ----------
+    proc_path : str
+        the data path for processed data
 
+    Returns
+    -------
+    df_main : pandas dataframe
+        the dataframe containing the initial points, rating and rankings data
+
+    Notes
+    -----
+    Ratings are equal to the total number of points divided by matches played.
+    The counting period dates back to the May from four years previously, so for
+    March 2013 all matches from May 2010 are counted to get the total.
+    If a series has more than one match, an extra match is added to the total
+    because an extra point is available to the series winner.
+    """
+
+    # read in the main data file
+    rank_df = pd.read_csv(proc_path + "rankings_data.csv")
+    # extract the information as of March 2013
     rankings_init = rank_df[-9:]
     test_teams = rankings_init.team.to_list()
 
-    # get the number of matches played since May 2010
-    main_df = pd.read_csv("../../data/processed/series_data.csv")
+    # get the number of matches played between May 2010 and March 2013
+    main_df = pd.read_csv(proc_path + "series_data.csv")
     main_df.date = pd.to_datetime(main_df.date, format="%d/%m/%Y")
 
+    # define the dates to count the initial number of matches
     date_start = pd.to_datetime("2010/05/01")
     date_end = pd.to_datetime("2013/03/01")
 
+    # initialize match count and ratings
     N_team_matches = {team: 0 for team in test_teams}
-    team_ratings = N_team_matches
 
+    # count all matches between the two dates
     for date in main_df.date:
         if date > date_start and date < date_end:
             N_row = main_df.loc[main_df.date == date]
@@ -96,10 +155,12 @@ def init_ratings_data():
             away_team = N_row.away_team.values[0]
             num_games = N_row.num_matches.values[0]
 
+            # assign an extra number to the total count for series > 1 game
             if num_games > 1:
                 N_team_matches[home_team] += num_games + 1
                 N_team_matches[away_team] += num_games + 1
 
+    # create the dataframe with rating, ranking and total points data
     df_main = pd.DataFrame()
     for team in N_team_matches:
 
@@ -114,6 +175,7 @@ def init_ratings_data():
             "tot_pts": rating * N_team_matches[team],
         }
 
+        # convert to df and concatenate
         df_tmp = pd.DataFrame(data, index=[0])
         df_main = pd.concat([df_main, df_tmp], ignore_index=True)
 
@@ -121,12 +183,29 @@ def init_ratings_data():
 
 
 def get_end_series_date(start_date, num_matches, team_list):
+    """
+    Calculate the end date of a test series from the start date and match number.
+
+    Parameters
+    ----------
+    start_date : str
+        start date in format dd/mm/yyyy
+    num_matches : int
+        number of matches in the test series
+    team_list : list
+        the teams contesting the series
+
+    Returns
+    -------
+    end_date : str
+       end date in format yyyy/mm/dd
+    """
 
     # reformat the date string
     day, month, year = start_date.split("/")
     start_date = "/".join([year, month, day])
 
-    # get the name of the file
+    # get the names of all files with the given start date
     os.chdir("/home/callow46/test_cricket_stats/data/raw/match_data/")
     os_cmd = "grep " + start_date + " *_info.csv"
     fname_tmp = os.popen(os_cmd).read().split("\n")
@@ -134,6 +213,8 @@ def get_end_series_date(start_date, num_matches, team_list):
     if fname_tmp == [""]:
         return
 
+    # if more than one file has the given start date:
+    # loop over them all until the one with correct teams is found
     if len(fname_tmp) > 2:
         for file_ in fname_tmp:
             fname = file_.split("_")[0] + "_info.csv"
@@ -150,6 +231,8 @@ def get_end_series_date(start_date, num_matches, team_list):
         fname_final = fname_tmp[0].split("_")[0]
 
     # add the number of matches to the last character of the filename
+    # usually the matches in a serious monototically increase by one in the filenames
+    # if they don't, keep increasing until the true last file is found
     match_code = int(fname_final) + num_matches - 1
     while True:
         try:
@@ -170,9 +253,11 @@ def get_end_series_date(start_date, num_matches, team_list):
 
 
 def aggregate_rankings_data():
+    """WIP: compute rankings data for missing years, using initial data
+    and match data."""
 
     # get the initial data
-    df = init_ratings_data()
+    df = init_ratings_data("../../data/processed/")
 
     # loop through the series data
     series_df = pd.read_csv("../../data/interim/series_data.csv")
@@ -218,50 +303,5 @@ def aggregate_rankings_data():
 
 
 if __name__ == "__main__":
-    # data = series_data_to_csv(
-    #    "../../data/raw/series_data/", "../../data/interim/", "../../data/processed/"
-    # )
 
-    print(init_ratings_data())
-    # get_end_series_date("06/03/2013", 3)
-
-    # aggregate_rankings_data()
-
-
-# def download_series_data(raw_data_path):
-
-#     baseurl = "http://www.howstat.com/cricket/Statistics/Series/SeriesList.asp?"
-#     # yranges = [
-#     #     "2000010120091231&Range=2000%20to%202009",
-#     #     "2010010120191231&Range=2010%20to%202019",
-#     #     "2020010120291231&Range=2010%20to%202019",
-#     # ]
-#     yranges = ["2000010120091231&Range=2000%20to%202009"]
-#     # yrange_labs = ["2000_10", "2010_19", "2020_29"]
-#     yrange_labs = ["2010_19"]
-#     user_agent = (
-#         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML"
-#         + ", like Gecko) Chrome/99.0.4844.84 Safari/537.36"
-#     )
-#     accept_language = "en-US,en;q=0.9,es;q=0.8"
-#     headers = {"user_agent": user_agent, "accept_language": accept_language}
-
-#     for i, yrange in enumerate(yranges):
-
-#         url = baseurl + yrange
-#         data_page = requests.get(url, headers=headers)
-
-#         # getting html
-#         # req = urllib.request.Request(url, headers=headers)
-#         # data_page = urllib.request.urlopen(req).read()
-#         # print(data_page)
-#         with open("test.html", "r") as f:
-#             soup = BeautifulSoup(f, "html.parser")
-#         soup.prettify()
-
-#         fname = "".join(["series_data_", yrange_labs[i], ".html"])
-
-#         with open(fname, "w") as f:
-#             f.write(str(soup))
-
-#     return
+    print(init_ratings_data("../../data/processed/"))
