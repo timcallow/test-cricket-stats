@@ -7,7 +7,7 @@ number of matches played.
 import os
 from bs4 import BeautifulSoup
 import pandas as pd
-from datetime import datetime
+import datetime
 
 
 def series_data_to_csv(raw_path, interim_path, proc_path):
@@ -134,31 +134,9 @@ def init_ratings_data(proc_path):
     rank_df = pd.read_csv(proc_path + "rankings_data.csv")
     # extract the information as of March 2013
     rankings_init = rank_df[-9:]
-    test_teams = rankings_init.team.to_list()
 
-    # get the number of matches played between May 2010 and March 2013
-    main_df = pd.read_csv(proc_path + "series_data.csv")
-    main_df.date = pd.to_datetime(main_df.date, format="%d/%m/%Y")
-
-    # define the dates to count the initial number of matches
-    date_start = pd.to_datetime("2010/05/01")
-    date_end = pd.to_datetime("2013/03/01")
-
-    # initialize match count and ratings
-    N_team_matches = {team: 0 for team in test_teams}
-
-    # count all matches between the two dates
-    for date in main_df.date:
-        if date > date_start and date < date_end:
-            N_row = main_df.loc[main_df.date == date]
-            home_team = N_row.home_team.values[0]
-            away_team = N_row.away_team.values[0]
-            num_games = N_row.num_matches.values[0]
-
-            # assign an extra number to the total count for series > 1 game
-            if num_games > 1:
-                N_team_matches[home_team] += num_games + 1
-                N_team_matches[away_team] += num_games + 1
+    date_end = "2013/03/01"
+    N_team_matches = count_matches_from(date_end, proc_path)
 
     # create the dataframe with rating, ranking and total points data
     df_main = pd.DataFrame()
@@ -172,6 +150,7 @@ def init_ratings_data(proc_path):
             "team": team,
             "ranking": ranking,
             "rating": rating,
+            "matches": N_team_matches[team],
             "tot_pts": rating * N_team_matches[team],
         }
 
@@ -180,6 +159,51 @@ def init_ratings_data(proc_path):
         df_main = pd.concat([df_main, df_tmp], ignore_index=True)
 
     return df_main
+
+
+def count_matches_from(date, proc_path):
+
+    r"""Count the number of matches contributing to rankings points at a given date."""
+
+    # get the number of matches played between May 2010 and March 2013
+    main_df = pd.read_csv(proc_path + "series_data.csv")
+    main_df.date = pd.to_datetime(main_df.date, format="%d/%m/%Y")
+
+    # convert date to a datetime object
+    date_end = pd.to_datetime(date)
+
+    # get a list of the test teams
+    test_teams = list(set(main_df.home_team))
+
+    # retrieve the starting date
+    if date_end.month >= 5:
+        date_mid_year = date_end.year
+    else:
+        date_mid_year = date_end.year - 1
+
+    date_start_year = date_mid_year - 2
+
+    date_start = datetime.date(date_start_year, 5, 1)
+
+    # initialize match count and ratings
+    N_team_matches = {team: 0 for team in test_teams}
+
+    for date in main_df.date:
+        if date > date_start and date < date_end:
+            N_row = main_df.loc[main_df.date == date]
+            home_team = N_row.home_team.values[0]
+            away_team = N_row.away_team.values[0]
+            num_games = N_row.num_matches.values[0]
+
+            # assign an extra number to the total count for series > 1 game
+            if num_games > 1:
+                N_team_matches[home_team] += num_games + 1
+                N_team_matches[away_team] += num_games + 1
+
+    # remove teams who played no matches in that period
+    N_team_matches = {k: v for k, v in N_team_matches.items() if v != 0}
+
+    return N_team_matches
 
 
 def get_end_series_date(start_date, num_matches, team_list):
@@ -270,7 +294,7 @@ def aggregate_rankings_data():
         )
 
         try:
-            date = datetime.strptime(date_end, "%Y/%m/%d")
+            date = datetime.datetime.strptime(date_end, "%Y/%m/%d")
         except TypeError:
             break
 
