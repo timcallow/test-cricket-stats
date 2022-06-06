@@ -177,9 +177,9 @@ def count_matches_from(date, proc_path):
 
     # retrieve the starting date
     if date_end.month >= 5:
-        date_mid_year = date_end.year
-    else:
         date_mid_year = date_end.year - 1
+    else:
+        date_mid_year = date_end.year - 2
 
     date_start_year = date_mid_year - 2
 
@@ -230,6 +230,7 @@ def get_end_series_date(start_date, num_matches, team_list):
     start_date = "/".join([year, month, day])
 
     # get the names of all files with the given start date
+    cwd = os.getcwd()
     os.chdir("/home/callow46/test_cricket_stats/data/raw/match_data/")
     os_cmd = "grep " + start_date + " *_info.csv"
     fname_tmp = os.popen(os_cmd).read().split("\n")
@@ -272,11 +273,16 @@ def get_end_series_date(start_date, num_matches, team_list):
         for line in lines:
             if "info,date" in line:
                 end_date = line.split(",")[2].strip()
-
+    os.chdir(cwd)
     return end_date
 
 
-def calc_points(home_score, away_score, home_rating, away_rating):
+def calc_points(num_matches, home_score, away_score, home_rating, away_rating):
+
+    # add half a point for each drawn game
+    num_draws = num_matches - (home_score + away_score)
+    home_score += 0.5 * num_draws
+    away_score += 0.5 * num_draws
 
     # add bonus points for series result
     if home_score > away_score:
@@ -314,11 +320,11 @@ def calc_points(home_score, away_score, home_rating, away_rating):
     return points_won
 
 
-def calc_points_per_series(date_start, date_end):
+def calc_points_per_series(date_start, date_end, proc_path):
 
     # loop through the series data
-    series_df = pd.read_csv("../../data/processed/series_data.csv")
-    ratings_df = pd.read_csv("../../data/processed/rankings_data.csv")
+    series_df = pd.read_csv(proc_path + "series_data.csv")
+    ratings_df = pd.read_csv(proc_path + "rankings_data.csv")
 
     # filter series df by date range
     date_i = pd.to_datetime(date_start, format="%d/%m/%Y")
@@ -329,7 +335,10 @@ def calc_points_per_series(date_start, date_end):
         & (pd.to_datetime(series_df["date"], format="%d/%m/%Y") <= date_f)
     ]
 
-    df = pd.DataFrame()
+    try:
+        df = pd.read_csv(proc_path + "series_points_data.csv")
+    except FileNotFoundError:
+        df = pd.DataFrame()
 
     for index, row in series_df.iterrows():
 
@@ -369,24 +378,128 @@ def calc_points_per_series(date_start, date_end):
             start_away_rating = 0.0
 
         [home_pts, away_pts] = calc_points(
-            row.home_team_pts, row.away_team_pts, start_home_rating, start_away_rating
+            row.num_matches,
+            row.home_team_pts,
+            row.away_team_pts,
+            start_home_rating,
+            start_away_rating,
         )
 
+        rolling_matches = count_matches_from(date_end, proc_path)
+        try:
+            rolling_home_matches = rolling_matches[row.home_team]
+        except KeyError:
+            rolling_home_matches = 1
+        try:
+            rolling_away_matches = rolling_matches[row.away_team]
+        except KeyError:
+            rolling_away_matches = 1
+
         data_dict = {
-            "date": row.date,
+            "date": datetime.date(year, month_num, 1),
+            "month": month_num,
+            "year": year,
             "home_team": row.home_team,
             "away_team": row.away_team,
             "num_matches": row.num_matches,
             "home_score": row.home_team_pts,
             "away_score": row.away_team_pts,
-            "home_points": home_pts,
-            "away_points": away_pts,
+            "home_tot_points": home_pts,
+            "away_tot_points": away_pts,
+            "rolling_home_matches": rolling_home_matches,
+            "rolling_away_matches": rolling_away_matches,
         }
 
         df_tmp = pd.DataFrame(data=data_dict, index=[0])
         df = pd.concat([df, df_tmp], ignore_index=True)
 
+    # sort df by date
+    df.sort_values(by=["date"], inplace=True)
+    df.to_csv(proc_path + "series_points_data.csv")
+
     return df
+
+
+def propagate_rankings_data(start_year, start_month, end_year, end_month, proc_path):
+
+    series_df = pd.read_csv(proc_path + "series_points_data.csv")
+
+    rankings_df = pd.read_csv(proc_path + "rankings_data.csv")
+
+    for year in range(start_year, end_year + 1):
+        if year == start_year:
+            month_i = start_month
+        else:
+            month_i = 1
+        if year == end_year:
+            month_f = end_month
+        else:
+            month_f = 12
+
+        for month in range(month_i, month_f + 1):
+            if month > 1:
+                date = datetime.date(year, month - 1, 1)
+            else:
+                date = datetime.date(year - 1, 12, 1)
+
+            sum_rating_pts(date, series_df)
+
+    return
+
+
+def sum_rating_pts(date_end, series_df):
+
+    series_df["date"] = pd.to_datetime(series_df.date, format="%Y-%m-%d").dt.date
+
+    # get a list of the test teams
+    test_teams = list(set(series_df.home_team))
+
+    # retrieve the starting date
+    if date_end.month >= 5:
+        date_mid_year = date_end.year - 1
+    else:
+        date_mid_year = date_end.year - 2
+
+    date_start_year = date_mid_year - 2
+
+    date_start = datetime.date(date_start_year, 5, 1)
+    date_mid = datetime.date(date_mid_year, 5, 1)
+
+    half_weighting = series_df[
+        (series_df["date"] >= date_start) & (series_df["date"] < date_mid)
+    ]
+
+    full_weighting = series_df[
+        (series_df["date"] >= date_mid) & (series_df["date"] <= date_end)
+    ]
+
+    for team in test_teams:
+
+        team_home_pts = (
+            0.5
+            * half_weighting.loc[
+                half_weighting["home_team"] == team, "home_tot_points"
+            ].sum()
+            + full_weighting.loc[
+                full_weighting["home_team"] == team, "home_tot_points"
+            ].sum()
+        )
+
+        team_away_pts = (
+            0.5
+            * half_weighting.loc[
+                half_weighting["away_team"] == team, "away_tot_points"
+            ].sum()
+            + full_weighting.loc[
+                full_weighting["away_team"] == team, "away_tot_points"
+            ].sum()
+        )
+
+        team_total_points = team_home_pts + team_away_pts
+
+        print(team, team_total_points)
+
+    return
 
 
 def aggregate_rankings_data():
@@ -442,4 +555,5 @@ def aggregate_rankings_data():
 if __name__ == "__main__":
 
     # print(init_ratings_data("../../data/processed/"))
-    print(calc_points_per_series("01/05/2010", "01/03/2013"))
+    calc_points_per_series("01/05/2009", "01/03/2013", "../../data/processed/")
+    propagate_rankings_data(2010, 5, 2013, 3, "../../data/processed/")
