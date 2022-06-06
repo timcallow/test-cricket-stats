@@ -276,6 +276,119 @@ def get_end_series_date(start_date, num_matches, team_list):
     return end_date
 
 
+def calc_points(home_score, away_score, home_rating, away_rating):
+
+    # add bonus points for series result
+    if home_score > away_score:
+        home_score += 1
+    elif home_score == away_score:
+        home_score += 0.5
+        away_score += 0.5
+    else:
+        away_score += 1
+
+    # if the home and away ratings are within 40 points
+    if abs(home_score - away_score) < 40:
+        home_points = home_score * (away_rating + 50) + away_score * (away_rating - 50)
+        away_points = away_score * (home_rating + 50) + home_score * (home_rating - 50)
+
+    # else they are more than 40 points different
+    else:
+        if home_score > away_score:
+            home_points = home_score * (away_rating + 10) + away_score * (
+                away_rating - 90
+            )
+            away_points = home_score * (away_rating + 90) + away_score * (
+                away_rating - 10
+            )
+        else:
+            home_points = home_score * (away_rating + 90) + away_score * (
+                away_rating - 10
+            )
+            away_points = home_score * (away_rating + 10) + away_score * (
+                away_rating - 90
+            )
+
+    points_won = [home_points, away_points]
+
+    return points_won
+
+
+def calc_points_per_series(date_start, date_end):
+
+    # loop through the series data
+    series_df = pd.read_csv("../../data/processed/series_data.csv")
+    ratings_df = pd.read_csv("../../data/processed/rankings_data.csv")
+
+    # filter series df by date range
+    date_i = pd.to_datetime(date_start, format="%d/%m/%Y")
+    date_f = pd.to_datetime(date_end, format="%d/%m/%Y")
+
+    series_df = series_df[
+        (pd.to_datetime(series_df["date"], format="%d/%m/%Y") >= date_i)
+        & (pd.to_datetime(series_df["date"], format="%d/%m/%Y") <= date_f)
+    ]
+
+    df = pd.DataFrame()
+
+    for index, row in series_df.iterrows():
+
+        date_end = get_end_series_date(
+            row.date, row.num_matches, [row.home_team, row.away_team]
+        )
+
+        try:
+            date = datetime.datetime.strptime(date_end, "%Y/%m/%d")
+        except TypeError:
+            break
+
+        month_num = date.month
+        month_str = date.strftime("%B").upper()
+        year = date.year
+
+        try:
+            start_home_rating = float(
+                ratings_df[
+                    (ratings_df["year"] == year)
+                    & (ratings_df["month"] == month_str)
+                    & (ratings_df["team"] == row.home_team)
+                ].rating
+            )
+        except TypeError:
+            start_home_rating = 0.0
+
+        try:
+            start_away_rating = float(
+                ratings_df[
+                    (ratings_df["year"] == year)
+                    & (ratings_df["month"] == month_str)
+                    & (ratings_df["team"] == row.away_team)
+                ].rating
+            )
+        except TypeError:
+            start_away_rating = 0.0
+
+        [home_pts, away_pts] = calc_points(
+            row.home_team_pts, row.away_team_pts, start_home_rating, start_away_rating
+        )
+
+        data_dict = {
+            "date": row.date,
+            "home_team": row.home_team,
+            "away_team": row.away_team,
+            "num_matches": row.num_matches,
+            "home_score": row.home_team_pts,
+            "away_score": row.away_team_pts,
+            "home_points": home_pts,
+            "away_points": away_pts,
+        }
+
+        df_tmp = pd.DataFrame(data=data_dict, index=[0])
+        df = pd.concat([df, df_tmp], ignore_index=True)
+
+    return df
+
+
 def aggregate_rankings_data():
     """WIP: compute rankings data for missing years, using initial data
     and match data."""
@@ -328,4 +441,5 @@ def aggregate_rankings_data():
 
 if __name__ == "__main__":
 
-    print(init_ratings_data("../../data/processed/"))
+    # print(init_ratings_data("../../data/processed/"))
+    print(calc_points_per_series("01/05/2010", "01/03/2013"))
