@@ -135,7 +135,7 @@ def init_ratings_data(proc_path):
     # extract the information as of March 2013
     rankings_init = rank_df[-9:]
 
-    date_end = "2013/03/01"
+    date_end = "2013/02/28"
     N_team_matches = count_matches_from(date_end, proc_path)
 
     # create the dataframe with rating, ranking and total points data
@@ -167,7 +167,7 @@ def count_matches_from(date, proc_path):
 
     # get the number of matches played between May 2010 and March 2013
     main_df = pd.read_csv(proc_path + "series_data.csv")
-    main_df.date = pd.to_datetime(main_df.date, format="%d/%m/%Y")
+    main_df["datenew"] = pd.to_datetime(main_df.date, format="%d/%m/%Y").dt.date
 
     # convert date to a datetime object
     date_end = pd.to_datetime(date)
@@ -183,22 +183,44 @@ def count_matches_from(date, proc_path):
 
     date_start_year = date_mid_year - 2
 
+    date_mid = datetime.date(date_mid_year, 5, 1)
     date_start = datetime.date(date_start_year, 5, 1)
+
+    main_df = main_df[(main_df.datenew >= date_start) & (main_df.datenew <= date_end)]
 
     # initialize match count and ratings
     N_team_matches = {team: 0 for team in test_teams}
 
-    for date in main_df.date:
-        if date > date_start and date < date_end:
-            N_row = main_df.loc[main_df.date == date]
-            home_team = N_row.home_team.values[0]
-            away_team = N_row.away_team.values[0]
-            num_games = N_row.num_matches.values[0]
+    for datenew in main_df.datenew:
+        N_row = main_df.loc[main_df.datenew == datenew]
+        home_team = N_row.home_team.values[0]
+        away_team = N_row.away_team.values[0]
+        num_games = N_row.num_matches.values[0]
+        startdate = N_row.date.values[0]
+        try:
+            end_series_date = datetime.datetime.strptime(
+                get_end_series_date(startdate, num_games, [home_team, away_team]),
+                "%Y/%m/%d",
+            )
+            end_series_date = datetime.date(
+                end_series_date.year, end_series_date.month, end_series_date.day
+            )
+        except TypeError:
+            pass
+
+        if end_series_date >= date_mid and end_series_date <= date_end:
 
             # assign an extra number to the total count for series > 1 game
             if num_games > 1:
                 N_team_matches[home_team] += num_games + 1
                 N_team_matches[away_team] += num_games + 1
+
+        elif end_series_date >= date_start and end_series_date < date_mid:
+
+            # assign an extra number to the total count for series > 1 game
+            if num_games > 1:
+                N_team_matches[home_team] += 0.5 * (num_games + 1)
+                N_team_matches[away_team] += 0.5 * (num_games + 1)
 
     # remove teams who played no matches in that period
     N_team_matches = {k: v for k, v in N_team_matches.items() if v != 0}
@@ -279,6 +301,9 @@ def get_end_series_date(start_date, num_matches, team_list):
 
 def calc_points(num_matches, home_score, away_score, home_rating, away_rating):
 
+    if num_matches == 1:
+        return [0.0, 0.0]
+
     # add half a point for each drawn game
     num_draws = num_matches - (home_score + away_score)
     home_score += 0.5 * num_draws
@@ -294,24 +319,24 @@ def calc_points(num_matches, home_score, away_score, home_rating, away_rating):
         away_score += 1
 
     # if the home and away ratings are within 40 points
-    if abs(home_score - away_score) < 40:
+    if abs(home_rating - away_rating) < 40:
         home_points = home_score * (away_rating + 50) + away_score * (away_rating - 50)
         away_points = away_score * (home_rating + 50) + home_score * (home_rating - 50)
 
     # else they are more than 40 points different
     else:
-        if home_score > away_score:
-            home_points = home_score * (away_rating + 10) + away_score * (
-                away_rating - 90
+        if home_rating > away_rating:
+            home_points = home_score * (home_rating + 10) + away_score * (
+                home_rating - 90
             )
-            away_points = home_score * (away_rating + 90) + away_score * (
+            away_points = away_score * (away_rating + 90) + home_score * (
                 away_rating - 10
             )
         else:
-            home_points = home_score * (away_rating + 90) + away_score * (
-                away_rating - 10
+            home_points = home_score * (home_rating + 90) + away_score * (
+                home_rating - 10
             )
-            away_points = home_score * (away_rating + 10) + away_score * (
+            away_points = away_score * (away_rating + 10) + home_score * (
                 away_rating - 90
             )
 
@@ -377,6 +402,15 @@ def calc_points_per_series(date_start, date_end, proc_path):
         except TypeError:
             start_away_rating = 0.0
 
+        print(
+            start_home_rating,
+            start_away_rating,
+            row.home_team,
+            row.away_team,
+            month_str,
+            year,
+        )
+
         [home_pts, away_pts] = calc_points(
             row.num_matches,
             row.home_team_pts,
@@ -438,9 +472,9 @@ def propagate_rankings_data(start_year, start_month, end_year, end_month, proc_p
 
         for month in range(month_i, month_f + 1):
             if month > 1:
-                date = datetime.date(year, month - 1, 1)
+                date = datetime.date(year, month - 1, 25)
             else:
-                date = datetime.date(year - 1, 12, 1)
+                date = datetime.date(year - 1, 12, 25)
 
             sum_rating_pts(date, series_df)
 
@@ -462,16 +496,20 @@ def sum_rating_pts(date_end, series_df):
 
     date_start_year = date_mid_year - 2
 
-    date_start = datetime.date(date_start_year, 5, 1)
-    date_mid = datetime.date(date_mid_year, 5, 1)
+    date_start = datetime.date(date_start_year, 4, 30)
+    date_mid = datetime.date(date_mid_year, 4, 30)
 
     half_weighting = series_df[
         (series_df["date"] >= date_start) & (series_df["date"] < date_mid)
     ]
 
+    # print(half_weighting)
+
     full_weighting = series_df[
         (series_df["date"] >= date_mid) & (series_df["date"] <= date_end)
     ]
+
+    print(full_weighting)
 
     for team in test_teams:
 
@@ -554,6 +592,11 @@ def aggregate_rankings_data():
 
 if __name__ == "__main__":
 
-    # print(init_ratings_data("../../data/processed/"))
-    calc_points_per_series("01/05/2009", "01/03/2013", "../../data/processed/")
-    propagate_rankings_data(2010, 5, 2013, 3, "../../data/processed/")
+    # calc_points_per_series(
+    #    "01/05/2009", "01/03/2013", "/home/callow46/test_cricket_stats/data/processed/"
+    # )
+    propagate_rankings_data(
+        2009, 5, 2013, 3, "/home/callow46/test_cricket_stats/data/processed/"
+    )
+    print(init_ratings_data("/home/callow46/test_cricket_stats/data/processed/"))
+    # print(calc_points(3, 2, 1, 120, 40))
