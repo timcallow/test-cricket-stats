@@ -37,7 +37,7 @@ def series_data_to_csv(raw_path, interim_path, proc_path):
     for yrange in year_ranges:
 
         # read html file
-        fname = "".join([raw_path, "series_data_", yrange, ".html"])
+        fname = "".join([raw_path, "series_data/series_data_", yrange, ".html"])
         with open(fname, "r") as f:
             soup = BeautifulSoup(f.read(), "html.parser")
 
@@ -59,6 +59,7 @@ def series_data_to_csv(raw_path, interim_path, proc_path):
                 # date from text
                 date = x.find_next("td")
                 date_text = date.text.strip()
+                date_fmt = pd.to_datetime(date_text, format="%d/%m/%Y")
 
                 # match number from text
                 N_matches = date.find_next("td")
@@ -90,7 +91,7 @@ def series_data_to_csv(raw_path, interim_path, proc_path):
 
                 # make dictionary and convert to dataframe
                 output_dict = {
-                    "date": date_text,
+                    "date": date_fmt,
                     "home_team": team_A,
                     "away_team": team_B,
                     "num_matches": N_matches_text,
@@ -135,7 +136,7 @@ def init_ratings_data(proc_path):
     # extract the information as of March 2013
     rankings_init = rank_df[-9:]
 
-    date_end = "2013/02/28"
+    date_end = pd.to_datetime("2013/02/28")
     N_team_matches = count_matches_from(date_end, proc_path)
 
     # create the dataframe with rating, ranking and total points data
@@ -161,16 +162,13 @@ def init_ratings_data(proc_path):
     return df_main
 
 
-def count_matches_from(date, proc_path):
+def count_matches_from(date_end, proc_path):
 
     r"""Count the number of matches contributing to rankings points at a given date."""
 
     # get the number of matches played between May 2010 and March 2013
     main_df = pd.read_csv(proc_path + "series_data.csv")
-    main_df["datenew"] = pd.to_datetime(main_df.date, format="%d/%m/%Y").dt.date
-
-    # convert date to a datetime object
-    date_end = pd.to_datetime(date)
+    main_df.date = pd.to_datetime(main_df.date)
 
     # get a list of the test teams
     test_teams = list(set(main_df.home_team))
@@ -183,27 +181,32 @@ def count_matches_from(date, proc_path):
 
     date_start_year = date_mid_year - 2
 
-    date_mid = datetime.date(date_mid_year, 5, 1)
-    date_start = datetime.date(date_start_year, 5, 1)
+    date_mid = pd.to_datetime(datetime.date(date_mid_year, 5, 1))
+    date_start = pd.to_datetime(datetime.date(date_start_year, 5, 1))
 
-    main_df = main_df[(main_df.datenew >= date_start) & (main_df.datenew <= date_end)]
+    main_df = main_df[(main_df.date >= date_start) & (main_df.date <= date_end)]
 
     # initialize match count and ratings
     N_team_matches = {team: 0 for team in test_teams}
 
-    for datenew in main_df.datenew:
-        N_row = main_df.loc[main_df.datenew == datenew]
+    for date in main_df.date:
+        N_row = main_df.loc[main_df.date == date]
         home_team = N_row.home_team.values[0]
         away_team = N_row.away_team.values[0]
         num_games = N_row.num_matches.values[0]
-        startdate = N_row.date.values[0]
+        # startdate = N_row.date.values[0]
+        startdate = date
         try:
-            end_series_date = datetime.datetime.strptime(
-                get_end_series_date(startdate, num_games, [home_team, away_team]),
-                "%Y/%m/%d",
-            )
-            end_series_date = datetime.date(
-                end_series_date.year, end_series_date.month, end_series_date.day
+            # end_series_date = datetime.datetime.strptime(
+            #     get_end_series_date(startdate, num_games, [home_team, away_team]),
+            #     "%Y/%m/%d",
+            # )
+            # end_series_date = datetime.date(
+            #     end_series_date.year, end_series_date.month, end_series_date.day
+            # )
+
+            end_series_date = get_end_series_date(
+                startdate, num_games, [home_team, away_team]
             )
         except TypeError:
             pass
@@ -248,8 +251,7 @@ def get_end_series_date(start_date, num_matches, team_list):
     """
 
     # reformat the date string
-    day, month, year = start_date.split("/")
-    start_date = "/".join([year, month, day])
+    start_date = datetime.datetime.strftime(start_date, "%Y/%m/%d")
 
     # get the names of all files with the given start date
     cwd = os.getcwd()
@@ -296,6 +298,8 @@ def get_end_series_date(start_date, num_matches, team_list):
             if "info,date" in line:
                 end_date = line.split(",")[2].strip()
     os.chdir(cwd)
+
+    end_date = pd.to_datetime(end_date)
     return end_date
 
 
@@ -595,8 +599,12 @@ if __name__ == "__main__":
     # calc_points_per_series(
     #    "01/05/2009", "01/03/2013", "/home/callow46/test_cricket_stats/data/processed/"
     # )
-    propagate_rankings_data(
-        2009, 5, 2013, 3, "/home/callow46/test_cricket_stats/data/processed/"
-    )
+    # propagate_rankings_data(
+    #    2009, 5, 2013, 3, "/home/callow46/test_cricket_stats/data/processed/"
+    # )
     print(init_ratings_data("/home/callow46/test_cricket_stats/data/processed/"))
+
+    # series_data_to_csv(
+    #     "../../data/raw/", "../../data/interim/", "../../data/processed/"
+    # )
     # print(calc_points(3, 2, 1, 120, 40))
