@@ -196,20 +196,14 @@ def count_matches_from(date_end, proc_path):
         num_games = N_row.num_matches.values[0]
         # startdate = N_row.date.values[0]
         startdate = date
-        try:
-            # end_series_date = datetime.datetime.strptime(
-            #     get_end_series_date(startdate, num_games, [home_team, away_team]),
-            #     "%Y/%m/%d",
-            # )
-            # end_series_date = datetime.date(
-            #     end_series_date.year, end_series_date.month, end_series_date.day
-            # )
+        # try:
+        #     end_series_date = get_end_series_date(
+        #         startdate, num_games, [home_team, away_team]
+        #     )
+        # except TypeError:
+        #     pass
 
-            end_series_date = get_end_series_date(
-                startdate, num_games, [home_team, away_team]
-            )
-        except TypeError:
-            pass
+        end_series_date = startdate
 
         if end_series_date >= date_mid and end_series_date <= date_end:
 
@@ -351,17 +345,16 @@ def calc_points(num_matches, home_score, away_score, home_rating, away_rating):
 
 def calc_points_per_series(date_start, date_end, proc_path):
 
+    date_start = pd.to_datetime(date_start, format="%d/%m/%Y")
+    date_end = pd.to_datetime(date_end, format="%d/%m/%Y")
+
     # loop through the series data
     series_df = pd.read_csv(proc_path + "series_data.csv")
+    series_df.date = pd.to_datetime(series_df.date)
     ratings_df = pd.read_csv(proc_path + "rankings_data.csv")
 
-    # filter series df by date range
-    date_i = pd.to_datetime(date_start, format="%d/%m/%Y")
-    date_f = pd.to_datetime(date_end, format="%d/%m/%Y")
-
     series_df = series_df[
-        (pd.to_datetime(series_df["date"], format="%d/%m/%Y") >= date_i)
-        & (pd.to_datetime(series_df["date"], format="%d/%m/%Y") <= date_f)
+        (series_df["date"] >= date_start) & (series_df["date"] <= date_end)
     ]
 
     try:
@@ -375,14 +368,9 @@ def calc_points_per_series(date_start, date_end, proc_path):
             row.date, row.num_matches, [row.home_team, row.away_team]
         )
 
-        try:
-            date = datetime.datetime.strptime(date_end, "%Y/%m/%d")
-        except TypeError:
-            break
-
-        month_num = date.month
-        month_str = date.strftime("%B").upper()
-        year = date.year
+        month_num = date_end.month
+        month_str = date_end.strftime("%B").upper()
+        year = date_end.year
 
         try:
             start_home_rating = float(
@@ -406,15 +394,6 @@ def calc_points_per_series(date_start, date_end, proc_path):
         except TypeError:
             start_away_rating = 0.0
 
-        print(
-            start_home_rating,
-            start_away_rating,
-            row.home_team,
-            row.away_team,
-            month_str,
-            year,
-        )
-
         [home_pts, away_pts] = calc_points(
             row.num_matches,
             row.home_team_pts,
@@ -434,7 +413,7 @@ def calc_points_per_series(date_start, date_end, proc_path):
             rolling_away_matches = 1
 
         data_dict = {
-            "date": datetime.date(year, month_num, 1),
+            "date": pd.to_datetime(datetime.date(year, month_num, 1)),
             "month": month_num,
             "year": year,
             "home_team": row.home_team,
@@ -487,8 +466,6 @@ def propagate_rankings_data(start_year, start_month, end_year, end_month, proc_p
 
 def sum_rating_pts(date_end, series_df):
 
-    series_df["date"] = pd.to_datetime(series_df.date, format="%Y-%m-%d").dt.date
-
     # get a list of the test teams
     test_teams = list(set(series_df.home_team))
 
@@ -500,8 +477,8 @@ def sum_rating_pts(date_end, series_df):
 
     date_start_year = date_mid_year - 2
 
-    date_start = datetime.date(date_start_year, 4, 30)
-    date_mid = datetime.date(date_mid_year, 4, 30)
+    date_start = pd.to_datetime(datetime.date(date_start_year, 4, 30))
+    date_mid = pd.to_datetime(datetime.date(date_mid_year, 4, 30))
 
     half_weighting = series_df[
         (series_df["date"] >= date_start) & (series_df["date"] < date_mid)
@@ -596,13 +573,13 @@ def aggregate_rankings_data():
 
 if __name__ == "__main__":
 
-    # calc_points_per_series(
-    #    "01/05/2009", "01/03/2013", "/home/callow46/test_cricket_stats/data/processed/"
-    # )
+    calc_points_per_series(
+        "01/05/2009", "01/03/2013", "/home/callow46/test_cricket_stats/data/processed/"
+    )
     # propagate_rankings_data(
     #    2009, 5, 2013, 3, "/home/callow46/test_cricket_stats/data/processed/"
     # )
-    print(init_ratings_data("/home/callow46/test_cricket_stats/data/processed/"))
+    # print(init_ratings_data("/home/callow46/test_cricket_stats/data/processed/"))
 
     # series_data_to_csv(
     #     "../../data/raw/", "../../data/interim/", "../../data/processed/"
