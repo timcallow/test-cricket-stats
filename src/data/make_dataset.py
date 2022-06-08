@@ -8,8 +8,6 @@ import sys
 from bs4 import BeautifulSoup
 import pandas as pd
 import glob
-from datetime import datetime
-from datetime import date as dtdate
 
 
 class RawData:
@@ -293,10 +291,11 @@ class ProcessData:
         home_team = match_data[1]
         away_team = match_data[2]
         # convert date to datetime object
-        date = datetime.strptime(dateraw, "%Y/%m/%d")
+        # date = datetime.strptime(dateraw, "%Y/%m/%d")
+        date = pd.to_datetime(dateraw)
 
         # return empty df if date outside allowed range
-        if date.date() < date_min or date.date() > date_max:
+        if date < date_min or date > date_max:
             return pd.DataFrame()
 
         month_num = date.month
@@ -340,7 +339,7 @@ class ProcessData:
             break
 
         data_dict = {
-            "date": dateraw,
+            "date": date,
             "home_team": home_team,
             "away_team": away_team,
             "result": match_data[3],
@@ -359,8 +358,8 @@ class ProcessData:
 
         # define the min and max dates
         # TODO : these should be set in the class initialization
-        date_min = dtdate(2004, 3, 1)
-        date_max = dtdate(2013, 3, 31)
+        date_min = pd.to_datetime("2004/03/01")
+        date_max = pd.to_datetime("2013/03/31")
         data_agg = pd.DataFrame()
 
         # list of all info files
