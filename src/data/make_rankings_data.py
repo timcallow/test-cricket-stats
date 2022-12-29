@@ -73,6 +73,14 @@ def series_data_to_csv(raw_path, interim_path, proc_path):
                 team_A = " ".join(team_list[0].split()[1:])
                 team_B = team_list[1].lstrip()
 
+                # get the actual end date
+                # date_end_fmt = get_end_series_date(
+                #     date_fmt, N_matches_text, [team_A, team_B]
+                # )
+
+                len_series = N_matches_text * 9 - 4
+                date_end_fmt = date_fmt + datetime.timedelta(days=len_series)
+
                 # get the number of points for each team from the series result
                 if "Drawn" in result:
                     [team_A_pts, team_B_pts] = list(
@@ -92,6 +100,7 @@ def series_data_to_csv(raw_path, interim_path, proc_path):
                 # make dictionary and convert to dataframe
                 output_dict = {
                     "date": date_fmt,
+                    "date_end": date_end_fmt,
                     "home_team": team_A,
                     "away_team": team_B,
                     "num_matches": N_matches_text,
@@ -168,7 +177,7 @@ def count_matches_from(date_end, proc_path):
 
     # get the number of matches played between May 2010 and March 2013
     main_df = pd.read_csv(proc_path + "series_data.csv")
-    main_df.date = pd.to_datetime(main_df.date)
+    main_df.date_end = pd.to_datetime(main_df.date_end)
 
     # get a list of the test teams
     test_teams = list(set(main_df.home_team))
@@ -184,13 +193,16 @@ def count_matches_from(date_end, proc_path):
     date_mid = pd.to_datetime(datetime.date(date_mid_year, 5, 1))
     date_start = pd.to_datetime(datetime.date(date_start_year, 5, 1))
 
-    main_df = main_df[(main_df.date >= date_start) & (main_df.date <= date_end)]
+    # print(date_mid, date_start)
+
+    main_df = main_df[(main_df.date_end >= date_start) & (main_df.date_end <= date_end)]
+    # print(main_df)
 
     # initialize match count and ratings
     N_team_matches = {team: 0 for team in test_teams}
 
-    for date in main_df.date:
-        N_row = main_df.loc[main_df.date == date]
+    for date in main_df.date_end:
+        N_row = main_df.loc[main_df.date_end == date]
         home_team = N_row.home_team.values[0]
         away_team = N_row.away_team.values[0]
         num_games = N_row.num_matches.values[0]
@@ -368,38 +380,38 @@ def calc_points_per_series(date_start, date_end, proc_path):
             row.date, row.num_matches, [row.home_team, row.away_team]
         )
 
-        month_num = date_end.month
-        month_str = date_end.strftime("%B").upper()
+        month_num_init = date_end.month
         year = date_end.year
 
-        try:
-            start_home_rating = float(
-                ratings_df[
-                    (ratings_df["year"] == year)
-                    & (ratings_df["month"] == month_str)
-                    & (ratings_df["team"] == row.home_team)
-                ].rating
-            )
-        except TypeError:
-            start_home_rating = 0.0
-
-        try:
-            start_away_rating = float(
-                ratings_df[
-                    (ratings_df["year"] == year)
-                    & (ratings_df["month"] == month_str)
-                    & (ratings_df["team"] == row.away_team)
-                ].rating
-            )
-        except TypeError:
-            start_away_rating = 0.0
+        ratings = [0.0, 0.0]
+        for i, team in enumerate([row.home_team, row.away_team]):
+            month_num = month_num_init
+            while month_num > 0:
+                month_str = date_end.strftime("%B").upper()
+                try:
+                    ratings[i] = float(
+                        ratings_df[
+                            (ratings_df["year"] == year)
+                            & (ratings_df["month"] == month_str)
+                            & (ratings_df["team"] == team)
+                        ].rating
+                    )
+                except TypeError:
+                    month_num -= 1
+                    try:
+                        date_end = date_end.replace(month=month_num)
+                    except ValueError:
+                        print(i, team, month_num, year)
+                        ratings[i] = 0.0
+                    continue
+                break
 
         [home_pts, away_pts] = calc_points(
             row.num_matches,
             row.home_team_pts,
             row.away_team_pts,
-            start_home_rating,
-            start_away_rating,
+            ratings[0],
+            ratings[1],
         )
 
         rolling_matches = count_matches_from(date_end, proc_path)
@@ -413,8 +425,8 @@ def calc_points_per_series(date_start, date_end, proc_path):
             rolling_away_matches = 1
 
         data_dict = {
-            "date": pd.to_datetime(datetime.date(year, month_num, 1)),
-            "month": month_num,
+            "date": pd.to_datetime(datetime.date(year, month_num_init, 1)),
+            "month": month_num_init,
             "year": year,
             "home_team": row.home_team,
             "away_team": row.away_team,
@@ -431,6 +443,7 @@ def calc_points_per_series(date_start, date_end, proc_path):
         df = pd.concat([df, df_tmp], ignore_index=True)
 
     # sort df by date
+    print(df)
     df.sort_values(by=["date"], inplace=True)
     df.to_csv(proc_path + "series_points_data.csv")
 
@@ -454,11 +467,14 @@ def propagate_rankings_data(start_year, start_month, end_year, end_month, proc_p
             month_f = 12
 
         for month in range(month_i, month_f + 1):
-            if month > 1:
-                date = datetime.date(year, month - 1, 25)
-            else:
-                date = datetime.date(year - 1, 12, 25)
 
+            if month > 1:
+                date = pd.to_datetime(datetime.date(year, month - 1, 25))
+            else:
+                date = pd.to_datetime(datetime.date(year - 1, 12, 25))
+
+            N_team_matches = count_matches_from(date, proc_path)
+            # print(N_team_matches)
             sum_rating_pts(date, series_df)
 
     return
@@ -469,6 +485,8 @@ def sum_rating_pts(date_end, series_df):
     # get a list of the test teams
     test_teams = list(set(series_df.home_team))
 
+    series_df["date"] = pd.to_datetime(series_df["date"])
+
     # retrieve the starting date
     if date_end.month >= 5:
         date_mid_year = date_end.year - 1
@@ -477,20 +495,16 @@ def sum_rating_pts(date_end, series_df):
 
     date_start_year = date_mid_year - 2
 
-    date_start = pd.to_datetime(datetime.date(date_start_year, 4, 30))
-    date_mid = pd.to_datetime(datetime.date(date_mid_year, 4, 30))
+    date_start = pd.to_datetime(datetime.date(date_start_year, 5, 1))
+    date_mid = pd.to_datetime(datetime.date(date_mid_year, 5, 1))
 
     half_weighting = series_df[
         (series_df["date"] >= date_start) & (series_df["date"] < date_mid)
     ]
 
-    # print(half_weighting)
-
     full_weighting = series_df[
         (series_df["date"] >= date_mid) & (series_df["date"] <= date_end)
     ]
-
-    print(full_weighting)
 
     for team in test_teams:
 
@@ -568,20 +582,23 @@ def aggregate_rankings_data():
             )
         except TypeError:
             start_away_rating = 0.0
-        print(start_home_rating, start_away_rating)
+        # print(start_home_rating, start_away_rating)
 
 
 if __name__ == "__main__":
 
-    calc_points_per_series(
-        "01/05/2009", "01/03/2013", "/home/callow46/test_cricket_stats/data/processed/"
-    )
-    # propagate_rankings_data(
-    #    2009, 5, 2013, 3, "/home/callow46/test_cricket_stats/data/processed/"
-    # )
-    # print(init_ratings_data("/home/callow46/test_cricket_stats/data/processed/"))
+    home_dir = "/home/callow46/test_cricket_stats/"
+    data_dir = home_dir + "data/"
 
-    # series_data_to_csv(
-    #     "../../data/raw/", "../../data/interim/", "../../data/processed/"
+    series_data_to_csv(
+        data_dir + "raw/", data_dir + "interim/", data_dir + "processed/"
+    )
+
+    # calc_points_per_series(
+    #     "01/05/2009", "01/03/2013", "/home/callow46/test_cricket_stats/data/processed/"
     # )
+
+    propagate_rankings_data(2009, 5, 2013, 3, data_dir + "processed/")
+    print(init_ratings_data(data_dir + "processed/"))
+
     # print(calc_points(3, 2, 1, 120, 40))
