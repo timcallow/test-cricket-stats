@@ -108,7 +108,7 @@ def series_data_to_csv(raw_path, interim_path, proc_path):
                     "away_team_pts": team_B_pts,
                 }
 
-                df_tmp = pd.DataFrame(data=output_dict, index=[0])
+                df_tmp = pd.DataFrame(data=output_dict)
                 df = pd.concat([df, df_tmp], ignore_index=True)
 
     # save the dataframe as csv
@@ -355,10 +355,15 @@ def calc_points(num_matches, home_score, away_score, home_rating, away_rating):
     return points_won
 
 
-def calc_points_per_series(date_start, date_end, proc_path):
+def calc_points_per_series(
+    date_start, date_end, proc_path, series_df_csv="series_points_data.csv"
+):
 
-    date_start = pd.to_datetime(date_start, format="%d/%m/%Y")
-    date_end = pd.to_datetime(date_end, format="%d/%m/%Y")
+    try:
+        date_start = pd.to_datetime(date_start, format="%d/%m/%Y")
+        date_end = pd.to_datetime(date_end, format="%d/%m/%Y")
+    except ValueError:
+        pass
 
     # loop through the series data
     series_df = pd.read_csv(proc_path + "series_data.csv")
@@ -366,11 +371,12 @@ def calc_points_per_series(date_start, date_end, proc_path):
     ratings_df = pd.read_csv(proc_path + "rankings_data.csv")
 
     series_df = series_df[
-        (series_df["date"] >= date_start) & (series_df["date"] <= date_end)
+        (series_df["date"] >= date_start) & (series_df["date"] < date_end)
     ]
 
     try:
-        df = pd.read_csv(proc_path + "series_points_data.csv")
+        df = pd.read_csv(proc_path + series_df_csv)
+        df.date = pd.to_datetime(df.date)
     except FileNotFoundError:
         df = pd.DataFrame()
 
@@ -424,6 +430,19 @@ def calc_points_per_series(date_start, date_end, proc_path):
         except KeyError:
             rolling_away_matches = 1
 
+        try:
+            rolling_points = sum_rating_pts(date_end, df)
+        except AttributeError:
+            rolling_points = {row.home_team: 0.0, row.away_team: 0.0}
+            pass
+
+        try:
+            rolling_home_points = rolling_points[row.home_team]
+            rolling_away_points = rolling_points[row.away_team]
+        except KeyError:
+            rolling_home_points = 0.0
+            rolling_away_points = 0.0
+
         data_dict = {
             "date": pd.to_datetime(datetime.date(year, month_num_init, 1)),
             "month": month_num_init,
@@ -437,15 +456,18 @@ def calc_points_per_series(date_start, date_end, proc_path):
             "away_tot_points": away_pts,
             "rolling_home_matches": rolling_home_matches,
             "rolling_away_matches": rolling_away_matches,
+            "rolling_home_points": rolling_home_points,
+            "rolling_away_points": rolling_away_points,
+            "home_rating": round(rolling_home_points / rolling_home_matches, 1),
+            "away_rating": round(rolling_away_points / rolling_away_matches, 1),
         }
 
         df_tmp = pd.DataFrame(data=data_dict, index=[0])
         df = pd.concat([df, df_tmp], ignore_index=True)
 
     # sort df by date
-    print(df)
     df.sort_values(by=["date"], inplace=True)
-    df.to_csv(proc_path + "series_points_data.csv")
+    df.to_csv(proc_path + series_df_csv, index=False)
 
     return df
 
@@ -506,6 +528,8 @@ def sum_rating_pts(date_end, series_df):
         (series_df["date"] >= date_mid) & (series_df["date"] <= date_end)
     ]
 
+    team_pts_dict = {}
+
     for team in test_teams:
 
         team_home_pts = (
@@ -530,9 +554,9 @@ def sum_rating_pts(date_end, series_df):
 
         team_total_points = team_home_pts + team_away_pts
 
-        print(team, team_total_points)
+        team_pts_dict[team] = team_total_points
 
-    return
+    return team_pts_dict
 
 
 def aggregate_rankings_data():
@@ -585,20 +609,97 @@ def aggregate_rankings_data():
         # print(start_home_rating, start_away_rating)
 
 
+def make_new_rankings_data(start_year, start_month, end_year, end_month, proc_path):
+
+    series_df = pd.read_csv(proc_path + "series_data.csv")
+    series_points_df = pd.read_csv(proc_path + "series_points_data.csv")
+    rankings_df = pd.read_csv(proc_path + "rankings_data.csv")
+
+    for year in range(start_year, end_year + 1):
+        if year == start_year:
+            month_i = start_month
+        else:
+            month_i = 1
+        if year == end_year:
+            month_f = end_month
+        else:
+            month_f = 12
+
+        for month in range(month_i, month_f):
+
+            # get the old rankings
+            rankings_old = rankings_by_date(rankings_df, month, year)
+
+            # get the relevant part of the series df
+            # series_df_ym = series_df_by_date(series_df, month, year)
+
+            start_date = datetime.datetime(year, month, 1)
+            if month != 12:
+                end_date = datetime.datetime(year, month + 1, 1)
+            else:
+                end_date = datetime.datetime(year + 1, 1, 1)
+
+            # calculate points per series
+            calc_points_per_series(
+                start_date, end_date, proc_path, series_df_csv="test_series_df.csv"
+            )
+
+            # if len(series_df_ym) > 0:
+            #     print(series_df_ym)
+
+            # else:
+            #     rankings_new = rankings_old
+
+    return
+
+
+def rankings_by_date(rankings_df, month, year):
+
+    # convert the month to a string
+    datetmp = datetime.date(year, month, 1)
+    month_str = datetmp.strftime("%B").upper()
+
+    # return the part of the rankings df with the correct month and year
+    df_ym = rankings_df.loc[
+        (rankings_df["month"] == month_str) & (rankings_df["year"] == year)
+    ]
+
+    return df_ym
+
+
+def series_df_by_date(series_df, month, year):
+
+    # get the start and end date from month and year
+    start_date = datetime.datetime(year, month, 1)
+    if month != 12:
+        end_date = datetime.datetime(year, month + 1, 1)
+    else:
+        end_date = datetime.datetime(year + 1, 1, 1)
+
+    df_ym = series_df.loc[
+        (pd.to_datetime(series_df["date_end"]) >= start_date)
+        & (pd.to_datetime(series_df["date_end"]) < end_date)
+    ]
+
+    return df_ym
+
+
 if __name__ == "__main__":
 
     home_dir = "/home/callow46/test_cricket_stats/"
     data_dir = home_dir + "data/"
 
-    series_data_to_csv(
-        data_dir + "raw/", data_dir + "interim/", data_dir + "processed/"
-    )
-
-    # calc_points_per_series(
-    #     "01/05/2009", "01/03/2013", "/home/callow46/test_cricket_stats/data/processed/"
+    # series_data_to_csv(
+    #     data_dir + "raw/", data_dir + "interim/", data_dir + "processed/"
     # )
 
-    propagate_rankings_data(2009, 5, 2013, 3, data_dir + "processed/")
-    print(init_ratings_data(data_dir + "processed/"))
+    calc_points_per_series(
+        "01/05/2007", "01/03/2013", "/home/callow46/test_cricket_stats/data/processed/"
+    )
+
+    # propagate_rankings_data(2009, 5, 2013, 3, data_dir + "processed/")
+    # print(init_ratings_data(data_dir + "processed/"))
+
+    # make_new_rankings_data(2013, 3, 2013, 4, data_dir + "processed/")
 
     # print(calc_points(3, 2, 1, 120, 40))
