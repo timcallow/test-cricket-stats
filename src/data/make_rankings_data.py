@@ -8,6 +8,7 @@ import os
 from bs4 import BeautifulSoup
 import pandas as pd
 import datetime
+import calendar
 
 
 def series_data_to_csv(raw_path, interim_path, proc_path):
@@ -368,7 +369,7 @@ def calc_points_per_series(
     # loop through the series data
     series_df = pd.read_csv(proc_path + "series_data.csv")
     series_df.date = pd.to_datetime(series_df.date)
-    ratings_df = pd.read_csv(proc_path + "rankings_data.csv")
+    ratings_df = pd.read_csv(proc_path + "rankings_data.csv", index_col=0)
 
     series_df = series_df[
         (series_df["date"] >= date_start) & (series_df["date"] < date_end)
@@ -387,6 +388,7 @@ def calc_points_per_series(
         )
 
         month_num_init = date_end.month
+        month_str = calendar.month_name[month_num_init].upper()
         year = date_end.year
 
         ratings = [0.0, 0.0]
@@ -437,11 +439,14 @@ def calc_points_per_series(
             pass
 
         try:
-            rolling_home_points = rolling_points[row.home_team]
-            rolling_away_points = rolling_points[row.away_team]
+            rolling_home_points = rolling_points[row.home_team] + home_pts
+            rolling_away_points = rolling_points[row.away_team] + away_pts
         except KeyError:
             rolling_home_points = 0.0
             rolling_away_points = 0.0
+
+        home_rating = round(rolling_home_points / rolling_home_matches, 1)
+        away_rating = round(rolling_away_points / rolling_away_matches, 1)
 
         data_dict = {
             "date": pd.to_datetime(datetime.date(year, month_num_init, 1)),
@@ -458,9 +463,21 @@ def calc_points_per_series(
             "rolling_away_matches": rolling_away_matches,
             "rolling_home_points": rolling_home_points,
             "rolling_away_points": rolling_away_points,
-            "home_rating": round(rolling_home_points / rolling_home_matches, 1),
-            "away_rating": round(rolling_away_points / rolling_away_matches, 1),
+            "home_rating": home_rating,
+            "away_rating": away_rating,
         }
+
+        # update the ratings df
+        ratings_new = update_ratings_df(
+            ratings_df,
+            month_str,
+            row.home_team,
+            row.away_team,
+            home_rating,
+            away_rating,
+        )
+
+        # ratings_df = pd.concat([ratings_df, ratings_new], ignore_index=True)
 
         df_tmp = pd.DataFrame(data=data_dict, index=[0])
         df = pd.concat([df, df_tmp], ignore_index=True)
@@ -470,6 +487,56 @@ def calc_points_per_series(
     df.to_csv(proc_path + series_df_csv, index=False)
 
     return df
+
+
+def update_ratings_df(
+    ratings_df, month, home_team, away_team, home_rating, away_rating
+):
+
+    # extract the most recent rankings data
+    ratings_new = ratings_df[-9:]
+
+    # update the month and year
+    if ratings_new.month.iloc[0] != month:
+        ratings_new[["month", "year"]] = ratings_new.apply(
+            lambda x: next_month(x["month"], x["year"]), axis=1, result_type="expand"
+        )
+
+    # update the points
+    ratings_new.loc[ratings_new.team == home_team, "rating"] = home_rating
+    ratings_new.loc[ratings_new.team == away_team, "rating"] = away_rating
+
+    # update the rankings
+    ratings_new.loc[:, "ranking"] = (
+        ratings_new["rating"].rank(method="dense", ascending=False).astype(int)
+    )
+
+    ratings_new.sort_values(by=["ranking"], inplace=True)
+    print(ratings_new)
+
+    return ratings_new
+
+
+def next_month(month: str, year: int) -> tuple:
+    months_dict = {
+        "JANUARY": 1,
+        "FEBRUARY": 2,
+        "MARCH": 3,
+        "APRIL": 4,
+        "MAY": 5,
+        "JUNE": 6,
+        "JULY": 7,
+        "AUGUST": 8,
+        "SEPTEMBER": 9,
+        "OCTOBER": 10,
+        "NOVEMBER": 11,
+        "DECEMBER": 12,
+    }
+    month_num = months_dict[month.upper()]
+    if month_num == 12:
+        return ("JANUARY", year + 1)
+    else:
+        return (list(months_dict.keys())[month_num], year)
 
 
 def propagate_rankings_data(start_year, start_month, end_year, end_month, proc_path):
@@ -694,7 +761,7 @@ if __name__ == "__main__":
     # )
 
     calc_points_per_series(
-        "01/05/2007", "01/03/2013", "/home/callow46/test_cricket_stats/data/processed/"
+        "01/05/2009", "01/03/2013", "/home/callow46/test_cricket_stats/data/processed/"
     )
 
     # propagate_rankings_data(2009, 5, 2013, 3, data_dir + "processed/")
