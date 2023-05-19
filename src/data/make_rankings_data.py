@@ -396,7 +396,9 @@ def calc_points_per_series(
             lastdate_ratings.year == date_end.year
             and lastdate_ratings.month < date_end.month
         ):
-            ratings_df = bump_rankings_data(df, ratings_df)
+            ratings_df = bump_rankings_data(
+                df, ratings_df, date_end.month, date_end.year
+            )
 
         month_str = calendar.month_name[month_num_init].upper()
         year = date_end.year
@@ -500,7 +502,7 @@ def calc_points_per_series(
     return df
 
 
-def bump_rankings_data(sp_df, ratings_df):
+def bump_rankings_data(sp_df, ratings_df, month, year):
 
     # old_month, old_year = (
     #     sp_df.iloc[-1].month,
@@ -509,14 +511,18 @@ def bump_rankings_data(sp_df, ratings_df):
 
     rt_df = ratings_df.iloc[-9:]
 
-    rt_df[["month", "year"]] = rt_df.apply(
-        lambda x: next_month(x["month"], x["year"]), axis=1, result_type="expand"
-    )
+    # TODO change this: needs to take the month from sp_df NOT rt_df
+    # rt_df[["month", "year"]] = rt_df.apply(
+    #     lambda x: next_month(x["month"], x["year"]), axis=1, result_type="expand"
+    # )
 
     # new_month_str = month_to_str(new_month)
 
     # rt_df["month"] = new_month_str
     # rt_df["year"] = new_year
+
+    rt_df["month"] = month_to_str(month)
+    rt_df["year"] = year
 
     # Handling home teams
     sp_df_home = sp_df[["home_team", "home_rating", "date"]].copy()
