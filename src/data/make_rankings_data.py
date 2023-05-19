@@ -416,6 +416,7 @@ def calc_points_per_series(
                         ].rating
                     )
                 except TypeError:
+                    print(month_str, year, team)
                     month_num -= 1
                     try:
                         date_end = date_end.replace(month=month_num)
@@ -494,24 +495,28 @@ def calc_points_per_series(
     # sort df by date
     df.sort_values(by=["date"], inplace=True)
     df.to_csv(proc_path + series_df_csv, index=False)
-    ratings_df.to_csv(proc_path + "rankings_data.csv", index=False)
+    ratings_df.to_csv(proc_path + "rankings_data.csv")
 
     return df
 
 
 def bump_rankings_data(sp_df, ratings_df):
 
-    new_month, new_year = (
-        sp_df.iloc[-1].month,
-        sp_df.iloc[-1].year,
-    )
-
-    new_month_str = month_to_str(new_month)
+    # old_month, old_year = (
+    #     sp_df.iloc[-1].month,
+    #     sp_df.iloc[-1].year,
+    # )
 
     rt_df = ratings_df.iloc[-9:]
 
-    rt_df["month"] = new_month_str
-    rt_df["year"] = new_year
+    rt_df[["month", "year"]] = rt_df.apply(
+        lambda x: next_month(x["month"], x["year"]), axis=1, result_type="expand"
+    )
+
+    # new_month_str = month_to_str(new_month)
+
+    # rt_df["month"] = new_month_str
+    # rt_df["year"] = new_year
 
     # Handling home teams
     sp_df_home = sp_df[["home_team", "home_rating", "date"]].copy()
