@@ -382,6 +382,7 @@ def calc_points_per_series(
         #     row.date, row.num_matches, [row.home_team, row.away_team]
         # )
         date_end = row.date_end
+        date_start = row.date
         month_num_init = date_end.month
 
         month_year_str = (
@@ -469,12 +470,12 @@ def calc_points_per_series(
             "num_matches": row.num_matches,
             "home_score": row.home_team_pts,
             "away_score": row.away_team_pts,
-            "home_tot_points": home_pts,
-            "away_tot_points": away_pts,
+            "home_tot_points": round(home_pts, 1),
+            "away_tot_points": round(away_pts, 1),
             "rolling_home_matches": rolling_home_matches,
             "rolling_away_matches": rolling_away_matches,
-            "rolling_home_points": rolling_home_points,
-            "rolling_away_points": rolling_away_points,
+            "rolling_home_points": round(rolling_home_points, 1),
+            "rolling_away_points": round(rolling_away_points, 1),
             "home_rating": home_rating,
             "away_rating": away_rating,
         }
@@ -497,7 +498,7 @@ def calc_points_per_series(
     # sort df by date
     df.sort_values(by=["date"], inplace=True)
     df.to_csv(proc_path + series_df_csv, index=False)
-    ratings_df.to_csv(proc_path + "rankings_data.csv")
+    # ratings_df.to_csv(proc_path + "rankings_data.csv")
 
     return df
 
@@ -510,16 +511,6 @@ def bump_rankings_data(sp_df, ratings_df, month, year):
     # )
 
     rt_df = ratings_df.iloc[-9:]
-
-    # TODO change this: needs to take the month from sp_df NOT rt_df
-    # rt_df[["month", "year"]] = rt_df.apply(
-    #     lambda x: next_month(x["month"], x["year"]), axis=1, result_type="expand"
-    # )
-
-    # new_month_str = month_to_str(new_month)
-
-    # rt_df["month"] = new_month_str
-    # rt_df["year"] = new_year
 
     rt_df["month"] = month_to_str(month)
     rt_df["year"] = year
@@ -925,7 +916,7 @@ if __name__ == "__main__":
     # )
 
     calc_points_per_series(
-        "01/05/2009", "31/03/2022", "/home/callow46/test_cricket_stats/data/processed/"
+        "01/05/2009", "31/12/2014", "/home/callow46/test_cricket_stats/data/processed/"
     )
 
     # complete_update(
